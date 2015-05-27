@@ -22,7 +22,7 @@ body{
 </head>
 
 
-
+<body>
 
 body { margin: 60px auto; width: 70%; }
 
@@ -61,3 +61,6 @@ ul.posts li { list-style: none; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+
+</body>
