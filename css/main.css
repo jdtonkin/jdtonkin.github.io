@@ -1,6 +1,21 @@
-.main-header {
-  text-align: center;
-}
+<style>
+            body {
+                background: url("mybackgroundimage.gif") repeat;
+            }
+            #banner {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                right: 0px;
+                width: 100%;
+                height: 200px;
+                z-index: -1;
+            }
+        </style>
+    </head>
+    <body>
+        <img id="banner" src="mybannerimage.gif" alt="Banner Image"/>
+        </body>
 
 body { margin: 60px auto; width: 70%; }
 
