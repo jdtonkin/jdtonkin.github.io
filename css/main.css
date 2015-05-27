@@ -23,7 +23,7 @@ body{
 
 
 <body>
-
+<div>
 body { margin: 60px auto; width: 70%; }
 
 a { text-decoration: none; color: #E14000; }
@@ -62,5 +62,5 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
-
+</div>
 </body>
