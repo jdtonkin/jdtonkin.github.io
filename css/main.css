@@ -20,7 +20,7 @@ nav ul, footer ul a {
 }
 
 nav ul a:link { color: #999; }
-nav ul li a:visited { color: #41b6c4; }
+nav ul li a:focus { color: #41b6c4; }
 nav ul li a:hover { color: #E14000; }
 
 
