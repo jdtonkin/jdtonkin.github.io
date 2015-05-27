@@ -20,8 +20,8 @@ nav ul, footer ul a {
 }
 
 nav ul a { color: #999; font-size: 1.1em; font-weight: normal; }
-nav ul .activepage a { color: #E14000; font-size: 1.5em; font-weight: bold;}
-nav ul li .activepage a { color: #E14000; font-size: 1.5em; font-weight: bold;}
+nav ul .activepage a { color: #E14000; font-size: 1.4em; font-weight: bold;}
+nav ul li .activepage a { color: #E14000; font-size: 1.4em; font-weight: bold;}
 nav ul li a:hover { color: #E14000; font-size: 1.1em; font-weight: normal;}
 
 
