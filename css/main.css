@@ -19,21 +19,7 @@ nav ul, footer ul a {
      color: #999;
 }
 
-nav ul {
-   background-color: #00ff7f;       
-   border: 1px solid #999;
-   height: 20px; /*This is an example*/
-   margin: 0px auto;
-   width: 400px;        
- }
-
- nav ul li {
-   background-color: #86182d; /*Example background color*/
-   display: block;
-   float: left;
-   height: 20px; /*This is an example*/
-   width: 80px;  /*This is 20% of 400px*/      
- }
+nav ul { color: #999; }
 nav ul li a:hover { color: #E14000; }
 
 
