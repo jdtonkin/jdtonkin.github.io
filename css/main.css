@@ -19,7 +19,7 @@ nav ul, footer ul a {
      color: #999;
 }
 
-nav ul { color: #999; }
+nav ul a { color: #999; }
 nav ul li a:hover { color: #E14000; }
 
 
