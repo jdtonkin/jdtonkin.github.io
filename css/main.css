@@ -21,7 +21,7 @@ nav ul, footer ul a {
 
 nav ul a { color: #999; font-size: 1.1em; font-weight: normal;}
 nav ul li a:hover { color: #E14000; font-size: 1.1em; font-weight: normal;}
-.active { color: #E14000; font-size: 1.1em; font-weight: bold;}
+nav ul li .active { color: #E14000; font-size: 1.1em; font-weight: bold;}
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
