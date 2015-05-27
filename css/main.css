@@ -14,12 +14,8 @@ h4 { font-size: 1.2em; }
 nav ul, footer ul { font-size: 1em; font-family: 'fira sans'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
-#page-footer a {
+nav ul, a {
      color: #fff;
-}
-
-#page-footer a:hover {
-     color: #fa5705;
 }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
