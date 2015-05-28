@@ -22,6 +22,9 @@ title: Publications
 [<i class="fa fa-fw fa-files-o"></i>]
 [<i class="fa fa-fw fa-code"></i>]
 [<i class="fa fa-fw fa-table"></i>]
+
+
+<a href="http://dx.doi.org/" target="_blank"></a>
 -->
 
 
@@ -61,9 +64,9 @@ title: Publications
 
 <span style="color:#999">[19]</span> **Tonkin, J. D.**, D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal PLOS ONE.pdf) 
 
-<span style="color:#999">[18]</span> **Tonkin, J. D.**, A. Brown, and E. M. Chappell (In press). Small-scale patch complexity, benthic invertebrate colonisation and leaf breakdown in three headwater streams in Bay of Plenty, New Zealand. New Zealand Journal of Marine and Freshwater Research. DOI:10.1080/00288330.2014.980748.
+<span style="color:#999">[18]</span> **Tonkin, J. D.**, A. Brown, and E. M. Chappell (In press). Small-scale patch complexity, benthic invertebrate colonisation and leaf breakdown in three headwater streams in Bay of Plenty, New Zealand. <a href="http://dx.doi.org/10.1080/00288330.2014.980748" target="_blank">New Zealand Journal of Marine and Freshwater Research</a>
 
-<span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). New Zealand Entomologist. DOI:10.1080/00779962.2014.922234. 
+<span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). <a href="http://dx.doi.org/10.1080/00779962.2014.922234" target="_blank">New Zealand Entomologist</a>. 
 
 <span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. PeerJ 2:e465.
 
