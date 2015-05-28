@@ -63,7 +63,7 @@ title: Publications
 
 <span style="color:#999">[18]</span> **Tonkin, J. D.**, A. Brown, and E. M. Chappell (In press). Small-scale patch complexity, benthic invertebrate colonisation and leaf breakdown in three headwater streams in Bay of Plenty, New Zealand. New Zealand Journal of Marine and Freshwater Research. DOI:10.1080/00288330.2014.980748.
 
-<span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, Hemiandrus maculifrons and H. pallitaris (Walker) (Orthoptera: Anostostomatidae). New Zealand Entomologist. DOI:10.1080/00779962.2014.922234. 
+<span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). New Zealand Entomologist. DOI:10.1080/00779962.2014.922234. 
 
 <span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. PeerJ 2:e465.
 
@@ -73,13 +73,13 @@ title: Publications
 
 <span style="color:#999">[13]</span> **Tonkin, J. D.**, S. Stoll, A. Sundermann, and P. Haase. 2014. Dispersal distance and the pool of taxa, but not barriers, determine the colonisation of restored river reaches by benthic invertebrates. Freshwater Biology. doi:10.1111/fwb.12387.
 
-<span style="color:#999">[12]</span> Chappell, E. M., D. S. Webb, and **J. D. Tonkin**. 2014. Notes on sexual size dimorphism, sex ratio and movement of ground weta Hemiandrus maculifrons (Walker) (Orthoptera: Anostostomatidae) in Otanewainuku Forest, Bay of Plenty, New Zealand. New Zealand Entomologist. DOI:10.1080/00779962.2013.856377.
+<span style="color:#999">[12]</span> Chappell, E. M., D. S. Webb, and **J. D. Tonkin**. 2014. Notes on sexual size dimorphism, sex ratio and movement of ground weta *Hemiandrus maculifrons* (Walker) (Orthoptera: Anostostomatidae) in Otanewainuku Forest, Bay of Plenty, New Zealand. New Zealand Entomologist. DOI:10.1080/00779962.2013.856377.
 
 <span style="color:#999">[11]</span> David, B. O., **J. D. Tonkin**, K. W. T. Taipeti and H. Hokianga. 2014. Learning the ropes: mussel spat ropes improve fish and shrimp passage through culverts. Journal of Applied Ecology 51:214-223.
 
 <span style="color:#999">[10]</span> **Tonkin, J. D.**, and R. G. Death. 2014. The combined effects of flow regulation and an artificial flow release on a regulated river. River Research and Applications. DOI: 10.1002/rra.2650.
 
-<span style="color:#999">[9]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Scale dependent effects of productivity and disturbance on diversity in streams. Fundamental and Applied Limnology 182:283-295. Editor’s Choice Open Access
+<span style="color:#999">[9]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Scale dependent effects of productivity and disturbance on diversity in streams. Fundamental and Applied Limnology 182:283-295. <span style="color:#00a1e1">Editor’s Choice Open Access</span>
 
 <span style="color:#999">[8]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Macroinvertebrate drift-benthos trends in a regulated river. Fundamental and Applied Limnology 182:231-245.
 
@@ -89,32 +89,32 @@ title: Publications
 
 <span style="color:#999">[5]</span> **Tonkin, J. D.**, and R. G. Death. 2012. Consistent effects of productivity and disturbance on diversity between landscapes. Ecosphere 3:art108.
 
-<span style="color:#999">[4]</span> **Tonkin, J. D.**, L. A. H. Wright, and B. O. David. 2012. Mussel spat ropes assist redfin bully (Gobiomorphus huttoni) passage through experimental culverts with hydrological barriers. Water 4:683-689.
+<span style="color:#999">[4]</span> **Tonkin, J. D.**, L. A. H. Wright, and B. O. David. 2012. Mussel spat ropes assist redfin bully (*Gobiomorphus huttoni*) passage through experimental culverts with hydrological barriers. Water 4:683-689.
 
 <span style="color:#999">[3]</span> Schwendel, A. C., R. G. Death, I. C. Fuller, and **J. D. Tonkin**. 2012. A new approach to assess bed stability relevant for invertebrate communities in upland streams. River Research and Applications 28:1726-1739.
 
-<span style="color:#999">[2]</span> Collier, K. J., B. Aldridge, B. J. Hicks, J. Kelly, A. Macdonald, B. J. Smith, and J. Tonkin. 2009. Ecological values of Hamilton urban streams (North Island, New Zealand): constraints and opportunities for restoration. New Zealand Journal of Ecology 33:177-189.
+<span style="color:#999">[2]</span> Collier, K. J., B. Aldridge, B. J. Hicks, J. Kelly, A. Macdonald, B. J. Smith, and **J. Tonkin**. 2009. Ecological values of Hamilton urban streams (North Island, New Zealand): constraints and opportunities for restoration. New Zealand Journal of Ecology 33:177-189.
 
 <span style="color:#999">[1]</span> **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? River Research and Applications 25:1219-1231.
 
  
 #Theses
 
-Tonkin J. D. 2011. The effects of productivity and disturbance on diversity in stream communities. PhD thesis, Massey University, New Zealand.
+**Tonkin, J. D.** 2011. The effects of productivity and disturbance on diversity in stream communities. PhD thesis, Massey University, New Zealand.
 
-Tonkin J. D. 2006. The effects of flow regulation on macroinvertebrate drift in the Tongariro River, New Zealand. Unpublished Honours thesis, Massey University, Palmerston North.
+**Tonkin, J. D.** 2006. The effects of flow regulation on macroinvertebrate drift in the Tongariro River, New Zealand. Unpublished Honours thesis, Massey University, Palmerston North.
 
  
 #Reports
 
-David, B., M. Hamer, J. Tonkin, and C. Bourke. 2014. Appropriate use of mussel spat ropes to facilitate passage for stream organisms. Waikato Regional Council Technical Report 2014/29, Hamilton, New Zealand.
+David, B., M. Hamer, **J. Tonkin**, and C. Bourke. 2014. Appropriate use of mussel spat ropes to facilitate passage for stream organisms. Waikato Regional Council Technical Report 2014/29, Hamilton, New Zealand.
 
-Tonkin J. D.,  A. M. F. Macdonald, and M. K. Joy. 2004. Manawatu-Wanganui brown mudfish (Neochanna apoda) survey Report to horizons.mw.
+**Tonkin, J. D.**,  A. M. F. Macdonald, and M. K. Joy. 2004. Manawatu-Wanganui brown mudfish (*Neochanna apoda*) survey Report to horizons.mw.
 
-Tonkin J. D., R. G. Death, and F. Death. 2005. Freshwater fish survey of the lowland Manawatu-Wanganui region Report to horizons.mw.
+**Tonkin J. D.**, R. G. Death, and F. Death. 2005. Freshwater fish survey of the lowland Manawatu-Wanganui region Report to horizons.mw.
 
-Tonkin J. D. 2008. Makino Stream Tributary Fish Survey. Report to Rangitikei District Council, Massey University, Palmerston North.
+**Tonkin, J. D.** 2008. Makino Stream Tributary Fish Survey. Report to Rangitikei District Council, Massey University, Palmerston North.
 
-Tonkin J. D. 2008. Reporoa Stream Fish Survey. Report to Rangitikei District Council, Massey University, Palmerston North.
+**Tonkin J. D.** 2008. Reporoa Stream Fish Survey. Report to Rangitikei District Council, Massey University, Palmerston North.
 
 			
