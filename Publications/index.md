@@ -62,7 +62,7 @@ title: Publications
 
 ###Published
 
-<span style="color:#999">[19]</span> **Tonkin, J. D.**, D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal PLOS ONE.pdf)<span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span>
+<span style="color:#999">[19]</span> **Tonkin, J. D.**, D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal PLOS ONE.pdf)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
 <span style="color:#999">[18]</span> **Tonkin, J. D.**, A. Brown, and E. M. Chappell (In press). Small-scale patch complexity, benthic invertebrate colonisation and leaf breakdown in three headwater streams in Bay of Plenty, New Zealand. <a href="http://dx.doi.org/10.1080/00288330.2014.980748" target="_blank">New Zealand Journal of Marine and Freshwater Research</a>
 
