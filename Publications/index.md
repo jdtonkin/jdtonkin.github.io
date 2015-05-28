@@ -69,7 +69,7 @@ title: Publications
 
 <span style="color:#999">[15]</span> **Tonkin, J. D.**, S. C. Jähnig, and P. Haase. 2014. The rise of riverine flow-ecology and environmental flow research. Environmental Processes. DOI:10.1007/s40710-014-0024-8.
 
-<span style="color:#999">[14]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2014. Periphyton control on stream invertebrate communities: is periphyton architecture more important than biomass? Marine and Freshwater Research. DOI:10.1071/MF13271. pdf 
+<span style="color:#999">[14]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2014. Periphyton control on stream invertebrate communities: is periphyton architecture more important than biomass? Marine and Freshwater Research. DOI:10.1071/MF13271. <span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span
 
 <span style="color:#999">[13]</span> **Tonkin, J. D.**, S. Stoll, A. Sundermann, and P. Haase. 2014. Dispersal distance and the pool of taxa, but not barriers, determine the colonisation of restored river reaches by benthic invertebrates. Freshwater Biology. doi:10.1111/fwb.12387.
 
