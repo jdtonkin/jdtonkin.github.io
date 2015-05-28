@@ -58,7 +58,7 @@ title: Publications
 
 ###In press
 
-<span style="color:#999">[20]</span> Jähnig, S. C., D. N. Shah, R. D. T. Shah, F. Li,  Q. Cai, A. Sundermann, **J. D. Tonkin**, and S. Stendera. (In press). Community-environment relationships of riverine invertebrate communities in central Chinese streams. Environmental Earth Sciences.
+<span style="color:#999">[20]</span> Jähnig, S. C., D. N. Shah, R. D. T. Shah, F. Li,  Q. Cai, A. Sundermann, **J. D. Tonkin**, and S. Stendera. (In press). Community-environment relationships of riverine invertebrate communities in central Chinese streams. Environmental Earth Sciences.<a href="http://dx.doi.org/" target="_blank"></a>
 
 ###Published
 
@@ -68,37 +68,37 @@ title: Publications
 
 <span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). <a href="http://dx.doi.org/10.1080/00779962.2014.922234" target="_blank">New Zealand Entomologist</a>. 
 
-<span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. PeerJ 2:e465.
+<span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. PeerJ 2:e465.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[15]</span> **Tonkin, J. D.**, S. C. Jähnig, and P. Haase. 2014. The rise of riverine flow-ecology and environmental flow research. Environmental Processes. DOI:10.1007/s40710-014-0024-8.
+<span style="color:#999">[15]</span> **Tonkin, J. D.**, S. C. Jähnig, and P. Haase. 2014. The rise of riverine flow-ecology and environmental flow research. <a href="http://dx.doi.org/10.1007/s40710-014-0024-8" target="_blank">Environmental Processes</a>
 
-<span style="color:#999">[14]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2014. Periphyton control on stream invertebrate communities: is periphyton architecture more important than biomass? Marine and Freshwater Research. DOI:10.1071/MF13271. <span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span> 
+<span style="color:#999">[14]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2014. Periphyton control on stream invertebrate communities: is periphyton architecture more important than biomass? <a href="http://dx.doi.org/10.1071/MF13271" target="_blank">Marine and Freshwater Research</a> <span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span> 
 
-<span style="color:#999">[13]</span> **Tonkin, J. D.**, S. Stoll, A. Sundermann, and P. Haase. 2014. Dispersal distance and the pool of taxa, but not barriers, determine the colonisation of restored river reaches by benthic invertebrates. Freshwater Biology. doi:10.1111/fwb.12387.
+<span style="color:#999">[13]</span> **Tonkin, J. D.**, S. Stoll, A. Sundermann, and P. Haase. 2014. Dispersal distance and the pool of taxa, but not barriers, determine the colonisation of restored river reaches by benthic invertebrates. <a href="http://dx.doi.org/10.1111/fwb.12387" target="_blank">Freshwater Biology</a>
 
-<span style="color:#999">[12]</span> Chappell, E. M., D. S. Webb, and **J. D. Tonkin**. 2014. Notes on sexual size dimorphism, sex ratio and movement of ground weta *Hemiandrus maculifrons* (Walker) (Orthoptera: Anostostomatidae) in Otanewainuku Forest, Bay of Plenty, New Zealand. New Zealand Entomologist. DOI:10.1080/00779962.2013.856377.
+<span style="color:#999">[12]</span> Chappell, E. M., D. S. Webb, and **J. D. Tonkin**. 2014. Notes on sexual size dimorphism, sex ratio and movement of ground weta *Hemiandrus maculifrons* (Walker) (Orthoptera: Anostostomatidae) in Otanewainuku Forest, Bay of Plenty, New Zealand. <a href="http://dx.doi.org/10.1080/00779962.2013.856377" target="_blank">New Zealand Entomologist</a>
 
-<span style="color:#999">[11]</span> David, B. O., **J. D. Tonkin**, K. W. T. Taipeti and H. Hokianga. 2014. Learning the ropes: mussel spat ropes improve fish and shrimp passage through culverts. Journal of Applied Ecology 51:214-223.
+<span style="color:#999">[11]</span> David, B. O., **J. D. Tonkin**, K. W. T. Taipeti and H. Hokianga. 2014. Learning the ropes: mussel spat ropes improve fish and shrimp passage through culverts. Journal of Applied Ecology 51:214-223.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[10]</span> **Tonkin, J. D.**, and R. G. Death. 2014. The combined effects of flow regulation and an artificial flow release on a regulated river. River Research and Applications. DOI: 10.1002/rra.2650.
+<span style="color:#999">[10]</span> **Tonkin, J. D.**, and R. G. Death. 2014. The combined effects of flow regulation and an artificial flow release on a regulated river. <a href="http://dx.doi.org/10.1002/rra.2650" target="_blank">River Research and Applications</a>
 
-<span style="color:#999">[9]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Scale dependent effects of productivity and disturbance on diversity in streams. Fundamental and Applied Limnology 182:283-295. <span style="color:#00a1e1">Editor’s Choice Open Access</span>
+<span style="color:#999">[9]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Scale dependent effects of productivity and disturbance on diversity in streams. Fundamental and Applied Limnology 182:283-295. <a href="http://dx.doi.org/" target="_blank"></a> <span style="color:#00a1e1">Editor’s Choice Open Access</span>
 
-<span style="color:#999">[8]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Macroinvertebrate drift-benthos trends in a regulated river. Fundamental and Applied Limnology 182:231-245.
+<span style="color:#999">[8]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Macroinvertebrate drift-benthos trends in a regulated river. Fundamental and Applied Limnology 182:231-245.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[7]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2013. Productivity-diversity relationships for stream invertebrates differ geographically. Aquatic Ecology 47:109-121.
+<span style="color:#999">[7]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2013. Productivity-diversity relationships for stream invertebrates differ geographically. Aquatic Ecology 47:109-121.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[6]</span> **Tonkin, J. D.**, R. G. Death, and K. J. Collier. 2013. Do productivity and disturbance interact to modulate macroinvertebrate diversity in streams? Hydrobiologia 701:159-172.
+<span style="color:#999">[6]</span> **Tonkin, J. D.**, R. G. Death, and K. J. Collier. 2013. Do productivity and disturbance interact to modulate macroinvertebrate diversity in streams? Hydrobiologia 701:159-172.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[5]</span> **Tonkin, J. D.**, and R. G. Death. 2012. Consistent effects of productivity and disturbance on diversity between landscapes. Ecosphere 3:art108.
+<span style="color:#999">[5]</span> **Tonkin, J. D.**, and R. G. Death. 2012. Consistent effects of productivity and disturbance on diversity between landscapes. Ecosphere 3:art108.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[4]</span> **Tonkin, J. D.**, L. A. H. Wright, and B. O. David. 2012. Mussel spat ropes assist redfin bully (*Gobiomorphus huttoni*) passage through experimental culverts with hydrological barriers. Water 4:683-689.
+<span style="color:#999">[4]</span> **Tonkin, J. D.**, L. A. H. Wright, and B. O. David. 2012. Mussel spat ropes assist redfin bully (*Gobiomorphus huttoni*) passage through experimental culverts with hydrological barriers. Water 4:683-689.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[3]</span> Schwendel, A. C., R. G. Death, I. C. Fuller, and **J. D. Tonkin**. 2012. A new approach to assess bed stability relevant for invertebrate communities in upland streams. River Research and Applications 28:1726-1739.
+<span style="color:#999">[3]</span> Schwendel, A. C., R. G. Death, I. C. Fuller, and **J. D. Tonkin**. 2012. A new approach to assess bed stability relevant for invertebrate communities in upland streams. River Research and Applications 28:1726-1739.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[2]</span> Collier, K. J., B. Aldridge, B. J. Hicks, J. Kelly, A. Macdonald, B. J. Smith, and **J. Tonkin**. 2009. Ecological values of Hamilton urban streams (North Island, New Zealand): constraints and opportunities for restoration. New Zealand Journal of Ecology 33:177-189.
+<span style="color:#999">[2]</span> Collier, K. J., B. Aldridge, B. J. Hicks, J. Kelly, A. Macdonald, B. J. Smith, and **J. Tonkin**. 2009. Ecological values of Hamilton urban streams (North Island, New Zealand): constraints and opportunities for restoration. New Zealand Journal of Ecology 33:177-189.<a href="http://dx.doi.org/" target="_blank"></a>
 
-<span style="color:#999">[1]</span> **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? River Research and Applications 25:1219-1231.
+<span style="color:#999">[1]</span> **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? River Research and Applications 25:1219-1231.<a href="http://dx.doi.org/" target="_blank"></a>
 
  
 #Theses
