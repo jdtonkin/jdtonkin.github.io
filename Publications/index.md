@@ -68,7 +68,7 @@ title: Publications
 
 <span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). <a href="http://dx.doi.org/10.1080/00779962.2014.922234" target="_blank">New Zealand Entomologist</a> 38:1-6. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
-<span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. <a href="https://dx.doi.org/10.7717/peerj.465" target="_blank">PeerJ</a> 2:e465. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)[<i class="fa fa-fw fa-table">(INSERT)</i>]<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
+<span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. <a href="https://dx.doi.org/10.7717/peerj.465" target="_blank">PeerJ</a> 2:e465. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)[<i class="fa fa-fw fa-table"></i>](INSERT)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
 <span style="color:#999">[15]</span> **Tonkin, J. D.**, S. C. Jähnig, and P. Haase. 2014. The rise of riverine flow-ecology and environmental flow research. <a href="http://dx.doi.org/10.1007/s40710-014-0024-8" target="_blank">Environmental Processes</a> 1:323-330. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
@@ -78,7 +78,7 @@ title: Publications
 
 <span style="color:#999">[12]</span> Chappell, E. M., D. S. Webb, and **J. D. Tonkin**. 2014. Notes on sexual size dimorphism, sex ratio and movement of ground weta *Hemiandrus maculifrons* (Walker) (Orthoptera: Anostostomatidae) in Otanewainuku Forest, Bay of Plenty, New Zealand. <a href="http://dx.doi.org/10.1080/00779962.2013.856377" target="_blank">New Zealand Entomologist</a> 37:3-92. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
-<span style="color:#999">[11]</span> David, B. O., **J. D. Tonkin**, K. W. T. Taipeti and H. Hokianga. 2014. Learning the ropes: mussel spat ropes improve fish and shrimp passage through culverts. <a href="http://dx.doi.org/10.1111/1365-2664.12178" target="_blank">Journal of Applied Ecology</a> 51:214-223. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)[<i class="fa fa-fw fa-video-o"></i>](INSERT)
+<span style="color:#999">[11]</span> David, B. O., **J. D. Tonkin**, K. W. T. Taipeti and H. Hokianga. 2014. Learning the ropes: mussel spat ropes improve fish and shrimp passage through culverts. <a href="http://dx.doi.org/10.1111/1365-2664.12178" target="_blank">Journal of Applied Ecology</a> 51:214-223. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)[<i class="fa fa-fw fa-file-video-o"></i>](INSERT)
 
 <span style="color:#999">[10]</span> **Tonkin, J. D.**, and R. G. Death. 2014. The combined effects of flow regulation and an artificial flow release on a regulated river. <a href="http://dx.doi.org/10.1002/rra.2650" target="_blank">River Research and Applications</a> 30:329-337. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
