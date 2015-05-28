@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Publications
+title: Research
 ---
 
-##Journal articles
+#Journal articles  
+
 ###In press
 
 [20] Jähnig, S. C., D. N. Shah, R. D. T. Shah, F. Li,  Q. Cai, A. Sundermann, J. D. Tonkin, and S. Stendera. (In press). Community-environment relationships of riverine invertebrate communities in central Chinese streams. Environmental Earth Sciences.
