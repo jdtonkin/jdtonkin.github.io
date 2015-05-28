@@ -15,9 +15,7 @@ h4 { font-size: 1.1em; }
 nav ul, footer ul { font-size: 1em; font-family: 'fira sans'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
-nav ul, footer ul a {
-     color: #999;
-}
+nav ul, footer ul a { color: #999; }
 
 nav ul a { color: #999; font-size: 1.2em; font-weight: normal; }
 nav ul li a { color: #999; font-size:1.2em; font-weight: normal;}
@@ -28,6 +26,7 @@ nav ul li .activepage a:hover { text-decoration: none; color: #E14000;}
 
 
 footer { border-top: 1px solid #d5d5d5; font-size: 1.6em; }
+footer a:hover { color: #E14000; }
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
