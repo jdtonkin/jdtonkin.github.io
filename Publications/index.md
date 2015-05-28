@@ -38,23 +38,23 @@ title: Publications
 
 <span style="color:#999">[30]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*) Context dependency in biodiversity patterns of stream metacommunities. [<i class="fa fa-fw fa-file-text"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
-<span style="color:#999">[29]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (Submitted) Variable elements of metacommunity structure across an aquatic-terrestrial ecotone. Preprint
+<span style="color:#999">[29]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*Submitted*) Variable elements of metacommunity structure across an aquatic-terrestrial ecotone. [<i class="fa fa-fw fa-file-text"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
 
-<span style="color:#999">[28]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (Submitted) Contrasting metacommunity structure and beta diversity in a river-floodplain system.
+<span style="color:#999">[28]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*Submitted*) Contrasting metacommunity structure and beta diversity in a river-floodplain system.
 
-<span style="color:#999">[27]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (Submitted). Three-dimensional range shifts in biodiversity driven by recent climate warming. Preprint
+<span style="color:#999">[27]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
 
-<span style="color:#999">[26]</span> Li, F., **J. D. Tonkin**, and P. Haase. (Submitted). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.
+<span style="color:#999">[26]</span> Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.
 
-<span style="color:#999">[25]</span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (Submitted). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.
+<span style="color:#999">[25]</span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.
 
-<span style="color:#999">[24]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (Submitted). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
+<span style="color:#999">[24]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
 
-<span style="color:#999">[23]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase (Submitted). Environmental controls on river assemblages at the regional scale: the importance of network position. 
+<span style="color:#999">[23]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase (*Submitted*). Environmental controls on river assemblages at the regional scale: the importance of network position. 
 
-<span style="color:#999">[22]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (Submitted). Anthropogenic stress alters community concordance at the river-riparian interface. Preprint
+<span style="color:#999">[22]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*Submitted*). Anthropogenic stress alters community concordance at the river-riparian interface. [<i class="fa fa-fw fa-file-text"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
 
-<span style="color:#999">[21]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig (Submitted). Latitudinal patterns and determinants of stream insect richness across Europe.
+<span style="color:#999">[21]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig (*Submitted*). Latitudinal patterns and determinants of stream insect richness across Europe.
 
 ###In press
 
@@ -68,7 +68,7 @@ title: Publications
 
 <span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). <a href="http://dx.doi.org/10.1080/00779962.2014.922234" target="_blank">New Zealand Entomologist</a>. 
 
-<span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. PeerJ 2:e465.<a href="http://dx.doi.org/" target="_blank"></a><span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
+<span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. <a href="https://dx.doi.org/10.7717/peerj.465" target="_blank">PeerJ</a> 2:e465.<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
 <span style="color:#999">[15]</span> **Tonkin, J. D.**, S. C. Jähnig, and P. Haase. 2014. The rise of riverine flow-ecology and environmental flow research. <a href="http://dx.doi.org/10.1007/s40710-014-0024-8" target="_blank">Environmental Processes</a>
 
