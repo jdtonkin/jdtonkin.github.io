@@ -10,4 +10,4 @@ title: Publications
 
 ###Published
 
-[19] Tonkin, J. D., D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250.  <a href="2015 Tonkin etal PLOS ONE.pdf" target="_blank"><img src="pdf-blue.png" alt="broken" style="height: 1.1em"></a> 
+[19] Tonkin, J. D., D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250.  
