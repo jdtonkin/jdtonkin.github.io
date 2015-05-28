@@ -24,7 +24,7 @@ nav ul .activepage a { color: #E14000; font-size: 1.6em; font-weight: bold;}
 nav ul li .activepage a { color: #E14000; font-size: 1.6em; font-weight: bold;}
 nav ul li .activepage a:hover { text-decoration: none; color: #E14000;}
 
-nav { border-top: 1px solid #d5d5d5; }
+nav { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
 footer { border-top: 1px solid #d5d5d5; font-size: 1.6em; }
 footer a:hover { color: #E14000; }
 
