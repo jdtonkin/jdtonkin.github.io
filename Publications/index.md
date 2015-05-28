@@ -28,13 +28,13 @@ title: Publications
 <a href="http://dx.doi.org/" target="_blank"></a>
 -->
 
-<span style="color:#e14000">[<i class="fa fa-fw fa-file-pdf-o"></i>]</span> Link to published PDF
-<span style="color:#e14000">[<i class="fa fa-fw fa-file-text-o"></i>]</span> Link to preprint
-<span style="color:#e14000">[<i class="fa fa-fw fa-table"></i>]</span> Link to data used in the paper
-<span style="color:#e14000">[<i class="fa fa-fw fa-code"></i>]</span> Link to code used in the paper
-<span style="color:#e14000">[<i class="fa fa-fw fa-file-video-o"></i>]</span> Link to supplementary video footage
-<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span> Open access
-<span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span> Cover photo
+<span style="color:#e14000">[<i class="fa fa-fw fa-file-pdf-o"></i>]</span> Link to published PDF  
+<span style="color:#e14000">[<i class="fa fa-fw fa-file-text-o"></i>]</span> Link to preprint  
+<span style="color:#e14000">[<i class="fa fa-fw fa-table"></i>]</span> Link to data used in the paper  
+<span style="color:#e14000">[<i class="fa fa-fw fa-code"></i>]</span> Link to code used in the paper  
+<span style="color:#e14000">[<i class="fa fa-fw fa-file-video-o"></i>]</span> Link to supplementary video footage  
+<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span> Open access  
+<span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span> Cover photo  
 
 
 #Journal articles  
