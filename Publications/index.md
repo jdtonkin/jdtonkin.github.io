@@ -36,13 +36,13 @@ title: Publications
 
 ###Submitted
 
-<span style="color:#999">[30]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*) Context dependency in biodiversity patterns of stream metacommunities. [<i class="fa fa-fw fa-file-text"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
+<span style="color:#999">[30]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*) Context dependency in biodiversity patterns of stream metacommunities. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
-<span style="color:#999">[29]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*Submitted*) Variable elements of metacommunity structure across an aquatic-terrestrial ecotone. [<i class="fa fa-fw fa-file-text"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
+<span style="color:#999">[29]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*Submitted*) Variable elements of metacommunity structure across an aquatic-terrestrial ecotone. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
 
 <span style="color:#999">[28]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*Submitted*) Contrasting metacommunity structure and beta diversity in a river-floodplain system.
 
-<span style="color:#999">[27]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
+<span style="color:#999">[27]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
 
 <span style="color:#999">[26]</span> Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.
 
@@ -52,7 +52,7 @@ title: Publications
 
 <span style="color:#999">[23]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase (*Submitted*). Environmental controls on river assemblages at the regional scale: the importance of network position. 
 
-<span style="color:#999">[22]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*Submitted*). Anthropogenic stress alters community concordance at the river-riparian interface. [<i class="fa fa-fw fa-file-text"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
+<span style="color:#999">[22]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*Submitted*). Anthropogenic stress alters community concordance at the river-riparian interface. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
 
 <span style="color:#999">[21]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig (*Submitted*). Latitudinal patterns and determinants of stream insect richness across Europe.
 
