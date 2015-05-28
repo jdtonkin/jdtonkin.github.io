@@ -78,27 +78,27 @@ title: Publications
 
 <span style="color:#999">[12]</span> Chappell, E. M., D. S. Webb, and **J. D. Tonkin**. 2014. Notes on sexual size dimorphism, sex ratio and movement of ground weta *Hemiandrus maculifrons* (Walker) (Orthoptera: Anostostomatidae) in Otanewainuku Forest, Bay of Plenty, New Zealand. <a href="http://dx.doi.org/10.1080/00779962.2013.856377" target="_blank">New Zealand Entomologist</a> 37:3-92.
 
-<span style="color:#999">[11]</span> David, B. O., **J. D. Tonkin**, K. W. T. Taipeti and H. Hokianga. 2014. Learning the ropes: mussel spat ropes improve fish and shrimp passage through culverts. Journal of Applied Ecology 51:214-223.<a href="http://dx.doi.org/" target="_blank"></a>
+<span style="color:#999">[11]</span> David, B. O., **J. D. Tonkin**, K. W. T. Taipeti and H. Hokianga. 2014. Learning the ropes: mussel spat ropes improve fish and shrimp passage through culverts. <a href="http://dx.doi.org/10.1111/1365-2664.12178" target="_blank">Journal of Applied Ecology</a> 51:214-223.
 
 <span style="color:#999">[10]</span> **Tonkin, J. D.**, and R. G. Death. 2014. The combined effects of flow regulation and an artificial flow release on a regulated river. <a href="http://dx.doi.org/10.1002/rra.2650" target="_blank">River Research and Applications</a> 30:329-337.
 
-<span style="color:#999">[9]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Scale dependent effects of productivity and disturbance on diversity in streams. Fundamental and Applied Limnology 182:283-295. <a href="http://dx.doi.org/" target="_blank"></a> <span style="color:#00a1e1">Editor’s Choice <i class="fa fa-fw fa-unlock"></i></span>
+<span style="color:#999">[9]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Scale dependent effects of productivity and disturbance on diversity in streams. <a href="http://dx.doi.org/10.1127/1863-9135/2013/0402" target="_blank">Fundamental and Applied Limnology</a> 182:283-295. <span style="color:#00a1e1">Editor’s Choice <i class="fa fa-fw fa-unlock"></i></span>
 
-<span style="color:#999">[8]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Macroinvertebrate drift-benthos trends in a regulated river. Fundamental and Applied Limnology 182:231-245.<a href="http://dx.doi.org/" target="_blank"></a>
+<span style="color:#999">[8]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Macroinvertebrate drift-benthos trends in a regulated river. <a href="http://dx.doi.org/10.1127/1863-9135/2013/0404" target="_blank">Fundamental and Applied Limnology</a> 182:231-245.
 
-<span style="color:#999">[7]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2013. Productivity-diversity relationships for stream invertebrates differ geographically. Aquatic Ecology 47:109-121.<a href="http://dx.doi.org/" target="_blank"></a>
+<span style="color:#999">[7]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2013. Productivity-diversity relationships for stream invertebrates differ geographically. <a href="http://dx.doi.org/10.1007/s10452-013-9429-0" target="_blank">Aquatic Ecology</a> 47:109-121.
 
-<span style="color:#999">[6]</span> **Tonkin, J. D.**, R. G. Death, and K. J. Collier. 2013. Do productivity and disturbance interact to modulate macroinvertebrate diversity in streams? Hydrobiologia 701:159-172.<a href="http://dx.doi.org/" target="_blank"></a>
+<span style="color:#999">[6]</span> **Tonkin, J. D.**, R. G. Death, and K. J. Collier. 2013. Do productivity and disturbance interact to modulate macroinvertebrate diversity in streams? <a href="http://dx.doi.org/10.1007/s10750-012-1248-0" target="_blank">Hydrobiologia</a> 701:159-172.
 
-<span style="color:#999">[5]</span> **Tonkin, J. D.**, and R. G. Death. 2012. Consistent effects of productivity and disturbance on diversity between landscapes. Ecosphere 3:art108.<a href="http://dx.doi.org/" target="_blank"></a> <span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
+<span style="color:#999">[5]</span> **Tonkin, J. D.**, and R. G. Death. 2012. Consistent effects of productivity and disturbance on diversity between landscapes. <a href="http://dx.doi.org/10.1890/ES12-00243.1" target="_blank">Ecosphere</a> 3:art108. <span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
-<span style="color:#999">[4]</span> **Tonkin, J. D.**, L. A. H. Wright, and B. O. David. 2012. Mussel spat ropes assist redfin bully (*Gobiomorphus huttoni*) passage through experimental culverts with hydrological barriers. Water 4:683-689.<a href="http://dx.doi.org/" target="_blank"></a><span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
+<span style="color:#999">[4]</span> **Tonkin, J. D.**, L. A. H. Wright, and B. O. David. 2012. Mussel spat ropes assist redfin bully (*Gobiomorphus huttoni*) passage through experimental culverts with hydrological barriers. <a href="http://dx.doi.org/10.3390/w4030713" target="_blank">Water</a> 4:683-689. <span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
-<span style="color:#999">[3]</span> Schwendel, A. C., R. G. Death, I. C. Fuller, and **J. D. Tonkin**. 2012. A new approach to assess bed stability relevant for invertebrate communities in upland streams. River Research and Applications 28:1726-1739.<a href="http://dx.doi.org/" target="_blank"></a>
+<span style="color:#999">[3]</span> Schwendel, A. C., R. G. Death, I. C. Fuller, and **J. D. Tonkin**. 2012. A new approach to assess bed stability relevant for invertebrate communities in upland streams. <a href="http://dx.doi.org/10.1002/rra.1570" target="_blank">River Research and Applications</a> 28:1726-1739.
 
-<span style="color:#999">[2]</span> Collier, K. J., B. Aldridge, B. J. Hicks, J. Kelly, A. Macdonald, B. J. Smith, and **J. Tonkin**. 2009. Ecological values of Hamilton urban streams (North Island, New Zealand): constraints and opportunities for restoration. New Zealand Journal of Ecology 33:177-189.<a href="http://dx.doi.org/" target="_blank"></a>
+<span style="color:#999">[2]</span> Collier, K. J., B. Aldridge, B. J. Hicks, J. Kelly, A. Macdonald, B. J. Smith, and **J. Tonkin**. 2009. Ecological values of Hamilton urban streams (North Island, New Zealand): constraints and opportunities for restoration. <a href="http://newzealandecology.org/nzje/2893" target="_blank">New Zealand Journal of Ecology</a> 33:177-189.
 
-<span style="color:#999">[1]</span> **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? River Research and Applications 25:1219-1231.<a href="http://dx.doi.org/" target="_blank"></a>
+<span style="color:#999">[1]</span> **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? <a href="http://dx.doi.org/10.1002/rra.1213" target="_blank">River Research and Applications</a> 25:1219-1231.
 
  
 #Theses
