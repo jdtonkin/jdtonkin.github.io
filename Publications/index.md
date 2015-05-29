@@ -72,7 +72,7 @@ title: Publications
 
 <span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). <a href="http://dx.doi.org/10.1080/00779962.2014.922234" target="_blank">New Zealand Entomologist</a> 38:1-6. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
-<span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. <a href="https://dx.doi.org/10.7717/peerj.465" target="_blank">PeerJ</a> 2:e465. [<i class="fa fa-file-pdf-o"></i>](INSERT)[<i class="fa fa-table"></i>](INSERT)<span style="color:#00a1e1"><i class="fa fa-unlock"></i></span>
+<span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. <a href="https://dx.doi.org/10.7717/peerj.465" target="_blank">PeerJ</a> 2:e465. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)[<i class="fa fa-fw fa-table"></i>](INSERT)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
 <span style="color:#999">[15]</span> **Tonkin, J. D.**, S. C. Jähnig, and P. Haase. 2014. The rise of riverine flow-ecology and environmental flow research. <a href="http://dx.doi.org/10.1007/s40710-014-0024-8" target="_blank">Environmental Processes</a> 1:323-330. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
