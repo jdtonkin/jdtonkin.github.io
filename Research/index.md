@@ -3,26 +3,18 @@ layout: default
 title: Research
 ---
 
-#Journal articles  
-
-###In press
-<span style="color:#00a1e1">[20]</span> Jähnig, S. C., D. N. Shah, R. D. T. Shah, F. Li,  Q. Cai, A. Sundermann, **J. D. Tonkin**, and S. Stendera. (*In press*). Community-environment relationships of riverine invertebrate communities in central Chinese streams. Environmental Earth Sciences.
-
-###Published
-
-<span style="color:#00a1e1">[19]</span> **Tonkin, J. D.**, D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250.  [<i class="fa fa-fw fa-file"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-file-o"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-file-text"></i>](2015 Tonkin etal PLOS ONE.pdf)  [<i class="fa fa-fw fa-file-text-o"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-file-code-o"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-files-o"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-database"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-files-o"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-code"></i>](2015 Tonkin etal PLOS ONE.pdf) [<i class="fa fa-fw fa-table"></i>](2015 Tonkin etal PLOS ONE.pdf)
-
-
+#Research Interests  
+- Stream ecology  
+- Community ecology  
+- Metacommunity ecology  
+- Large-scale biodiversity patterns  
+- Ecosystem function  
+- Global change  
+- Restoration ecology  
 
 
+#Research overview
+In general, my research is focused around what promotes and maintains biodiversity, particularly within stream ecosystems. My research crosses the disciplines of community, metacommunity and macroecology. I am particularly interested in ‘big picture’ ecology, assessing mechanisms that promote biodiversity from a macroecological and metacommunity perspective. I focus on a variety of ecological concepts and processes, including linkages between disturbance, productivity and diversity, as well as biodiversity loss, ecosystem function, and community assembly. I also believe in the importance of tackling applied ecological issues such as global change, land-use change, river regulation, restoration and migratory fish passage. Essentially, I am interested in applying ecological theory to effectively manage threatened ecosystems. 
 
-
-
-
-
-
-
-
-[19] Tonkin, J. D., D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250.  <a href="2015 Tonkin etal PLOS ONE.pdf" target="_blank"><img src="pdf-blue.png" alt="broken" style="height: 1.1em"></a> 
-
-[![PDF](pdf-blue.png)](2015 Tonkin etal PLOS ONE.pdf)
+#Main themes
+Freshwater systems are under significant threat from anthropogenic stressors. Yet, while the influence of these stressors on common aspects of biodiversity is relatively well understood, how they influence metacommunity patterns and processes in freshwater systems is much less clear. It is important to understand how environmental influences shape riverine metacommunities so that these systems and their biodiversity can be adequately protected or restored. My current and future research ties these issues together into the following three main themes, focusing on factors that promote and maintain biodiversity in stream networks: 1) **<span style="color:#00a1e1">Community and metacommunity ecology</span>**; 2) **<span style="color:#00a1e1">Global change ecology and macroecology</span>**; and 3) **<span style="color:#00a1e1">Restoration ecology</span>**. I am currrently exploring these three broad themes, particularly focusing on the unique hierarchical and dendritic structure of river networks, and how this structure influences the biodiversity patterns of river communities. 
