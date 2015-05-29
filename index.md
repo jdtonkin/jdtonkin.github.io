@@ -9,7 +9,7 @@ I am currently a postdoctoral researcher at [Senckenberg](http://www.senckenberg
 
 You can read more about [me](About), my [research](Research), and my [publications](Publications) on my website. 
 
-Also find me on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [figshare}(http://figshare.com/authors/Jonathan%20D%20Tonkin/277559), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en), and [twitter](https://twitter.com/jdtonkin).
+Also find me on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en), and [twitter](https://twitter.com/jdtonkin).
 
 <i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com">jdtonkin [at] gmail.com</a>   
 <i class="fa fa-fw fa-envelope-o"></i><a href="mailto:jonathan.tonkin@senckenberg.de">jonathan.tonkin [at] senckenberg.de</a>   
