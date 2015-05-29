@@ -66,9 +66,13 @@ title: Publications
 
 ###Published
 
+<span style="color:#999">2015</span>
+
 <span style="color:#999">[19]</span> **Tonkin, J. D.**, D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal PLOS ONE.pdf)[<i class="fa fa-fw fa-table"></i>](INSERT)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
-<span style="color:#999">[18]</span> **Tonkin, J. D.**, A. Brown, and E. M. Chappell (In press). Small-scale patch complexity, benthic invertebrate colonisation and leaf breakdown in three headwater streams in Bay of Plenty, New Zealand. <a href="http://dx.doi.org/10.1080/00288330.2014.980748" target="_blank">New Zealand Journal of Marine and Freshwater Research</a>. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
+<span style="color:#999">[18]</span> **Tonkin, J. D.**, A. Brown, and E. M. Chappell. 2015. Small-scale patch complexity, benthic invertebrate colonisation and leaf breakdown in three headwater streams in Bay of Plenty, New Zealand. <a href="http://dx.doi.org/10.1080/00288330.2014.980748" target="_blank">New Zealand Journal of Marine and Freshwater Research</a>. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
+
+<span style="color:#999">2014</span>
 
 <span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). <a href="http://dx.doi.org/10.1080/00779962.2014.922234" target="_blank">New Zealand Entomologist</a> 38:1-6. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
@@ -86,6 +90,8 @@ title: Publications
 
 <span style="color:#999">[10]</span> **Tonkin, J. D.**, and R. G. Death. 2014. The combined effects of flow regulation and an artificial flow release on a regulated river. <a href="http://dx.doi.org/10.1002/rra.2650" target="_blank">River Research and Applications</a> 30:329-337. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
+<span style="color:#999">2013</span>
+
 <span style="color:#999">[9]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Scale dependent effects of productivity and disturbance on diversity in streams. <a href="http://dx.doi.org/10.1127/1863-9135/2013/0402" target="_blank">Fundamental and Applied Limnology</a> 182:283-295. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)<span style="color:#00a1e1"> Editor’s Choice <i class="fa fa-fw fa-unlock"></i></span>
 
 <span style="color:#999">[8]</span> **Tonkin, J. D.**, and R. G. Death. 2013. Macroinvertebrate drift-benthos trends in a regulated river. <a href="http://dx.doi.org/10.1127/1863-9135/2013/0404" target="_blank">Fundamental and Applied Limnology</a> 182:231-245. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
@@ -93,6 +99,8 @@ title: Publications
 <span style="color:#999">[7]</span> **Tonkin, J. D.**, R. G. Death, and J. Barquin. 2013. Productivity-diversity relationships for stream invertebrates differ geographically. <a href="http://dx.doi.org/10.1007/s10452-013-9429-0" target="_blank">Aquatic Ecology</a> 47:109-121. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
 
 <span style="color:#999">[6]</span> **Tonkin, J. D.**, R. G. Death, and K. J. Collier. 2013. Do productivity and disturbance interact to modulate macroinvertebrate diversity in streams? <a href="http://dx.doi.org/10.1007/s10750-012-1248-0" target="_blank">Hydrobiologia</a> 701:159-172. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)
+
+<span style="color:#999">2012 and earlier</span>
 
 <span style="color:#999">[5]</span> **Tonkin, J. D.**, and R. G. Death. 2012. Consistent effects of productivity and disturbance on diversity between landscapes. <a href="http://dx.doi.org/10.1890/ES12-00243.1" target="_blank">Ecosphere</a> 3:art108. [<i class="fa fa-fw fa-file-pdf-o"></i>](INSERT)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
