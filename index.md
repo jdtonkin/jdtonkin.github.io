@@ -13,5 +13,5 @@ Also find me on [researchgate](https://www.researchgate.net/profile/Jonathan_Ton
 
 <i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com">jdtonkin [at] gmail.com</a>   
 <i class="fa fa-fw fa-envelope-o"></i><a href="mailto:jonathan.tonkin@senckenberg.de">jonathan.tonkin [at] senckenberg.de</a>   
-<i class="fa fa-fw fa-twitter"></i><a href="http://twitter.com/jdtonkin">twitter</a>   
+<i class="fa fa-fw fa-twitter"></i><a href="http://twitter.com/jdtonkin">@jdtonkin</a>   
    
