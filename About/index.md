@@ -3,9 +3,7 @@ layout: default
 title: About
 ---
 
-
-
-I am a postdoctoral researcher at Senckenberg Research Institute and Natural History Museum. I’m based in the River Ecology and Conservation Department in Gelnhausen, Germany. My research is focused around what promotes and maintains biodiversity, particularly within stream ecosystems.
+I am a postdoctoral researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum in Germany. I’m based in the River Ecology and Conservation [Department](http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26) in Gelnhausen, Germany. Read more about my [research](Research) and [publications](Publications).  
 
 Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/) in New Zealand looking at the interaction between productivity and disturbance on structuring stream invertebrate diversity patterns. I followed that up with a job lecturing in Environmental Management and Marine Studies at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/) in Tauranga, New Zealand. I then spent one year at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), China lecturing Environmental Science.
 
@@ -43,6 +41,9 @@ BSc in Ecology, Massey University, New Zealand, 2005
 #Editorial Boards
 [PeerJ](https://peerj.com/)
 
-Our group's webpage at Senckenberg.
 
-Also find me on researchgate, academia.edu, figshare, google scholar, and twitter.
+Also find me on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en), and [twitter](https://twitter.com/jdtonkin).
+
+<i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com"> jdtonkin [at] gmail.com</a>   
+<i class="fa fa-fw fa-envelope-o"></i><a href="mailto:jonathan.tonkin@senckenberg.de"> jonathan.tonkin [at] senckenberg.de</a>   
+<i class="fa fa-fw fa-twitter"></i><a href="http://twitter.com/jdtonkin"> @jdtonkin</a> 
