@@ -41,9 +41,20 @@ February 2011 – July 2012: Academic Staff Member at [Bay of Plenty Polytechnic
 #Editorial Boards
 [PeerJ](https://peerj.com/)
 
-
-Also find me on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en), and [twitter](https://twitter.com/jdtonkin).
-
+#Contact details
+Jonathan D. Tonkin  
+Department of River Ecology and Conservation
+Senckenberg Research Institute and Natural History Museum
+Research Station Gelnhausen
+Clamecystrasse 12
+63571 Gelnhausen
+Germany
+[www.senckenberg.de](http://www.senckenberg.de)
 <i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com"> jdtonkin [at] gmail.com</a>   
 <i class="fa fa-fw fa-envelope-o"></i><a href="mailto:jonathan.tonkin@senckenberg.de"> jonathan.tonkin [at] senckenberg.de</a>   
 <i class="fa fa-fw fa-twitter"></i><a href="http://twitter.com/jdtonkin"> @jdtonkin</a> 
+
+
+
+Also find me on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en), and [twitter](https://twitter.com/jdtonkin).
+
