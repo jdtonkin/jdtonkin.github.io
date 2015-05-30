@@ -20,6 +20,6 @@ In general, my research is focused around what promotes and maintains biodiversi
 Freshwater systems are under significant threat from anthropogenic stressors. Yet, while the influence of these stressors on common aspects of biodiversity is relatively well understood, how they influence metacommunity patterns and processes in freshwater systems is much less clear. It is important to understand how environmental influences shape riverine metacommunities so that these systems and their biodiversity can be adequately protected or restored. My current and future research ties these issues together into the following three main themes, focusing on factors that promote and maintain biodiversity in stream networks: 1) **Community and metacommunity ecology**; 2) **Global change ecology and macroecology**; and 3) **Restoration ecology**. I am currrently exploring these three broad themes, particularly focusing on the unique hierarchical and dendritic structure of river networks, and how this structure influences the biodiversity patterns of river communities. 
 
 
-<hr></hr>
+<hr>
 
-<a href="http://www.mendeley.com/profiles/jonathan-tonkin/"><img border="0" src="http://www.mendeley.com/embed/icon/2/red/small" alt="Jonathan Tonkin's bibliography"/></a> ![](researchgate.jpeg) ![](academia-logo.gif) ![](linkedin.jpeg)
+<a href="http://www.mendeley.com/profiles/jonathan-tonkin/"><img border="0" src="http://www.mendeley.com/embed/icon/2/red/small" alt="Jonathan Tonkin's bibliography"/></a> ![](researchgate.jpeg =100x20) ![](academia-logo.gif) ![](linkedin.jpeg)
