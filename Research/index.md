@@ -26,5 +26,5 @@ Freshwater systems are under significant threat from anthropogenic stressors. Ye
 <img src="researchgate.jpeg"  style="width: 130px;"/>  
 <img src="academia-logo.gif"  style="width: 130px;"/>  
 <img src="linkedin.jpeg"  style="width: 130px;"/>
-<iframe src="http://figshare.com/badges/3/277559" frameborder="0" height="25" width="140"></iframe>
+<iframe src="http://figshare.com/badges/3/277559" frameborder="0" height="25" width="130"></iframe>
 
