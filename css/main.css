@@ -29,7 +29,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
 /* Blog */
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts { margin: 20px auto 40px; font-size: 1.1em; }
 ul.posts li { list-style: none; }
 
 /* CV */
