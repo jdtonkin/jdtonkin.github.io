@@ -22,4 +22,4 @@ Freshwater systems are under significant threat from anthropogenic stressors. Ye
 
 <hr></hr>
 
-<a href="http://www.mendeley.com/profiles/jonathan-tonkin/"><img border="0" src="http://www.mendeley.com/embed/icon/2/red/small" alt="Jonathan Tonkin's bibliography"/></a>
+<a href="http://www.mendeley.com/profiles/jonathan-tonkin/"><img border="0" src="http://www.mendeley.com/embed/icon/2/red/small" alt="Jonathan Tonkin's bibliography"/></a> [](researchgate.jpeg) [](academia-logo.gif) [](linkedin.jpeg)
