@@ -7,7 +7,7 @@ title: About
 
 I am a postdoctoral researcher at Senckenberg Research Institute and Natural History Museum. I’m based in the River Ecology and Conservation Department in Gelnhausen, Germany. My research is focused around what promotes and maintains biodiversity, particularly within stream ecosystems.
 
-Prior to this, I gained a PhD from Massey University in New Zealand looking at the interaction between productivity and disturbance on structuring stream invertebrate diversity patterns. I followed that up with a job lecturing in Environmental Management and Marine Studies at Bay of Plenty Polytechnic in Tauranga, New Zealand. I then spent one year at Xi’an Jiaotong-Liverpool University in Suzhou, China lecturing Environmental Science.
+Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/) in New Zealand looking at the interaction between productivity and disturbance on structuring stream invertebrate diversity patterns. I followed that up with a job lecturing in Environmental Management and Marine Studies at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/) in Tauranga, New Zealand. I then spent one year at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), China lecturing Environmental Science.
 
 #Research Interests
 - Stream ecology
@@ -41,7 +41,7 @@ BSc in Ecology, Massey University, New Zealand, 2005
 
 
 #Editorial Boards
-PeerJ
+[PeerJ](https://peerj.com/)
 
 Our group's webpage at Senckenberg.
 
