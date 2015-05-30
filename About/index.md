@@ -42,16 +42,16 @@ February 2011 – July 2012: Academic Staff Member at [Bay of Plenty Polytechnic
 [PeerJ](https://peerj.com/)
 
 #Contact details
-Jonathan D. Tonkin  
-Department of River Ecology and Conservation
-Senckenberg Research Institute and Natural History Museum
-Research Station Gelnhausen
-Clamecystrasse 12
-63571 Gelnhausen
-Germany
-[www.senckenberg.de](http://www.senckenberg.de)
-<i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com"> jdtonkin [at] gmail.com</a>   
-<i class="fa fa-fw fa-envelope-o"></i><a href="mailto:jonathan.tonkin@senckenberg.de"> jonathan.tonkin [at] senckenberg.de</a>   
+**Jonathan D. Tonkin**  
+Department of River Ecology and Conservation  
+Senckenberg Research Institute and Natural History Museum  
+Research Station Gelnhausen  
+Clamecystrasse 12  
+63571 Gelnhausen  
+Germany  
+[www.senckenberg.de](http://www.senckenberg.de)  
+<i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com"> jdtonkin [at] gmail.com</a>     
+<i class="fa fa-fw fa-envelope-o"></i><a href="mailto:jonathan.tonkin@senckenberg.de"> jonathan.tonkin [at] senckenberg.de</a>     
 <i class="fa fa-fw fa-twitter"></i><a href="http://twitter.com/jdtonkin"> @jdtonkin</a> 
 
 
