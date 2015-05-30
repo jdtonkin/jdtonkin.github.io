@@ -19,6 +19,8 @@ In general, my research is focused around what promotes and maintains biodiversi
 #Main themes
 Freshwater systems are under significant threat from anthropogenic stressors. Yet, while the influence of these stressors on common aspects of biodiversity is relatively well understood, how they influence metacommunity patterns and processes in freshwater systems is much less clear. It is important to understand how environmental influences shape riverine metacommunities so that these systems and their biodiversity can be adequately protected or restored. My current and future research ties these issues together into the following three main themes, focusing on factors that promote and maintain biodiversity in stream networks: 1) **Community and metacommunity ecology**; 2) **Global change ecology and macroecology**; and 3) **Restoration ecology**. I am currrently exploring these three broad themes, particularly focusing on the unique hierarchical and dendritic structure of river networks, and how this structure influences the biodiversity patterns of river communities. 
 
+<iframe src="http://figshare.com/badges/4/277559" frameborder="0" height="25" width="260"></iframe>
+
 <!--
 <hr>
 
