@@ -31,7 +31,7 @@ footer a:hover { color: #E14000; }
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.1em; line-height: 1.3em; font-family: 'fira sans'}
 ul.posts li { list-style: none; }
-h1 { font-size: 1.6em; font-weight: normal; color: #E14000; }
+h1.posts { font-size: 1.6em; font-weight: normal; color: #E14000; }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
