@@ -17,11 +17,15 @@ title: About
 
 <img class="pure-img" src="JTpic_small.jpg" size="300px">
 <p></p>
+<img class="pure-img" src="caddis_home.jpg" size="300px">
+<p></p>
 <img class="pure-img" src="JT_Damsel_edited_small.JPG" size="300px">
 <p></p>
 <img class="pure-img" src="moki_tree_small.JPG" size="300px">
 <p></p>
 <img class="pure-img" src="Waihohonu stream small.jpg" size="300px">
+<p></p>
+<img class="pure-img" src="lofoten_peak_small.jpg" size="300px">
 <p></p>
 <img class="pure-img" src="JT_stone_small.JPG" size="300px">
 <p></p>
