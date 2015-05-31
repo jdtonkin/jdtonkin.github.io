@@ -3,6 +3,7 @@ layout: default
 title: 'Home'
 ---
 
+<p>
 <div style="width:100%;">
     <div style="float:left; width:35%;">
     
@@ -18,7 +19,7 @@ title: 'Home'
 
     </div>
 </div>
-
+</p>
 
 
 
