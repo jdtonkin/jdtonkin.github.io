@@ -21,6 +21,8 @@ title: Links
 - [ConservationBytes](http://conservationbytes.com/)  
 - [Small Pond Science](http://smallpondscience.com/)  
 - [The EEB and Flow](evol-eco.blogspot.com)
+- [i'm a chordata! urochordata!](http://www.imachordata.com/)  
+- [Jaberwocky Ecology](http://jabberwocky.weecology.org/)  
 
 # Graphing tools
 - [ggplot](http://docs.ggplot2.org/current/) R package  
