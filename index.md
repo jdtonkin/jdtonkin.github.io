@@ -18,7 +18,7 @@ title: 'Home'
     </div>
 </div>
 
-
+<div style="clear:both"></div>
 
 
 
