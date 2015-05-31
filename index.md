@@ -2,7 +2,7 @@
 layout: default
 title: 'Home'
 ---
-<div>
+<div class="pure-g">
 <div class="pure-u-1-2" >
 
 <!-- makes image scalable
