@@ -5,7 +5,7 @@ title: 'Home'
 
 <style>
     .l-box {
-        padding: 5em;
+        padding: 2em;
     }
 </style>
 
