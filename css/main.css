@@ -28,19 +28,6 @@ nav { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
 footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
-.wrap {
-    width: 100%;
-}
-
-.floatleft_frontpage {
-    float:left; 
-    width=35;
-}
-
-.floatright_frontpage {
-float: right;
-width=65;
-}
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.1em; line-height: 1.3em; font-family: 'fira sans'}
