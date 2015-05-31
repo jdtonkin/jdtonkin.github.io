@@ -28,7 +28,7 @@ nav { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
 footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
-html, .pure-g [class *= "pure-u"]{ margin: 60px auto; 
+html, .pure-g [class *= "pure-u"]{ width: 70%;
 }
 
 /* Blog */
