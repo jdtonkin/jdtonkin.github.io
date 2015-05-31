@@ -3,7 +3,7 @@ layout: default
 title: 'Home'
 ---
 
-
+<div id="container" style="width:100%;">   
 
 <div  style="float:left; width:40%;">
 <img src="banner3.jpg"  style="width: 300px;"/>  
@@ -14,7 +14,7 @@ I study factors that promote and maintain biodiversity from a community, metacom
 
 I am currently a postdoctoral researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum in Germany. I’m based in the River Ecology and Conservation [Department](http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26) in Gelnhausen, Germany. You can read more about [me](about) (including contact details), my [research](research), and my [publications](publications) on my website. 
 </div>
-
+</div>
 
 
 
