@@ -14,7 +14,7 @@ title: 'Home'
 
 <div class="l-box"> 
 <!-- pure-img makes image scalable-->
-<img Vspace="20px" class="pure-img" src="banner_bw.jpg" size="300px">
+<img class="pure-img" src="banner_bw.jpg" size="300px">
 </div>
 
 
