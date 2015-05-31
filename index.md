@@ -3,7 +3,7 @@ layout: default
 title: 'Home'
 ---
 
-<div id="container" class="p" style="width:100%;"  >   
+<div id="container" class=p style="width:100%;"  >   
 
 <div  style="float:left; width:40%;">
 <img src="banner3.jpg"  style="width: 300px;"/>  
