@@ -3,6 +3,26 @@ layout: default
 title: About
 ---
 
+<style>
+    .l-box {
+        padding: 2em;
+    }
+</style>
+
+<div class="pure-g">
+<div class="pure-u-1-4" >
+
+<div class="l-box"> 
+<!-- pure-img makes image scalable-->
+<img class="pure-img" src="JT_Damsel_edited_small.JPG" size="300px">
+</div>
+
+
+</div>
+
+<div class="pure-u-3-4"  markdown="1">
+
+
 I am a postdoctoral researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum in Germany. I’m based in the River Ecology and Conservation [Department](http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26) in Gelnhausen, Germany. Read more about my [research](research) and [publications](publications).  
 
 Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/) in New Zealand looking at the interaction between productivity and disturbance on structuring stream invertebrate diversity patterns. I followed that up with a job lecturing in Environmental Management and Marine Studies at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/) in Tauranga, New Zealand. I then spent one year at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), China lecturing Environmental Science.
@@ -58,3 +78,5 @@ Germany
 
 Also find me on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en), and [twitter](https://twitter.com/jdtonkin).
 
+</div>
+</div>
