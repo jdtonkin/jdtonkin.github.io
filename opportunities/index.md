@@ -3,7 +3,7 @@ layout: default
 title: Opportunities
 ---
 
-<img class="pure-img" src="zjj_stream_cropped_small.jpeg" >
+<img class="pure-img" src="flower_banner_small.JPG" >
 
 # Prospective students
 
