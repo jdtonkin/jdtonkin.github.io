@@ -4,7 +4,7 @@ title: 'Home'
 ---
 <div>
 <div class="pure-g">
-<div class="pure-u-md-1-2" >
+<div class="pure-u-1 pure-u-md-1-2" >
 
 <!-- makes image scalable
 <img class="pure-img" src="...">
@@ -16,7 +16,7 @@ title: 'Home'
 
 </div>
 
-<div class="pure-u-md-1-2" >
+<div class="pure-u-1 pure-u-md-1-2" >
 
 <p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. </p>
 
