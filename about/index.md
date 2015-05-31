@@ -5,7 +5,7 @@ title: About
 
 <style>
     .l-box {
-        padding: 1em;
+        padding: 1.1em;
     }
 </style>
 
