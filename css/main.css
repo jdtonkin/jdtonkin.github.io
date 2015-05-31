@@ -8,7 +8,7 @@ a:hover { text-decoration: underline; }
 p, ul { font-size: 1.1em; line-height: 1.3em; color: #333; font-family: 'fira sans'}
 
 h1, h2, h3, h4 { font-family: 'fira sans'; }
-h1 { font-size: 1.4em;  }
+h1 { font-size: 1.4em; font-weight: 600;}
 h2 { font-size: 1.2em; }
 h3 { font-size: 1.1em; }
 
