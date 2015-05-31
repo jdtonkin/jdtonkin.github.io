@@ -14,6 +14,8 @@ title: About
 
 <div class="l-box"> 
 <!-- pure-img makes image scalable-->
+
+<img class="pure-img" src="JTpic_small.jpg" size="300px">
 <img class="pure-img" src="JT_Damsel_edited_small.JPG" size="300px">
 </div>
 
