@@ -6,7 +6,7 @@ title: 'Home'
 <div class="pure-u-1-2" >
 
 <!-- makes image scalable-->
-<img Vspace="20px" class="pure-img" src="banner_bw.jpg" size="300px">
+<img Vspace="20px" class="pure-img" src="banner_bw.jpg" size="250px">
 
 
 
