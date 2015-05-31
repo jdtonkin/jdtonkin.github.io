@@ -2,7 +2,7 @@
 layout: default
 title: 'Home'
 ---
-
+<div>
 <div class="pure-g">
 <div class="pure-u-1-2" >
 
@@ -18,6 +18,7 @@ title: 'Home'
 
 <p>I am currently a postdoctoral researcher at <a href="http://www.senckenberg.de/root/index.php?page_id=71">Senckenberg</a> Research Institute and Natural History Museum in Germany. I’m based in the River Ecology and Conservation <a href="http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26">Department</a> in Gelnhausen, Germany. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on my website. </p>
 
+</div>
 </div>
 </div>
 
