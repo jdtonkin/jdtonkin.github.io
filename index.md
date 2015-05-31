@@ -3,6 +3,11 @@ layout: default
 title: 'Home'
 ---
 
+<style>
+    .l-box {
+        padding: 1em;
+    }
+</style>
 
 <div class="pure-g">
 <div class="pure-u-1-2" >
