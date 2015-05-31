@@ -3,7 +3,7 @@ layout: default
 title: 'Home'
 ---
 
-<img src="banner3.jpeg"  style="width: 130px;"/> 
+<img src="banner3.jpg"  style="width: 300px;"/> 
 
 I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. 
 
