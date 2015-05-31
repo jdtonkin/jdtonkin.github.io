@@ -40,7 +40,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 #Journal articles  
 
-###Submitted
+##Submitted
 
 <span style="color:#999">[30]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*) Context dependency in biodiversity patterns of stream metacommunities. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
@@ -62,9 +62,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[21]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig (*Submitted*). Latitudinal patterns and determinants of stream insect richness across Europe.
 
-###In press
+##In press
 
-###Published
+##Published
 
 **<span style="color:#999">2015</span>**  
 
