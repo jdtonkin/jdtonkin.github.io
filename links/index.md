@@ -3,6 +3,8 @@ layout: default
 title: Links
 ---
 
+<img class="pure-img" src="green_cropped_small.JPG" >
+
 # Societies I'm a member of
 - [New Zealand Freshwater Sciences Society](http://freshwater.science.org.nz/index.php/) (NZFSS)
 - [Society for Freshwater Science](http://www.freshwater-science.org/default.aspx) (SFS; formerly NABS)
