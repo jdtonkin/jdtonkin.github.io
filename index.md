@@ -2,12 +2,20 @@
 layout: default
 title: 'Home'
 ---
+
+<style>
+    .l-box {
+        padding: 1em;
+    }
+</style>
+
 <div class="pure-g">
 <div class="pure-u-1-2" >
 
-<!-- makes image scalable-->
-<img Vspace="20px" Hspace="30px 30px" class="pure-img" src="banner_bw.jpg" size="100px">
-
+<div class="l-box"> ... </div>
+<!-- pure-img makes image scalable-->
+<img Vspace="20px" class="pure-img" src="banner_bw.jpg" size="300px">
+</div>
 
 
 </div>
