@@ -32,12 +32,14 @@ footer a:hover { color: #E14000; }
     width: 100%;
 }
 
-.floatleft {
+.floatleft_frontpage {
     float:left; 
+    width=35;
 }
 
-.floatright {
+.floatright_frontpage {
 float: right;
+width=65;
 }
 
 /* Blog */
