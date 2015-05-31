@@ -4,7 +4,7 @@ title: 'Home'
 ---
 
 <div class="wrap">
-    <div class="floatleft">
+    <div class="floatleft" width=10%>
     <img src="banner3.jpg"  style="width: 300px;"/>  
     </div>
     
