@@ -3,6 +3,8 @@ layout: default
 title: Research
 ---
 
+<img class="pure-img" src="zjj_stream_cropped_small.jpeg" >
+
 #Research Interests  
 - Stream ecology  
 - Community ecology  
