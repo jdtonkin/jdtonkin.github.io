@@ -6,7 +6,7 @@ title: 'Home'
 <div style="width:100%;">
     <div style="float:left; width:35%;">
     
-        <img src="banner3.jpg"  style="width: 300px;"/>  
+        <img Hspace="20" src="banner3.jpg"  style="width: 300px;"/>  
         
     </div>
     
