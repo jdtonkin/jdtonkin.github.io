@@ -29,7 +29,7 @@ title: 'Home'
 </div>
 </div>
 
-<hr style="height: 1px; color:#d5d5d5;" >
+<hr style="height: 1px; color:#d5d5d5; border:none; background-color:#d5d5d5;" />
 
 # Latest news/posts
 
