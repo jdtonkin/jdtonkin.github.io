@@ -8,9 +8,9 @@ a:hover { text-decoration: underline; }
 p, ul { font-size: 1.1em; line-height: 1.3em; color: #333; font-family: 'fira sans'}
 
 h1, h2, h3, h4 { font-family: 'fira sans'; }
-h1 { font-size: 1.3em !important; font-weight: 600;}
-h2 { font-size: 1.2em !important; font-weight: 600; }
-h3 { font-size: 1.1em !important; font-weight: 600; }
+h1 { font-size: 1.3em; font-weight: 600;}
+h2 { font-size: 1.2em; font-weight: 600; }
+h3 { font-size: 1.1em; font-weight: 600; }
 
 
 nav ul, footer ul { font-size: 1em; font-family: 'fira sans'; padding: 0px; list-style: none; font-weight: bold; }
