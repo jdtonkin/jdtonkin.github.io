@@ -34,12 +34,11 @@ title: 'Home'
 # Latest news/posts
 
 <ul class="posts">
-
+<!-- the below show's the latest 5 posts and adds a bit of text (first 25 words) from post as well as the title-->
 	  {% for post in site.posts limit:5 %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> » 
 	    {{ post.content | strip_html | truncatewords:25}} 
 	    <a href="{{ post.url }}">Read more...</a></li>
-	    <br><br>
 	  {% endfor %}
 	</ul>
 	
