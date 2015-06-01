@@ -36,7 +36,7 @@ title: 'Home'
 <ul class="posts">
 <!-- the below show's the latest 5 posts and adds a bit of text (first 20 words) from post as well as the title-->
 	  {% for post in site.posts limit:5 %}
-	    <li><span style="font-weight: bold;" >{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> » 
+	    <li><span style="font-color: #999;" >{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> » 
 	    {{ post.content | strip_html | truncatewords:20}} 
 	    <a href="{{ post.url }}">Read more...</a></li>
 	    <br>
