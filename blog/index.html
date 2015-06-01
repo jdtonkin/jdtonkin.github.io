@@ -15,3 +15,11 @@ title: Blog
 
 
 <span>{{ post.date }}</span>
+
+
+<dl class="dl-horizontal" id="dl-post-list">
+          {% for post in site.posts %}
+              <dt>{{ post.date | date_to_long_string }}</dt> » 
+              <dd><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></dd>
+          {% endfor %}
+            </dl>
