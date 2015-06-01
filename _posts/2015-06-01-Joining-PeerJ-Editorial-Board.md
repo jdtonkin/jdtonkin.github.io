@@ -2,7 +2,7 @@
 layout: post
 title: "Joining PeerJ Editorial Board"
 date: 2015-06-01
-Tags: 
+tags: 
 - general
 - editing
 - science
