@@ -3,6 +3,10 @@ layout: default
 title: About
 ---
 
+
+
+<img class="pure-img" src="about_banner.png" >
+
 <style>
     .l-box {
         padding: 1.2em;
