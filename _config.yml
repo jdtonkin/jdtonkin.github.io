@@ -1,3 +1,12 @@
 name: Jonathan Tonkin
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jdtonkin.github.io" # the base hostname & protocol for your site
+
+title: jdtonkin.github.io
+
+# Contact and social media links
+email: jdtonkin@gmail.com
+twitter_username: jdtonkin
