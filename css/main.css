@@ -32,6 +32,8 @@ footer a:hover { color: #E14000; }
 .share-page {
     text-align: left; font-family: 'fira sans'; color: #999;
 }
+.share-page a { font-family: 'fira sans'; color: #999;}
+.share-page a:hover { text-decoration: none; color: #E14000;}
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.1em; line-height: 1.3em; font-family: 'fira sans'}
