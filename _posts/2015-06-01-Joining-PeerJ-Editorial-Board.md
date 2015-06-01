@@ -3,10 +3,11 @@ layout: post
 title: "Joining PeerJ Editorial Board"
 date: 2015-06-01
 tags: 
-- general
-- editing
-- science
-- publishing
+- General
+- Editing
+- Science
+- Publishing
+category: General
 ---
 
 I'm very excited to announce that I have recently joined the Editorial Board of [PeerJ](https://peerj.com/). I'm really looking forward to handling my first manuscript. 
