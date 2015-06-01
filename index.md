@@ -37,8 +37,8 @@ title: 'Home'
 
 	  {% for post in site.posts limit:5 %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	    {{ post.content | strip_html | truncatewords:75}}<br>
-            <a href="{{ post.url }}">Read more...</a><br><br>
+	    {{ post.content | strip_html | truncatewords:75}}... 
+	    <a href="{{ post.url }}">Read more...</a><br><br>
 	  {% endfor %}
 	</ul>
 	
