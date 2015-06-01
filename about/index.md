@@ -23,9 +23,9 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 
 #Academic Positions
 
-September 2013 – Present: Postdoctoral Researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum, Gelnhausen, Germany.   
-August 2012 – August 2013: Lecturer at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), SIP, Suzhou, Jiangsu Province, China.  
-February 2011 – July 2012: Academic Staff Member at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/), Tauranga, New Zealand.  
+**September 2013 – Present:** Postdoctoral Researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum, Gelnhausen, Germany.   
+**August 2012 – August 2013:** Lecturer at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), SIP, Suzhou, Jiangsu Province, China.  
+**February 2011 – July 2012:** Academic Staff Member at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/), Tauranga, New Zealand.  
 
 
 #Education
