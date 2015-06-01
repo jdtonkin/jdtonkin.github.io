@@ -30,7 +30,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
 .share-page {
-    text-align: left; font-family: 'fira sans'; 
+    text-align: left; font-family: 'fira sans'; color: #999;
 }
 
 /* Blog */
