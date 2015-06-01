@@ -14,12 +14,14 @@ title: About
 </style>
 
 <div class="pure-g">
-<div class="pure-u-1-4" >
+<div class="pure-u-1-5" >
 
 <div class="l-box"> 
 <!-- pure-img makes image scalable-->
 
 <img class="pure-img" src="JTpic_small.jpg" size="300px">
+
+<!--
 <p></p>
 <img class="pure-img" src="caddis_home.jpg" size="300px">
 <p></p>
@@ -34,7 +36,7 @@ title: About
 <img class="pure-img" src="JT_stone_small.JPG" size="300px">
 <p></p>
 <img class="pure-img" src="moki_trib_small.JPG" size="300px">
-
+-->
 
 
 
@@ -46,7 +48,7 @@ title: About
 
 </div>
 
-<div class="pure-u-3-4"  markdown="1">
+<div class="pure-u-4-5"  markdown="1">
 
 
 I am a postdoctoral researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum in Germany. I’m based in the River Ecology and Conservation [Department](http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26) in Gelnhausen, Germany. Read more about my [research](research) and [publications](publications).  
