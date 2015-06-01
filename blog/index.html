@@ -8,7 +8,7 @@ title: Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span style="display: inline-block; width: 10em; " ><div align="right; ">{{ post.date | date_to_long_string }}</div></span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><span style="display: inline-block; width: 10em; text-align:right; ">{{ post.date | date_to_long_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
 
