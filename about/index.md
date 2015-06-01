@@ -45,6 +45,8 @@ February 2011 – July 2012: Academic Staff Member at [Bay of Plenty Polytechnic
 #Editorial Boards
 [PeerJ](https://peerj.com/)
 
+#Contact details
+
 <style>
     .l-box {
         padding: 1.2em;
@@ -87,7 +89,7 @@ February 2011 – July 2012: Academic Staff Member at [Bay of Plenty Polytechnic
 
 
 
-#Contact details
+
 **Jonathan D. Tonkin**  
 Department of River Ecology and Conservation  
 Senckenberg Research Institute and Natural History Museum  
