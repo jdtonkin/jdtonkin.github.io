@@ -29,7 +29,9 @@ title: 'Home'
 </div>
 </div>
 
+<hr height: 1px; color:#d5d5d5;>
 
+# Latest news/posts
 
 <ul class="posts">
 
