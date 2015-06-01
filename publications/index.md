@@ -42,8 +42,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##Submitted
 
-###test
-
 <span style="color:#999">[30]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*) Context dependency in biodiversity patterns of stream metacommunities. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
 <span style="color:#999">[29]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*Submitted*) Variable elements of metacommunity structure across an aquatic-terrestrial ecotone. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
