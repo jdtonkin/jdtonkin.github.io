@@ -5,7 +5,7 @@ body { margin: 0px auto; width: 100%; font-size: 100%; }
 a { text-decoration: none; color: #E14000; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.1em; line-height: 1.3em; color: #333; font-family: 'fira sans'}
+p, ul { font-size: 1.1em; line-height: 1.3em; color: #333; font-family: 'fira sans'; }
 
 
 h1 { font-size: 1.6em !important; font-weight: 600; font-family: 'fira sans'; }
@@ -30,7 +30,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
 .share-page {
-    text-align: center;
+    text-align: center; font-family: 'fira sans'; 
 }
 
 /* Blog */
