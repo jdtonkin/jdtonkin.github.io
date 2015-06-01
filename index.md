@@ -31,7 +31,7 @@ title: 'Home'
 
 <hr style="height: 1px; color:#d5d5d5; border:none; background-color:#d5d5d5;" />
 
-# Latest news/posts
+## Latest news/posts
 
 <ul class="posts">
 <!-- the below show's the latest 5 posts and adds a bit of text (first 25 words) from post as well as the title-->
