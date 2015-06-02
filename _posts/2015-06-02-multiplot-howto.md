@@ -48,9 +48,7 @@ h6 {
    font-size:0.8em; 
 }
 
-a:visited {
-   color: rgb(50%, 0%, 50%);
-}
+
 
 pre {	
    margin-top: 0;
