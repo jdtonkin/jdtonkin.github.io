@@ -3,7 +3,7 @@ layout: post
 title: "bla"
 date: 2015-06-02
 ---
-<span>
+<div>
 
 <!-- saved from url=(0014)about:internet -->
 <html>
@@ -237,4 +237,4 @@ beetles_plot&lt;-ggplot(beetles_log.mds.df,
 
 </html>
 
-</span>
+</div>
