@@ -238,3 +238,5 @@ beetles_plot&lt;-ggplot(beetles_log.mds.df,
 </html>
 
 </div>
+
+[test link](http://google.com)
