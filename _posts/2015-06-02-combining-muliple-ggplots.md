@@ -1,8 +1,23 @@
 ---
 layout: post
-title: "bla"
+title: "Combining multiple ggplot plots"
 date: 2015-06-02
+tags: 
+- R
+- Plotting
+- Science
+- Graphing
+category: R
 ---
+
+<!-- All you need to do is: 
+ecapsulate full html code in <div></div> 
+remove the <a> css style in the head below. 
+remove the header if there is one and add it as title above
+-->
+
+This was copied from my previous page to get an idea of formatting the Rmarkdown html output to fit here. 
+
 <div>
 
 <!-- saved from url=(0014)about:internet -->
