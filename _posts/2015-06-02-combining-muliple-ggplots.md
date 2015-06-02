@@ -7,6 +7,7 @@ tags:
 - Plotting
 - Science
 - Graphing
+- ggplot2
 category: R
 ---
 
@@ -16,7 +17,7 @@ remove the <a> css style in the head below.
 remove the header if there is one and add it as title above
 -->
 
-This was copied from my previous page to get an idea of formatting the Rmarkdown html output to fit here. 
+**Note:** This was copied from my previous page to get an idea of formatting the Rmarkdown html output to fit here. 
 
 <div>
 
@@ -25,7 +26,7 @@ This was copied from my previous page to get an idea of formatting the Rmarkdown
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
-<title>Combining multiple plots in ggplot2</title>
+
 
 <style type="text/css">
 td {
@@ -197,9 +198,9 @@ hljs.initHighlightingOnLoad();
 </head>
 
 <body>
-<h1>Combining multiple plots in ggplot2</h1>
 
-<p>This post deals with the simple situation of combining multiple plots in r (made with ggplot2) into a single multiplot. </p>
+
+<p>This post deals with the simple situation of combining multiple plots in r (made with ggplot2) into a single multiplot. This is a very easy way to align multiple plots, but only looks good if all plot axes align vertically. </p>
 
 <p>Creating the plot in ggplot2</p>
 
@@ -252,4 +253,3 @@ beetles_plot&lt;-ggplot(beetles_log.mds.df,
 
 </div>
 
-[test link](http://google.com)
