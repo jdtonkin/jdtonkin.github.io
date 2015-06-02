@@ -6,6 +6,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jdtonkin.github.io" # the base hostname & protocol for your site
 
 title: jdtonkin.github.io
+subtitle: Freshwater community and metacommunity ecologist
+tagline: Research website of freshwater community ecologist
+description: "Jono's research website on community, metacommuniy and macroecology"
+
+keywords: Freshwater, Ecology, Rivers, Streams, Science, Research, R, CRAN, Statistics, Community ecology, Metacommunity, Macroecology, Restoration, Biodiversity, Climate change, Species, Taxa, Macroinvertebrate, Fish, Dam, Hydroelectric, Flow regulation, Environment, Global change, Biogeography
 
 # Contact and social media links
 email: jdtonkin@gmail.com
