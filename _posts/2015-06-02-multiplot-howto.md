@@ -4,7 +4,7 @@ title: "bla"
 date: 2015-06-02
 ---
 <li>
-<!DOCTYPE html>
+
 <!-- saved from url=(0014)about:internet -->
 <html>
 <head>
