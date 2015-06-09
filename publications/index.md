@@ -68,7 +68,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2015</span>**  
 
-<span style="color:#999">[20]</span> Jähnig, S. C., D. N. Shah, R. D. T. Shah, F. Li,  Q. Cai, A. Sundermann, **J. D. Tonkin**, and S. Stendera. 2015. Community-environment relationships of riverine invertebrate communities in central Chinese streams. Environmental Earth Sciences.<a href="http://dx.doi.org/10.1007/s12665-015-4466-8" target="_blank"></a> [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Jähnig etal Environmental Earth Sciences.pdf)
+<span style="color:#999">[20]</span> Jähnig, S. C., D. N. Shah, R. D. T. Shah, F. Li,  Q. Cai, A. Sundermann, **J. D. Tonkin**, and S. Stendera. 2015. Community-environment relationships of riverine invertebrate communities in central Chinese streams. <a href="http://dx.doi.org/10.1007/s12665-015-4466-8" target="_blank">Environmental Earth Sciences</a>. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Jähnig etal Environmental Earth Sciences.pdf)
 
 <span style="color:#999">[19]</span> **Tonkin, J. D.**, D. N. Shah, M. Kuemmerlen, F. Li, Q. H. Cai, P. Haase, and S. C. Jähnig. 2015. Climatic and catchment-scale predictors of Chinese stream insect richness differ with order. <a href="http://dx.doi.org/10.1371/journal.pone.0123250" target="_blank">PLOS ONE</a> 10:e0123250. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal PLOS ONE.pdf)[<i class="fa fa-fw fa-table"></i>](http://dx.doi.org/10.6084/m9.figshare.1305679)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
