@@ -1,4 +1,12 @@
-name: Jonathan Tonkin
+author:
+  name: Jonathan Tonkin
+  email: jdtonkin@gmail.com
+  givenName: Jonathan
+  familyName: Tonkin
+  publishedName: Jonathan D. Tonkin
+  twitter: jdtonkin
+  github: jdtonkin
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
