@@ -46,7 +46,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 </div>
 
 
-<div class="pure-u-2-2">
+<div class="pure-u-1-2">
 
 <img class="pure-img" src="scholar_citations_Mtn0TIwAAAAJ.png" size="300px">
 
