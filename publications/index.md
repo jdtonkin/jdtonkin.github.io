@@ -45,7 +45,7 @@ title: Publications
 <div class="pure-u-1-3" markdown="1">
 </div>
 
-<div class="pure-u-1-3" markdown="1">
+<div class="pure-u-2-3" markdown="1">
 
 
 You can also find my publications on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en) and various supplementary material and pdfs of my presentations on [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559).
@@ -55,6 +55,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 </div>
 
+<!--
 <div class="pure-g">
 <div class="pure-u-1-5">
 
@@ -73,7 +74,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 
 </div>
-
+-->
 
 #Journal articles  
 
