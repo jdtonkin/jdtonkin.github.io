@@ -42,8 +42,6 @@ title: Publications
 
 </div>
 
-<div class="pure-u-1-3" markdown="1">
-</div>
 
 <div class="pure-u-2-3" markdown="1">
 
