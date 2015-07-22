@@ -11,9 +11,9 @@ title: Publications
 #999 - grey
 #333 - black
 
-[<i class="fa fa-fw fa-file"></i>]() 
-[<i class="fa fa-fw fa-file-o"></i>]() 
-[<i class="fa fa-fw fa-file-video-o"></i>]() 
+[<i class="fa fa-fw fa-file"></i>]()
+[<i class="fa fa-fw fa-file-o"></i>]()
+[<i class="fa fa-fw fa-file-video-o"></i>]()
 [<i class="fa fa-fw fa-file-text"></i>]()  
 [<i class="fa fa-fw fa-file-text-o"></i>]
 [<i class="fa fa-fw fa-file-code-o"></i>]
@@ -28,7 +28,7 @@ title: Publications
 <a href="http://dx.doi.org/" target="_blank"></a>
 -->
 
-You can also find my publications on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en) and various supplementary material and pdfs of my presentations on [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559). 
+You can also find my publications on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [academia.edu](http://senckenberg.academia.edu/JonathanTonkin), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en) and various supplementary material and pdfs of my presentations on [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559).
 
 <span style="color:#e14000"><i class="fa fa-fw fa-file-pdf-o"></i></span> Link to published PDF  
 <span style="color:#e14000"><i class="fa fa-fw fa-file-text-o"></i></span> Link to preprint  
@@ -37,6 +37,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <span style="color:#e14000"><i class="fa fa-fw fa-file-video-o"></i></span> Link to video footage  
 <span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span> Open access  
 <span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span> Cover photo  
+
+<img class="pure-img" src="scholar_citations_Mtn0TIwAAAAJ.png" >
 
 #Journal articles  
 
@@ -57,7 +59,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[25]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
 
-<span style="color:#999">[24]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase (*Submitted*). Environmental controls on river assemblages at the regional scale: the importance of network position. 
+<span style="color:#999">[24]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase (*Submitted*). Environmental controls on river assemblages at the regional scale: the importance of network position.
 
 <span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*Submitted*). Anthropogenic stress alters community concordance at the river-riparian interface. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
 
@@ -65,7 +67,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##In press
 
-<span style="color:#999">[21]</span> Leps, M., **J. D. Tonkin**, V. Dahm, D. Hering, P. Haase, and A. Sundermann. (*In press*). Disentangling environmental drivers of benthic invertebrate assemblages: the role of spatial scale and riverscape heterogeneity in a multiple stressor environment. Science of the Total Environment. 
+<span style="color:#999">[21]</span> Leps, M., **J. D. Tonkin**, V. Dahm, D. Hering, P. Haase, and A. Sundermann. (*In press*). Disentangling environmental drivers of benthic invertebrate assemblages: the role of spatial scale and riverscape heterogeneity in a multiple stressor environment. Science of the Total Environment.
 
 ##Published
 
@@ -117,14 +119,14 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[1]</span> **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? <a href="http://dx.doi.org/10.1002/rra.1213" target="_blank">River Research and Applications</a> 25:1219-1231. [<i class="fa fa-fw fa-file-pdf-o"></i>](2009 Tonkin etal River Research and Applications.pdf)
 
- 
+
 #Theses
 
 **Tonkin, J. D.** 2011. The effects of productivity and disturbance on diversity in stream communities. PhD thesis, Massey University, New Zealand.
 
 **Tonkin, J. D.** 2006. The effects of flow regulation on macroinvertebrate drift in the Tongariro River, New Zealand. Unpublished Honours thesis, Massey University, Palmerston North.
 
- 
+
 #Reports
 
 David, B., M. Hamer, **J. Tonkin**, and C. Bourke. 2014. Appropriate use of mussel spat ropes to facilitate passage for stream organisms. Waikato Regional Council Technical Report 2014/29, Hamilton, New Zealand.
@@ -136,5 +138,3 @@ David, B., M. Hamer, **J. Tonkin**, and C. Bourke. 2014. Appropriate use of muss
 **Tonkin, J. D.** 2008. Makino Stream Tributary Fish Survey. Report to Rangitikei District Council, Massey University, Palmerston North.
 
 **Tonkin J. D.** 2008. Reporoa Stream Fish Survey. Report to Rangitikei District Council, Massey University, Palmerston North.
-
-			
