@@ -32,9 +32,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 
 
-<div class="pure-g">
-<div class="pure-u-1-2"  markdown="1">
-
 <span style="color:#e14000"><i class="fa fa-fw fa-file-pdf-o"></i></span> Link to published PDF  
 <span style="color:#e14000"><i class="fa fa-fw fa-file-text-o"></i></span> Link to preprint  
 <span style="color:#e14000"><i class="fa fa-fw fa-table"></i></span> Link to data  
@@ -43,12 +40,19 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span> Open access  
 <span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span> Cover photo  
 
+<div class="pure-g">
+<div class="pure-u-1-5">
+
 </div>
 
 
-<div class="pure-u-1-2">
+<div class="pure-u-3-5">
 
 <img class="pure-img" src="scholar_citations_Mtn0TIwAAAAJ.png" size="300px">
+
+</div>
+
+<div class="pure-u-1-5">
 
 </div>
 
