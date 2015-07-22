@@ -38,7 +38,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span> Open access  
 <span style="color:#00a1e1"><i class="fa fa-fw fa-photo"></i></span> Cover photo  
 
-<img class="pure-img" src="scholar_citations_Mtn0TIwAAAAJ.png" size="300px">
+<img class="pure-img" src="scholar_citations_Mtn0TIwAAAAJ.png" size="100px">
 
 #Journal articles  
 
