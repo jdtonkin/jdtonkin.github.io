@@ -78,12 +78,11 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##Submitted
 
-
 <span style="color:#999">[31]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*). Context dependency in biodiversity patterns of stream metacommunities. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
 <span style="color:#999">[30]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*Submitted*). Variable elements of metacommunity structure across an aquatic-terrestrial ecotone. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
 
-<span style="color:#999">[29]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*Submitted*). Contrasting metacommunity structure and beta diversity in a river-floodplain system.
+<span style="color:#999">[29]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig (*Submitted*). Latitudinal patterns and determinants of stream insect richness across Europe.
 
 <span style="color:#999">[28]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
 
@@ -97,9 +96,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*Submitted*). Anthropogenic stress alters community concordance at the river-riparian interface. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
 
-<span style="color:#999">[22]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig (*Submitted*). Latitudinal patterns and determinants of stream insect richness across Europe.
-
 ##In press
+
+<span style="color:#999">[22]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos. 
 
 <span style="color:#999">[21]</span> Leps, M., **J. D. Tonkin**, V. Dahm, D. Hering, P. Haase, and A. Sundermann. (*In press*). Disentangling environmental drivers of benthic invertebrate assemblages: the role of spatial scale and riverscape heterogeneity in a multiple stressor environment. Science of the Total Environment.
 
