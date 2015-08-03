@@ -98,13 +98,14 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[23]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase (*In press*). Environmental controls on river assemblages at the regional scale: an application of the Elements of Metacommunity Structure framework. PLOS ONE.
 
-<span style="color:#999">[22]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos. 
+<span style="color:#999">[22]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos.
 
-<span style="color:#999">[21]</span> Leps, M., **J. D. Tonkin**, V. Dahm, D. Hering, P. Haase, and A. Sundermann. (*In press*). Disentangling environmental drivers of benthic invertebrate assemblages: the role of spatial scale and riverscape heterogeneity in a multiple stressor environment. Science of the Total Environment.
 
 ##Published
 
 **<span style="color:#999">2015</span>**  
+
+<span style="color:#999">[21]</span> Leps, M., **J. D. Tonkin**, V. Dahm, D. Hering, P. Haase, and A. Sundermann. 2015. Disentangling environmental drivers of benthic invertebrate assemblages: the role of spatial scale and riverscape heterogeneity in a multiple stressor environment. <a href="http://dx.doi.org/10.1016/j.scitotenv.2015.07.083" target="_blank">Science of the Total Environment</a>. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Leps etal Science of the Total Environment.pdf)
 
 <span style="color:#999">[20]</span> Jähnig, S. C., D. N. Shah, R. D. T. Shah, F. Li,  Q. Cai, A. Sundermann, **J. D. Tonkin**, and S. Stendera. 2015. Community-environment relationships of riverine invertebrate communities in central Chinese streams. <a href="http://dx.doi.org/10.1007/s12665-015-4466-8" target="_blank">Environmental Earth Sciences</a>. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Jähnig etal Environmental Earth Sciences.pdf)
 
