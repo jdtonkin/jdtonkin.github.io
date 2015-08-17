@@ -92,18 +92,18 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[25]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
 
+<span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*Submitted*). Anthropogenic stress alters community concordance at the river-riparian interface. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
+
 ##In press
 
-<span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*Accepted*). Anthropogenic land use stress alters community concordance at the river-riparian interface. Ecological Indicators. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
-
-<span style="color:#999">[23]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase (*In press*). Environmental controls on river assemblages at the regional scale: an application of the Elements of Metacommunity Structure framework. PLOS ONE.
-
-<span style="color:#999">[22]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos.
+<span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos.
 
 
 ##Published
 
 **<span style="color:#999">2015</span>**  
+
+<span style="color:#999">[22]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase. 2015. Environmental controls on river assemblages at the regional scale: an application of the Elements of Metacommunity Structure framework. <a href="http://dx.doi.org/10.1371/journal.pone.0135450" target="_blank">PLOS ONE</a> 10(8): e0135450. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015b Tonkin etal PLOS ONE.pdf)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
 <span style="color:#999">[21]</span> Leps, M., **J. D. Tonkin**, V. Dahm, D. Hering, P. Haase, and A. Sundermann. 2015. Disentangling environmental drivers of benthic invertebrate assemblages: the role of spatial scale and riverscape heterogeneity in a multiple stressor environment. <a href="http://dx.doi.org/10.1016/j.scitotenv.2015.07.083" target="_blank">Science of the Total Environment</a>. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Leps etal Science of the Total Environment.pdf)
 
