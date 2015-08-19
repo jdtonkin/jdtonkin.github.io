@@ -96,7 +96,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##In press
 
-<span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos.
+<span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos. DOI:10.1111/oik.02717
 
 
 ##Published
