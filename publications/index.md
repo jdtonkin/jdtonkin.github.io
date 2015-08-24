@@ -92,9 +92,10 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[25]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
 
-<span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*Submitted*). Anthropogenic stress alters community concordance at the river-riparian interface. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
 
 ##In press
+
+<span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase (*In press*). Anthropogenic land use stress alters community concordance at the river-riparian interface. Ecological Indicators. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
 
 <span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos. DOI:10.1111/oik.02717
 
