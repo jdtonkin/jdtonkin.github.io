@@ -52,7 +52,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 
 </div>
- 
+
 <!--
 <div class="pure-g">
 <div class="pure-u-1-5">
@@ -78,7 +78,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##Submitted
 
-<span style="color:#999">[32]</span> Stoll, S., N. Hormel, and **J. D. Tonkin**. (*Submitted*) Effects of Chaetogaster limnaei limnaei on freshwater snail communities in German streams. 
+<span style="color:#999">[32]</span> Stoll, S., N. Hormel, and **J. D. Tonkin**. (*Submitted*) Effects of Chaetogaster limnaei limnaei on freshwater snail communities in German streams.
 
 <span style="color:#999">[31]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*). Context dependency in biodiversity patterns of stream metacommunities. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
@@ -95,16 +95,20 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <span style="color:#999">[25]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
 
 
+<!-- template for pub:
 
+<a href="http://dx.doi.org/" target="_blank"> JOURNAL </a> ISSUE/DOI. [<i class="fa fa-fw fa-file-pdf-o"></i>](.pdf)
 
+-->
 
 ##Published
 
 **<span style="color:#999">2015</span>**  
 
-<span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase 2015. Anthropogenic land use stress alters community concordance at the river-riparian interface. Ecological Indicators. DOI:10.1016/j.ecolind.2015.08.037 [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
+<span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase 2015. Anthropogenic land use stress alters community concordance at the river-riparian interface.
+<a href="http://dx.doi.org/10.1016/j.ecolind.2015.08.037" target="_blank">Ecological Indicators</a> DOI:10.1016/j.ecolind.2015.08.037. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal Ecological Indicators.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
 
-<span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2015. Contrasting metacommunity structure and beta diversity in a river-floodplain system. Oikos. DOI:10.1111/oik.02717
+<span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2015. Contrasting metacommunity structure and beta diversity in a river-floodplain system. <a href="http://dx.doi.org/10.1111/oik.02717" target="_blank">Oikos</a> DOI:10.1111/oik.02717. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal Oikos.pdf)
 
 <span style="color:#999">[22]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase. 2015. Environmental controls on river assemblages at the regional scale: an application of the Elements of Metacommunity Structure framework. <a href="http://dx.doi.org/10.1371/journal.pone.0135450" target="_blank">PLOS ONE</a> 10(8): e0135450. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015b Tonkin etal PLOS ONE.pdf)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
