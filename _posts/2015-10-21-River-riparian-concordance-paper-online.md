@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community concordance at the river-riparian interface paper online at Ecological Indicators"
+title: "Concordance of river-riparian organisms paper online"
 date: 2015-10-21
 tags:
 - General
