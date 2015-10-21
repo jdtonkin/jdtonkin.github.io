@@ -12,7 +12,7 @@ title: 'Home'
 <div class="pure-g">
 <div class="pure-u-1-2" >
 
-<div class="l-box"> 
+<div class="l-box">
 <!-- pure-img makes image scalable-->
 <img class="pure-img" src="banner_bw.jpg" size="300px">
 </div>
@@ -24,7 +24,7 @@ title: 'Home'
 
 <p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. </p>
 
-<p>I am currently a postdoctoral researcher at <a href="http://www.senckenberg.de/root/index.php?page_id=71">Senckenberg</a> Research Institute and Natural History Museum in Germany. I’m based in the River Ecology and Conservation <a href="http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26">Department</a> in Gelnhausen, Germany. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on my website. </p>
+<p>I am currently a postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA. I'm based in the [Department of Integrative Biology](http://ib.oregonstate.edu/). You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on my website. </p>
 
 </div>
 </div>
@@ -36,13 +36,13 @@ title: 'Home'
 <ul class="posts">
 <!-- the below show's the latest 5 posts and adds a bit of text (first 20 words) from post as well as the title-->
 	  {% for post in site.posts limit:5 %}
-	    <li><span style="color: #999;" >{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> » 
-	    {{ post.content | strip_html | truncatewords:20}} 
+	    <li><span style="color: #999;" >{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> »
+	    {{ post.content | strip_html | truncatewords:20}}
 	    <a href="{{ post.url }}">Read more...</a></li>
 	    <br>
 	  {% endfor %}
 	</ul>
-	
+
 
 
 <!--

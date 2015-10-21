@@ -92,13 +92,12 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 
 
 **Jonathan D. Tonkin**  
-Department of River Ecology and Conservation  
-Senckenberg Research Institute and Natural History Museum  
-Research Station Gelnhausen  
-Clamecystrasse 12  
-63571 Gelnhausen  
-Germany  
-<i class="fa fa-fw fa-globe"></i>[ www.senckenberg.de](http://www.senckenberg.de)  
+Department of Integrative Biology
+3029 Cordley Hall
+Oregon State University
+Corvallis, OR, USA
+
+<i class="fa fa-fw fa-globe"></i>[ oregonstate.edu](http://oregonstate.edu)  
 <i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com"> jdtonkin [at] gmail.com</a>     
 <i class="fa fa-fw fa-envelope-o"></i><a href="mailto:tonkinj@oregonstate.edu"> tonkinj [at] oregonstate.edu</a>     
 <i class="fa fa-fw fa-twitter"></i><a href="http://twitter.com/jdtonkin"> @jdtonkin</a>
