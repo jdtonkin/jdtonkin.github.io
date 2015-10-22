@@ -7,7 +7,7 @@ title: About
 
 <img class="pure-img" src="about_banner.png" >
 
-I am a postdoctoral scholar at [Oregon State University](oregonstate.edu/) in Corvallis, OR, USA. I'm based in the [Department of Integrative Biology](ib.oregonstate.edu/). Read more about my [research](research) and [publications](publications).  
+I am a postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA. I'm based in the [Department of Integrative Biology](http://ib.oregonstate.edu/). Read more about my [research](research) and [publications](publications).  
 
 Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/) in New Zealand looking at the interaction between productivity and disturbance on structuring stream invertebrate diversity patterns. I followed that up with a job lecturing in Environmental Management and Marine Studies at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/) in Tauranga, New Zealand. I then spent one year at [Xi’an Jiaotong-Liverpool University](http://www.xjtlu.edu.cn/en/) in Suzhou, China lecturing Environmental Science. I followed that up by a couple of years at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum in Germany, based in the River Ecology and Conservation [Department](http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26) in Gelnhausen.
 

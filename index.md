@@ -24,7 +24,7 @@ title: 'Home'
 
 <p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. </p>
 
-<p>I am currently a postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA. I'm based in the [Department of Integrative Biology](http://ib.oregonstate.edu/). You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on my website. </p>
+<p>I am currently a postdoctoral scholar at [Oregon State University](http://www.oregonstate.edu/) in Corvallis, OR, USA. I'm based in the [Department of Integrative Biology](http://ib.oregonstate.edu/). You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on my website. </p>
 
 </div>
 </div>
