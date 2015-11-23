@@ -8,7 +8,7 @@ cit <- get_citation_history('Mtn0TIwAAAAJ')
 metrics <- get_profile('Mtn0TIwAAAAJ')
 png('scholar_citations_Mtn0TIwAAAAJ.png',width=1000,height=450,res=150)
 ggplot(cit,aes(x=year,y=cites)) +
-  geom_bar(stat='identity', colour="#e14000", fill="grey") +
+  geom_bar(stat='identity', fill="#e14000") +
   xlab('Year') +
   ylab('Citations') +
   ggtitle('Google scholar') +
