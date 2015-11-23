@@ -78,7 +78,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##Submitted
 
-<span style="color:#999">[33]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. (*Submitted*). Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates. 
+<span style="color:#999">[33]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. (*Submitted*). Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
 
 <span style="color:#999">[32]</span> Stoll, S., N. Hormel, and **J. D. Tonkin**. (*Submitted*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities in German streams.
 
@@ -101,13 +101,14 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 -->
 
-##In press 
 
-<span style="color:#999">[25]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig. (*In press*). Latitudinal patterns and large-scale environmental determinants of stream insect richness across Europe. Limnologica.
 
 ##Published
 
 **<span style="color:#999">2015</span>**  
+
+<span style="color:#999">[25]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig. 2015. Latitudinal patterns and large-scale environmental determinants of stream insect richness across Europe. <a href="http://dx.doi.org/10.1016/j.limno.2015.11.001" target="_blank">Limnologica</a> 55:33-43. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Shah etal Limnologica.pdf)
+
 
 <span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2015. Anthropogenic land use stress alters community concordance at the river-riparian interface.
 <a href="http://dx.doi.org/10.1016/j.ecolind.2015.08.037" target="_blank">Ecological Indicators</a> DOI:10.1016/j.ecolind.2015.08.037. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal Ecological Indicators.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
