@@ -125,9 +125,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[18]</span> **Tonkin, J. D.**, A. Brown, and E. M. Chappell. 2015. Small-scale patch complexity, benthic invertebrate colonisation and leaf breakdown in three headwater streams in Bay of Plenty, New Zealand. <a href="http://dx.doi.org/10.1080/00288330.2014.980748" target="_blank">New Zealand Journal of Marine and Freshwater Research</a>. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal NZJMFR.pdf)
 
-**<span style="color:#999">2014</span>**
+<span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2015. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). <a href="http://dx.doi.org/10.1080/00779962.2014.922234" target="_blank">New Zealand Entomologist</a> 38:1-6. [<i class="fa fa-fw fa-file-pdf-o"></i>](2014 Chappell etal NZ Entomologist 2.pdf)
 
-<span style="color:#999">[17]</span> Chappell, E. M., D. S. Webb, A. J. Brown, and **J. D. Tonkin**. 2014. A preliminary survey of altitudinal variation in two ground weta species, *Hemiandrus maculifrons* and *H. pallitaris* (Walker) (Orthoptera: Anostostomatidae). <a href="http://dx.doi.org/10.1080/00779962.2014.922234" target="_blank">New Zealand Entomologist</a> 38:1-6. [<i class="fa fa-fw fa-file-pdf-o"></i>](2014 Chappell etal NZ Entomologist 2.pdf)
+**<span style="color:#999">2014</span>**
 
 <span style="color:#999">[16]</span> **Tonkin, J. D.** 2014. Drivers of macroinvertebrate community structure in unmodified streams. <a href="https://dx.doi.org/10.7717/peerj.465" target="_blank">PeerJ</a> 2:e465. [<i class="fa fa-fw fa-file-pdf-o"></i>](2014 Tonkin PeerJ.pdf)[<i class="fa fa-fw fa-table"></i>](http://dx.doi.org/10.6084/m9.figshare.979303)[<i class="fa fa-fw fa-table"></i>](http://dx.doi.org/10.6084/m9.figshare.979302)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
