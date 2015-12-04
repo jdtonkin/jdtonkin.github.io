@@ -78,6 +78,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##Submitted
 
+<span style="color:#999">[34]</span> **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.
+
 <span style="color:#999">[33]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. (*Submitted*). Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
 
 <span style="color:#999">[32]</span> Stoll, S., N. Hormel, and **J. D. Tonkin**. (*Submitted*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities in German streams.
