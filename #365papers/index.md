@@ -4,7 +4,7 @@ title: \#365papers
 ---
 
 
-# #365papers
+# \#365papers
 
 I am going to have a go at documenting my paper reading for 2016. I won't necessarily do 365 papers but it's a nice goal. I'll add a sentence summarising the paper and sometimes a little more detailed notes.  
 
