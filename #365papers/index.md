@@ -1,6 +1,6 @@
 ---
 layout: default
-title: `#365papers`
+title: \#365papers
 ---
 
 
