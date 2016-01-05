@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_comment
 title: 365papers
 ---
 
