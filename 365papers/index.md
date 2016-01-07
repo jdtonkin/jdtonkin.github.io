@@ -26,3 +26,5 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 7. **Review for journal.** Re-review.
 
 8. **Corliss, B.H., Brown, C.W., Sun, X., Showers, W.J., 2009. Deep-sea benthic diversity linked to seasonality of pelagic productivity. Deep Sea Research Part I: Oceanographic Research Papers 56, 835–841.** [DOI:10.1016/j.dsr.2008.12.009](http://dx.doi.org/10.1016/j.dsr.2008.12.009). Documented latitudinal patterns of North Atlantic deep-sea benthic foraminifera. Fits the typical latitudinal diversity gradient. Regions with low seasonality and more stable food input over an annual cycle have higher diversity, a more even distribution of species and higher richness.
+
+9. **Johnson, R.C., Carreiro, M.M., Jin, H.S., Jack, J.D., 2012. Within-year temporal variation and life-cycle seasonality affect stream macroinvertebrate community structure and biotic metrics. Ecological Indicators 13, 206–214.** [DOI:10.1016/j.ecolind.2011.06.004](http://dx.doi.org/10.1016/j.ecolind.2011.06.004). Macroinvertebrates from three rural and three urban streams were sampled monthly in Kentucky to examine seasonal patterns. 
