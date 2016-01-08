@@ -84,15 +84,13 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[32]</span> Stoll, S., N. Hormel, and **J. D. Tonkin**. (*Submitted*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities in German streams.
 
-<span style="color:#999">[31]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*). Context dependency in biodiversity patterns of stream metacommunities. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
+<span style="color:#999">[31]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
 
-<span style="color:#999">[30]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
+<span style="color:#999">[30]</span> Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.
 
-<span style="color:#999">[29]</span> Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.
+<span style="color:#999">[29]</span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.
 
-<span style="color:#999">[28]</span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.
-
-<span style="color:#999">[27]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
+<span style="color:#999">[28]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
 
 
 <!-- template for pub:
@@ -102,6 +100,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 -->
 
 ##In press
+
+<span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*). Context dependency in biodiversity patterns of central German stream metacommunities. **Freshwater Biology**. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
 <span style="color:#999">[26]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Elements of metacommunity structure of river and riparian assemblages: communities, taxonomic groups and deconstructed trait groups. **Ecological Complexity**. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
 
