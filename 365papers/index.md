@@ -36,3 +36,25 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 12. **Linke, S., Bailey, R.C., Schwindt, J., 1999. Temporal variability of stream bioassessments using benthic macroinvertebrates. Freshwater Biology 42, 575–584.** [DOI:10.1046/j.1365-2427.1999.00492.x](http://dx.doi.org/10.1046/j.1365-2427.1999.00492.x). Essentially demonstrated the importance of considering season in stream biomonitoring. Consistent differences in stream invertebrate biomonitoring metrics between summer and winter samples. For instance, bioassessment in winter indicates better value than summer. Note that many spp that indicate high water quality are those that favour cold water. They found the best predictive models were those that were built for each season.
 
 13. **Kendall, B.E., 2015. Some directions in ecological theory. Ecology 96, 3117–3125.** [DOI:10.1890/14-2080.1](http://dx.doi.org/10.1890/14-2080.1). A personal account on some fruitful directions in ecological theory and past changes from theory being a source of conceptual ideas to now being used to quantitatively descirbe empirical observations. 
+
+14. **McMeans, B.C., McCann, K.S., Humphries, M., Rooney, N., Fisk, A.T., 2015. Food web structure in temporally-forced ecosystems. Trends in Ecology & Evolution 30, 662–672.** [DOI:10.1016/j.tree.2015.09.001](http://dx.doi.org/10.1016/j.tree.2015.09.001). A look at the role of seasonality on food-webs. They use a case study from the Arctic to demonstrate their point that food webs shift with season. Emphasise this framework can help to understand the consequences of global change. 
+
+
+<!--
+[DOI:](http://dx.doi.org/)
+-->
+<!--
+[DOI:](http://dx.doi.org/)
+-->
+<!--
+[DOI:](http://dx.doi.org/)
+-->
+<!--
+[DOI:](http://dx.doi.org/)
+-->
+<!--
+[DOI:](http://dx.doi.org/)
+-->
+<!--
+[DOI:](http://dx.doi.org/)
+-->
