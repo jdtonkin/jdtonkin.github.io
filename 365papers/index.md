@@ -39,6 +39,10 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 14. **McMeans, B.C., McCann, K.S., Humphries, M., Rooney, N., Fisk, A.T., 2015. Food web structure in temporally-forced ecosystems. Trends in Ecology & Evolution 30, 662–672.** [DOI:10.1016/j.tree.2015.09.001](http://dx.doi.org/10.1016/j.tree.2015.09.001). A look at the role of seasonality on food-webs. They use a case study from the Arctic to demonstrate their point that food webs shift with season. Emphasise this framework can help to understand the consequences of global change. 
 
+15. **Merritt, D.M., Scott, M.L., Poff, N.L., Auble, G.T., Lytle, D.A., 2010. Theory, methods and tools for determining environmental flows for riparian vegetation: riparian vegetation-flow response guilds. Freshwater Biology 55, 206–225.** [DOI:10.1111/j.1365-2427.2009.02206.x](http://dx.doi.org/10.1111/j.1365-2427.2009.02206.x). Review of tools for determining environmental flows for riparian vegetation. First outline of the use of riparian vegetation-flow response guilds. Doesn't go into detail of methods for flow response guilds but outlines five categories of guilds: life history, reproductive strategy, morphology, fluvial disturbance and water balance. 
+
+16. **Stromberg, J.C., Merritt, D.M., 2015. Riparian plant guilds of ephemeral, intermittent and perennial rivers. Freshwater Biology. Early view. [DOI:10.1111/fwb.12686](http://dx.doi.org/10.1111/fwb.12686).** Used clustering to identify different plant guilds from floodplains, terraces and uplands in rivers with varying flow: surface flow permanence, depth to ground water and intensity of fluvial disturbance.
+
 
 <!--
 [DOI:](http://dx.doi.org/)
