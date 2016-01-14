@@ -43,6 +43,7 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 16. **Stromberg, J.C., Merritt, D.M., 2015. Riparian plant guilds of ephemeral, intermittent and perennial rivers. Freshwater Biology. Early view. [DOI:10.1111/fwb.12686](http://dx.doi.org/10.1111/fwb.12686).** Used clustering to identify different plant guilds from floodplains, terraces and uplands in rivers with varying flow: surface flow permanence, depth to ground water and intensity of fluvial disturbance.
 
+17. **RE-READ: Colwell, R.K., 1974. Predictability, constancy, and contingency of periodic phenomena. Ecology 55, 1148–1153.** Colwell's classic paper on measuring the general characteristics of periodic phenomena: predictability, constancy and contingency. As predictability is the converse of uncertainty, it stands to reason that its calculation is based on the mathematics of information theory. Can be calculated very easily using Nick Bond's R package 'hydrostats'. 
 
 <!--
 [DOI:](http://dx.doi.org/)
