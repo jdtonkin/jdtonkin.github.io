@@ -82,7 +82,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[33]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. (*Submitted*). Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
 
-<span style="color:#999">[32]</span> Stoll, S., N. Hormel, and **J. D. Tonkin**. (*Submitted*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities in German streams.
+<span style="color:#999">[32]</span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. (*Submitted*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities.
 
 <span style="color:#999">[31]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
 
