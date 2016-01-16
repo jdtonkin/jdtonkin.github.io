@@ -45,12 +45,11 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 17. **RE-READ: Colwell, R.K., 1974. Predictability, constancy, and contingency of periodic phenomena. Ecology 55, 1148–1153.** Colwell's classic paper on measuring the general characteristics of periodic phenomena: predictability, constancy and contingency. As predictability is the converse of uncertainty, it stands to reason that its calculation is based on the mathematics of information theory. Can be calculated very easily using Nick Bond's R package 'hydrostats'. 
 
-<!--
-[DOI:](http://dx.doi.org/)
--->
-<!--
-[DOI:](http://dx.doi.org/)
--->
+18. **Cauvy-Fraunié, S., Condom, T., Rabatel, A., Villacis, M., Jacobsen, D., Dangles, O., 2013. Technical Note: Glacial influence in tropical mountain hydrosystems evidenced by the diurnal cycle in water levels. Hydrology and Earth System Sciences 17, 4803–4816.** [DOI:10.5194/hess-17-4803-2013](http://dx.doi.org/10.5194/hess-17-4803-2013). Outlines the use of wavelets to track glacial influence by looking at power, frequency and temporal clustering of diurnal flow variation. 
+
+19. **Smith, L., Turcotte, D., Isacks, B., 1998. Stream flow characterization and feature detection using a discrete wavelet transform. Hydrological Processes 12, 233–249.** Demonstrates wavelets as a tool for characterising streamflows. Uses five different hydroclimatic regions to do so. 
+
+
 <!--
 [DOI:](http://dx.doi.org/)
 -->
