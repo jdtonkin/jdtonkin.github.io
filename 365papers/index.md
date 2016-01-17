@@ -49,10 +49,11 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 19. **Smith, L., Turcotte, D., Isacks, B., 1998. Stream flow characterization and feature detection using a discrete wavelet transform. Hydrological Processes 12, 233–249.** Demonstrates wavelets as a tool for characterising streamflows. Uses five different hydroclimatic regions to do so. 
 
+20. **Keitt, T.H., 2008. Coherent ecological dynamics induced by large-scale disturbance. Nature 454, 331–334.** [DOI:10.1038/nature06935](http://dx.doi.org/10.1038/nature06935). Looks at the effects of a press disturbance (pH lowering) on zooplankton in a LTER site in Wisconson. Showed through wavelet analysis that communities were synchronous after the disturbance. This goes agains theory in that compensatory effects should have stabilised communities (they comprised both disturbance-sensitve and -tolerant species). Interesting application of wavelets. 
 
-<!--
-[DOI:](http://dx.doi.org/)
--->
+21. **Cazelles, B., Chavez, M., Berteaux, D., Ménard, F., Vik, J.O., Jenouvrier, S., Stenseth, N.C., 2008. Wavelet analysis of ecological time series. Oecologia 156, 287–304.** [DOI:10.1007/s00442-008-0993-2](http://dx.doi.org/10.1007/s00442-008-0993-2). Example ways that wavelets can be applied to ecological data. Compares discrete and continuous wavelets. Outlines most of the aspects of wavelets, including the choice of mother wavelet, cone of influence etc. Also looks at the use of wavelets for comparing two time series through coherency and phase difference. 
+
+
 <!--
 [DOI:](http://dx.doi.org/)
 -->
