@@ -53,6 +53,11 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 21. **Cazelles, B., Chavez, M., Berteaux, D., Ménard, F., Vik, J.O., Jenouvrier, S., Stenseth, N.C., 2008. Wavelet analysis of ecological time series. Oecologia 156, 287–304.** [DOI:10.1007/s00442-008-0993-2](http://dx.doi.org/10.1007/s00442-008-0993-2). Example ways that wavelets can be applied to ecological data. Compares discrete and continuous wavelets. Outlines most of the aspects of wavelets, including the choice of mother wavelet, cone of influence etc. Also looks at the use of wavelets for comparing two time series through coherency and phase difference. 
 
+22. **Downing, A.L., Brown, B.L., Perrin, E.M., Keitt, T.H., Leibold, M.A., 2008. Environmental Fluctuations Induce Scale-Dependent Compensation and Increase Stability in Plankton Ecosystems. Ecology 89, 3204–3214.** 
+
+23. **Micheli, F., Cottingham, K.L., Bascompte, J., Bjørnstad, O.N., Eckert, G.L., Fischer, J.M., Keitt, T.H., Kendall, B.E., Klug, J.L., Rusak, J.A., 1999. The dual nature of community variability. Oikos 85, 161–169.** [DOI:10.2307/3546802](http://dx.doi.org/10.2307/3546802)
+
+24. **Keitt, T.H., Fischer, J., 2006. Detection of scale-specific community dynamics using wavelets. Ecology 87, 2895–904.**
 
 <!--
 [DOI:](http://dx.doi.org/)
