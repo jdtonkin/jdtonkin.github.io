@@ -110,7 +110,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 **<span style="color:#999">2016</span>**  
 
 
-<span style="color:#999">[26]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. (*In press*). Elements of metacommunity structure of river and riparian assemblages: communities, taxonomic groups and deconstructed trait groups.
+<span style="color:#999">[26]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2016. Elements of metacommunity structure of river and riparian assemblages: communities, taxonomic groups and deconstructed trait groups.
 <a href="http://dx.doi.org/10.1016/j.ecocom.2015.12.002" target="_blank">Ecological Complexity</a> 25:35-43. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Ecological Complexity.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
 
 **<span style="color:#999">2015</span>**  
