@@ -78,6 +78,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##Submitted
 
+<span style="color:#999">[35]</span> Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*Submitted*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. 
+
 <span style="color:#999">[34]</span> **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.
 
 <span style="color:#999">[33]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. (*Submitted*). Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
