@@ -78,22 +78,25 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ##Submitted
 
-<span style="color:#999">[35]</span> Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*Submitted*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. 
+<span style="color:#999">
 
-<span style="color:#999">[34]</span> **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.
+[35] Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*Submitted*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. 
 
-<span style="color:#999">[33]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. (*Submitted*). Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
+[34] **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.
 
-<span style="color:#999">[32]</span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. (*Submitted*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities.
+[33] **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. (*Submitted*). Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
 
-<span style="color:#999">[31]</span> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
+[32] Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. (*Submitted*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities.
 
-<span style="color:#999">[30]</span> Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.
+[31] Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)
 
-<span style="color:#999">[29]</span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.
+[30] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.
 
-<span style="color:#999">[28]</span> Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
+[29] Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.
 
+[28] Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.
+
+</span>
 
 <!-- template for pub:
 
