@@ -63,6 +63,10 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 26. **Jardine, T.D., Bond, N.R., Burford, M.A., Kennard, M.J., Ward, D.P., Bayliss, P., Davies, P.M., Dougals, M.M., Hamilton, S.K., Melack, J.M., Naiman, R.J., Pettit, N.E., Pusey, B.J., Warfe, D., Bunn, S.E., 2015. Does flood rhythm drive ecosystem responses in tropical riverscapes? Ecology 96, 684–692.** [DOI:10.1890/14-0991.1](http://dx.doi.org/10.1890/14-0991.1). Really nice paper looking at flood rhythm in large tropical rivers. They demonstrated the role of rhythmicity, or predictability of the timing and magnitude, of flood events on biota and other processes. Essentially more rythmic rivers support more diverse fish assemblages, more stable bird populations and greater riparian forest production. 
 
+27. **Fahimipour, A.K., Hein, A.M., 2014. The dynamics of assembling food webs. Ecology Letters 17, 606-613.** [DOI:10.1111/ele.12264](http://dx.doi.org/10.1111/ele.12264). Food web structure develops according to repeatable trajectories that are strongly influenced by colonisation rate. They found webs with different colonisation rate had stable web topologies, despite strong assemblage turnover. This indicates network architecture begins early and remains similar through the assembly process. 
+
+28. **Adler, P.B., HilleRisLambers, J., Kyriakidis, P.C., Guan, Q., Levine, J.M., 2006. Climate variability has a stabilizing effect on the coexistence of prairie grasses. Proceedings of the National Academy of Sciences of the United States of America 103, 12793–12798.** [DOI:10.1073/pnas.0600599103](http://dx.doi.org/10.1073/pnas.0600599103). Evidence of the storage effect coexistence mechanism at work in relation to climatic variability. 
+
 <!--
 [DOI:](http://dx.doi.org/)
 -->
