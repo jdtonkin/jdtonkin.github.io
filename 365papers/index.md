@@ -67,6 +67,12 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 28. **Adler, P.B., HilleRisLambers, J., Kyriakidis, P.C., Guan, Q., Levine, J.M., 2006. Climate variability has a stabilizing effect on the coexistence of prairie grasses. Proceedings of the National Academy of Sciences of the United States of America 103, 12793–12798.** [DOI:10.1073/pnas.0600599103](http://dx.doi.org/10.1073/pnas.0600599103). Evidence of the storage effect coexistence mechanism at work in relation to climatic variability. 
 
+29. **Gravel, D., Poisot, T., Desjardins-Proulx, P., 2014. Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes. Journal of Limnology 73, 61–73.** [DOI:10.4081/jlimnol.2014.807](http://dx.doi.org/10.4081/jlimnol.2014.807). Uses a combination of graph/network theory and neutral theory. Develop three models to differentiate between neutral, patch dynamics and species sorting using simulated data in four landscape types. Demonstrates the importance of landscape structure and network position. 
+
+30. **Economo, E.P., Keitt, T.H., 2008. Species diversity in neutral metacommunities: A network approach. Ecology Letters 11, 52–62.** [DOI:10.1111/j.1461-0248.2007.01126.x](http://dx.doi.org/10.1111/j.1461-0248.2007.01126.x). A network-focused look at metacommunities from a neutral perspective. Demonstrates that spatial structure within a metacommunity can promote gamma diversity.  
+
+31. **Economo, E.P., Keitt, T.H., 2010. Network isolation and local diversity in neutral metacommunities. Oikos 001–009.** [DOI:10.1111/j.1600-0707.2010.18272.x](http://dx.doi.org/10.1111/j.1600-0707.2010.18272.x). Another look at neutral metacommunities. Shows diversity increases with node centrality withing a network (graph theory approach). Defines different aspects of network centrality. Highlights the interaction between spatial extrnt and dispersal-evolution tradeoff. i.e. isolation only predicts diversity at a critical scale. 
+ 
 <!--
 [DOI:](http://dx.doi.org/)
 -->
