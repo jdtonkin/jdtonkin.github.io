@@ -11,7 +11,7 @@ I am a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State Un
 
 Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/) in New Zealand looking at the interaction between productivity and disturbance on structuring stream invertebrate diversity patterns. I followed that up with a job lecturing in Environmental Management and Marine Studies at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/) in Tauranga, New Zealand. I then spent one year at [Xi’an Jiaotong-Liverpool University](http://www.xjtlu.edu.cn/en/) in Suzhou, China lecturing Environmental Science. I followed that up by a couple of years at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum in Germany, based in the River Ecology and Conservation [Department](http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26) in Gelnhausen.
 
-#Research Interests
+# Research Interests
 - Stream ecology
 - Community ecology
 - Metacommunity ecology
@@ -21,7 +21,7 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 - Restoration ecology
 
 
-#Academic Positions
+# Academic Positions
 
 **October 2015 – Present:** Postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA, based in the [Department of Integrative Biology](http://ib.oregonstate.edu/).  
 **September 2013 – September 2015:** Postdoctoral Researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum, Gelnhausen, Germany.   
@@ -29,7 +29,7 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 **February 2011 – July 2012:** Academic Staff Member at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/), Tauranga, New Zealand.  
 
 
-#Education
+# Education
 
 **PhD in Ecology**, [Massey University](http://www.massey.ac.nz/), New Zealand, 2011. Thesis title: “The effects of productivity and disturbance on diversity in stream communities” - Supervisors: Russell Death, Mike Joy, Kevin Collier   
 **BSc (Hons) 1st Class in Ecology**, [Massey University](http://www.massey.ac.nz/), New Zealand, 2006. Thesis title: “The effects of flow regulation on macroinvertebrate drift in the Tongariro River, New Zealand”   
@@ -43,10 +43,10 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 - [British Ecological Society (BES)](http://www.britishecologicalsociety.org/)
 
 
-#Editorial Boards
+# Editorial Boards
 [PeerJ](https://peerj.com/)
 
-#Contact details
+# Contact details
 
 <style>
     .l-box {
