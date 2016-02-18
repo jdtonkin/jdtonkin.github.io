@@ -74,9 +74,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 </div>
 -->
 
-#Journal articles  
+# Journal articles  
 
-##Submitted
+## Submitted
 
 <span style="color:#999"> [35] Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*Submitted*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. </span>
 
@@ -102,13 +102,13 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 -->
 
-##In press
+## In press
 
 <span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*). Context dependency in biodiversity patterns of central German stream metacommunities. **Freshwater Biology**. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
 
 
-##Published
+## Published
 
 **<span style="color:#999">2016</span>**  
 
@@ -176,14 +176,14 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <span style="color:#999">[1]</span> **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? <a href="http://dx.doi.org/10.1002/rra.1213" target="_blank">River Research and Applications</a> 25:1219-1231. [<i class="fa fa-fw fa-file-pdf-o"></i>](2009 Tonkin etal River Research and Applications.pdf)
 
 
-#Theses
+# Theses
 
 **Tonkin, J. D.** 2011. The effects of productivity and disturbance on diversity in stream communities. PhD thesis, Massey University, New Zealand.
 
 **Tonkin, J. D.** 2006. The effects of flow regulation on macroinvertebrate drift in the Tongariro River, New Zealand. Unpublished Honours thesis, Massey University, Palmerston North.
 
 
-#Reports
+# Reports
 
 David, B., M. Hamer, **J. Tonkin**, and C. Bourke. 2014. Appropriate use of mussel spat ropes to facilitate passage for stream organisms. Waikato Regional Council Technical Report 2014/29, Hamilton, New Zealand.
 
