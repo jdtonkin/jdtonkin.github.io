@@ -92,7 +92,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> [29] Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.</span>
 
-<span style="color:#999"> [28] Breyer, P., **J. D. Tonkin**, D. Früh, P. Haase, and S. Stoll (*Submitted*). Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration.</span>
 
 
 
@@ -104,7 +103,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## In press
 
-<span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. (*Submitted*). Context dependency in biodiversity patterns of central German stream metacommunities. **Freshwater Biology**. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
+<span style="color:#999"> [28] Stoll, S., P. Breyer, **J. D. Tonkin**, D. Früh, and P. Haase. 2016. Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration practice. *Science of the Total Environment*</span>
 
 
 
@@ -112,6 +111,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2016</span>**  
 
+<span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. 2016. Context dependency in biodiversity patterns of central German stream metacommunities. <a href="http://dx.doi.org/10.1111/fwb.12728" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12728. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Freshwater Biology.pdf.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
 <span style="color:#999">[26]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2016. Elements of metacommunity structure of river and riparian assemblages: communities, taxonomic groups and deconstructed trait groups.
 <a href="http://dx.doi.org/10.1016/j.ecocom.2015.12.002" target="_blank">Ecological Complexity</a> 25:35-43. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Ecological Complexity.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
