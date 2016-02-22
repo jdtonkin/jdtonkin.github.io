@@ -77,17 +77,17 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 33. **Lytle, D.A., Merritt, D.M., 2004. Hydrologic regimes and riparion forests: a structured population model for cottonwood. Ecology 85, 2493–2503.** [DOI:10.1890/04-0282](http://dx.doi.org/10.1890/04-0282). A fundamental part of our research here. A structured matrix population model for cottonwood. 
 
-34. Review for journal. 
+34. **Review for journal.** 
 
 35. **Cureton, J.C., Broughton, R.E., 2014. Rapid morphological divergence of a stream fish in response to changes in water flow. Biology letters 10, 20140352.** [DOI:10.1098/rsbl.2014.0352](http://dx.doi.org/10.1098/rsbl.2014.0352)
 
-36. Review for journal. 
+36. **Review for journal.** 
 
-37. Re-review for journal. 
+37. **Re-review for journal.** 
 
 38. **Harper, M.P., Peckarsky, B.L., 2006. Emergence cues of a mayfly in a high-altitude stream ecosystem: potential response to climate change. Ecological Applications 16, 612–621.** Baetis bicaudatus emerges early in dry years by using water temperature as the proximate cue for metamorphosis. Water temp and discharge are strongly tied (water temp increases with decreasing flow), so they used an additional experiment to determine whether flow or temp was key driver.
 
-39. Review for journal. 
+39. **Review for journal.**
 
 40. **Humphries, P., Baldwin, D.S., 2003. Drought and aquatic ecosystems. Freshwater Biology 48, 1141–1146.** [DOI:10.1002/9781444341812](http://dx.doi.org/10.1002/9781444341812). Intro to special issue on droughts overlaying some of the key findings and definitions of droughts. 
 
