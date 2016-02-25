@@ -30,6 +30,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
 .middle {
+	display: table-cell;
     vertical-align: middle;
     }
 
