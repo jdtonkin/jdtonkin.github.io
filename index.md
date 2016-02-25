@@ -6,6 +6,7 @@ title: 'Home'
 <style>
     .l-box {
         padding: 2em;
+        vertical-align: middle;
     }
 </style>
 
