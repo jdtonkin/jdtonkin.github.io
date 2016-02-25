@@ -21,16 +21,13 @@ title: 'Home'
 </div>
 
 <div class="pure-u-1-2" >
-<div class="outer">
-<div class="middle">
-<div class="inner">
+<div class="vh">
 
 <p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. </p>
 
 <p>I am currently a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on my website. </p>
 
-</div>
-</div>
+
 </div>
 </div>
 </div>

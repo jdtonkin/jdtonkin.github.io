@@ -29,22 +29,16 @@ nav { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
 footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
-.outer {
-    display: table;
-    position: absolute;
-    height: 100%;
+.vh {
+    background-color: #ddd;
+    height: 400px;
+    align-items: center;
+    display: flex;
+}
+.vh > div {
     width: 100%;
-}
-
-.middle {
-    display: table-cell;
+    text-align: center;
     vertical-align: middle;
-}
-
-.inner {
-    margin-left: auto;
-    margin-right: auto; 
-    width: /*whatever width you want*/;
 }
 
 .share-page {
