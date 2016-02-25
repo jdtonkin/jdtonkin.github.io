@@ -20,7 +20,7 @@ title: 'Home'
 
 </div>
 
-<div class="pure-u-2-2" >
+<!--<div class="pure-u-1-2" >-->
 
 <div class="vh">
 
@@ -29,7 +29,7 @@ title: 'Home'
 <p>I am currently a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on my website. </p>
 
 
-</div>
+
 </div>
 </div>
 
