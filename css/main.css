@@ -29,10 +29,23 @@ nav { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
 footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
+.outer {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
 .middle {
-	display: table-cell;
+    display: table-cell;
     vertical-align: middle;
-    }
+}
+
+.inner {
+    margin-left: auto;
+    margin-right: auto; 
+    width: /*whatever width you want*/;
+}
 
 .share-page {
     text-align: left; font-family: 'fira sans'; color: #999; 
