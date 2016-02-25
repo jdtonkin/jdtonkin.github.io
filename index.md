@@ -5,7 +5,7 @@ title: 'Home'
 
 <style>
     .l-box {
-        padding: 2em;
+        padding: 1em;
     }
 </style>
 
@@ -14,7 +14,7 @@ title: 'Home'
 
 <div class="l-box">
 <!-- pure-img makes image scalable-->
-<img src="website_nw.eps" size="300px">
+<img class="pure-img" src="website_nw.eps" size="300px">
 </div>
 
 
