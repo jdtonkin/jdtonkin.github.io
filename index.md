@@ -14,7 +14,7 @@ title: 'Home'
 
 <div class="l-box">
 <!-- pure-img makes image scalable-->
-<img class="pure-img" src="website_nw.eps" size="300px">
+<img class="pure-img" src="website_nw.png" size="300px">
 </div>
 
 
