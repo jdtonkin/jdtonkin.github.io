@@ -20,9 +20,9 @@ title: 'Home'
 
 </div>
 
-<div class="vh">
 <div class="pure-u-1-2" >
 
+<div class="vh">
 
 <p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. </p>
 

@@ -30,8 +30,6 @@ footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #E14000; }
 
 .vh {
-    background-color: #ddd;
-    height: 400px;
     align-items: center;
     display: flex;
 }
