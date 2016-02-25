@@ -12,11 +12,12 @@ title: 'Home'
 <div class="pure-g">
 <div class="pure-u-1-2" >
 
+<div class="vh">
 <div class="l-box">
 <!-- pure-img makes image scalable-->
 <img class="pure-img" src="website_nw.png" size="300px">
 </div>
-
+</div>
 
 </div>
 
