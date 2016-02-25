@@ -20,7 +20,7 @@ title: 'Home'
 
 </div>
 
-<div class="pure-u-1-2" >
+<div class="pure-u-2-2" >
 
 <div class="vh">
 
