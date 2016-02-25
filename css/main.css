@@ -31,12 +31,12 @@ footer a:hover { color: #E14000; }
 
 .vh {
     height: 400px;
-    align-items: left;
+    align-items: center;
     display: flex;
 }
 .vh > div {
     width: 100%;
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
 }
 
