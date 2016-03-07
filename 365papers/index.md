@@ -61,35 +61,51 @@ As per the twitter [\#365papers](https://twitter.com/search?q=%23365papers) hash
 
 25. **Steel, E.A., Lange, I.A., 2007. Using wavelet analysis to detect changes in water temperature regimes at multiple scales: effects of multi-purpose dams in the Willamette River Basin. River Research and Applications 23, 351–359.** [DOI:10.1002/rra.985](http://dx.doi.org/10.1002/rra.985). Identifies the temporal scales of variability in temperature that dams disrupt.
 
-26. **Jardine, T.D., Bond, N.R., Burford, M.A., Kennard, M.J., Ward, D.P., Bayliss, P., Davies, P.M., Dougals, M.M., Hamilton, S.K., Melack, J.M., Naiman, R.J., Pettit, N.E., Pusey, B.J., Warfe, D., Bunn, S.E., 2015. Does flood rhythm drive ecosystem responses in tropical riverscapes? Ecology 96, 684–692.** [DOI:10.1890/14-0991.1](http://dx.doi.org/10.1890/14-0991.1). Really nice paper looking at flood rhythm in large tropical rivers. They demonstrated the role of rhythmicity, or predictability of the timing and magnitude, of flood events on biota and other processes. Essentially more rythmic rivers support more diverse fish assemblages, more stable bird populations and greater riparian forest production. 
+26. **Jardine, T.D., Bond, N.R., Burford, M.A., Kennard, M.J., Ward, D.P., Bayliss, P., Davies, P.M., Dougals, M.M., Hamilton, S.K., Melack, J.M., Naiman, R.J., Pettit, N.E., Pusey, B.J., Warfe, D., Bunn, S.E., 2015. Does flood rhythm drive ecosystem responses in tropical riverscapes? Ecology 96, 684–692.** [DOI:10.1890/14-0991.1](http://dx.doi.org/10.1890/14-0991.1). Really nice paper looking at flood rhythm in large tropical rivers. They demonstrated the role of rhythmicity, or predictability of the timing and magnitude, of flood events on biota and other processes. Essentially more rythmic rivers support more diverse fish assemblages, more stable bird populations and greater riparian forest production.
 
-27. **Fahimipour, A.K., Hein, A.M., 2014. The dynamics of assembling food webs. Ecology Letters 17, 606-613.** [DOI:10.1111/ele.12264](http://dx.doi.org/10.1111/ele.12264). Food web structure develops according to repeatable trajectories that are strongly influenced by colonisation rate. They found webs with different colonisation rate had stable web topologies, despite strong assemblage turnover. This indicates network architecture begins early and remains similar through the assembly process. 
+27. **Fahimipour, A.K., Hein, A.M., 2014. The dynamics of assembling food webs. Ecology Letters 17, 606-613.** [DOI:10.1111/ele.12264](http://dx.doi.org/10.1111/ele.12264). Food web structure develops according to repeatable trajectories that are strongly influenced by colonisation rate. They found webs with different colonisation rate had stable web topologies, despite strong assemblage turnover. This indicates network architecture begins early and remains similar through the assembly process.
 
-28. **Adler, P.B., HilleRisLambers, J., Kyriakidis, P.C., Guan, Q., Levine, J.M., 2006. Climate variability has a stabilizing effect on the coexistence of prairie grasses. Proceedings of the National Academy of Sciences of the United States of America 103, 12793–12798.** [DOI:10.1073/pnas.0600599103](http://dx.doi.org/10.1073/pnas.0600599103). Evidence of the storage effect coexistence mechanism at work in relation to climatic variability. 
+28. **Adler, P.B., HilleRisLambers, J., Kyriakidis, P.C., Guan, Q., Levine, J.M., 2006. Climate variability has a stabilizing effect on the coexistence of prairie grasses. Proceedings of the National Academy of Sciences of the United States of America 103, 12793–12798.** [DOI:10.1073/pnas.0600599103](http://dx.doi.org/10.1073/pnas.0600599103). Evidence of the storage effect coexistence mechanism at work in relation to climatic variability.
 
-29. **Gravel, D., Poisot, T., Desjardins-Proulx, P., 2014. Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes. Journal of Limnology 73, 61–73.** [DOI:10.4081/jlimnol.2014.807](http://dx.doi.org/10.4081/jlimnol.2014.807). Uses a combination of graph/network theory and neutral theory. Develop three models to differentiate between neutral, patch dynamics and species sorting using simulated data in four landscape types. Demonstrates the importance of landscape structure and network position. 
+29. **Gravel, D., Poisot, T., Desjardins-Proulx, P., 2014. Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes. Journal of Limnology 73, 61–73.** [DOI:10.4081/jlimnol.2014.807](http://dx.doi.org/10.4081/jlimnol.2014.807). Uses a combination of graph/network theory and neutral theory. Develop three models to differentiate between neutral, patch dynamics and species sorting using simulated data in four landscape types. Demonstrates the importance of landscape structure and network position.
 
 30. **Economo, E.P., Keitt, T.H., 2008. Species diversity in neutral metacommunities: A network approach. Ecology Letters 11, 52–62.** [DOI:10.1111/j.1461-0248.2007.01126.x](http://dx.doi.org/10.1111/j.1461-0248.2007.01126.x). A network-focused look at metacommunities from a neutral perspective. Demonstrates that spatial structure within a metacommunity can promote gamma diversity.  
 
-31. **Economo, E.P., Keitt, T.H., 2010. Network isolation and local diversity in neutral metacommunities. Oikos 001–009.** [DOI:10.1111/j.1600-0707.2010.18272.x](http://dx.doi.org/10.1111/j.1600-0707.2010.18272.x). Another look at neutral metacommunities. Shows diversity increases with node centrality withing a network (graph theory approach). Defines different aspects of network centrality. Highlights the interaction between spatial extrnt and dispersal-evolution tradeoff. i.e. isolation only predicts diversity at a critical scale. 
- 
+31. **Economo, E.P., Keitt, T.H., 2010. Network isolation and local diversity in neutral metacommunities. Oikos 001–009.** [DOI:10.1111/j.1600-0707.2010.18272.x](http://dx.doi.org/10.1111/j.1600-0707.2010.18272.x). Another look at neutral metacommunities. Shows diversity increases with node centrality withing a network (graph theory approach). Defines different aspects of network centrality. Highlights the interaction between spatial extrnt and dispersal-evolution tradeoff. i.e. isolation only predicts diversity at a critical scale.
+
 32. **Barson, N.J., Aykanat, T., Hindar, K., Baranski, M., Bolstad, G.H., Fiske, P., Jacq, C., Jensen, A.J., Johnston, S.E., Karlsson, S., Kent, M., Moen, T., Niemelä, E., Nome, T., Næsje, T.F., Orell, P., Romakkaniemi, A., Sægrov, H., Urdal, K., Erkinaro, J., Lien, S., Primmer, C.R., 2015. Sex-dependent dominance at a single locus maintains variation in age at maturity in salmon. Nature 000, 1–4.** [DOI:10.1038/nature16062](http://dx.doi.org/10.1038/nature16062)
 
-33. **Lytle, D.A., Merritt, D.M., 2004. Hydrologic regimes and riparion forests: a structured population model for cottonwood. Ecology 85, 2493–2503.** [DOI:10.1890/04-0282](http://dx.doi.org/10.1890/04-0282). A fundamental part of our research here. A structured matrix population model for cottonwood. 
+33. **Lytle, D.A., Merritt, D.M., 2004. Hydrologic regimes and riparion forests: a structured population model for cottonwood. Ecology 85, 2493–2503.** [DOI:10.1890/04-0282](http://dx.doi.org/10.1890/04-0282). A fundamental part of our research here. A structured matrix population model for cottonwood.
 
-34. **Review for journal.** 
+34. **Review for journal.**
 
 35. **Cureton, J.C., Broughton, R.E., 2014. Rapid morphological divergence of a stream fish in response to changes in water flow. Biology letters 10, 20140352.** [DOI:10.1098/rsbl.2014.0352](http://dx.doi.org/10.1098/rsbl.2014.0352)
 
-36. **Review for journal.** 
+36. **Review for journal.**
 
-37. **Re-review for journal.** 
+37. **Re-review for journal.**
 
 38. **Harper, M.P., Peckarsky, B.L., 2006. Emergence cues of a mayfly in a high-altitude stream ecosystem: potential response to climate change. Ecological Applications 16, 612–621.** Baetis bicaudatus emerges early in dry years by using water temperature as the proximate cue for metamorphosis. Water temp and discharge are strongly tied (water temp increases with decreasing flow), so they used an additional experiment to determine whether flow or temp was key driver.
 
 39. **Review for journal.**
 
-40. **Humphries, P., Baldwin, D.S., 2003. Drought and aquatic ecosystems. Freshwater Biology 48, 1141–1146.** [DOI:10.1002/9781444341812](http://dx.doi.org/10.1002/9781444341812). Intro to special issue on droughts overlaying some of the key findings and definitions of droughts. 
+40. **Humphries, P., Baldwin, D.S., 2003. Drought and aquatic ecosystems. Freshwater Biology 48, 1141–1146.** [DOI:10.1002/9781444341812](http://dx.doi.org/10.1002/9781444341812). Intro to special issue on droughts overlaying some of the key findings and definitions of droughts.
+
+41. **Friendly review for colleagues.**
+
+42. **Jocque, M., Field, R., Brendonck, L. & De Meester, L. (2010). Climatic control of dispersal-ecological specialization trade-offs: a metacommunity process at the heart of the latitudinal diversity gradient? Glob. Ecol. Biogeogr., 19, 244–252.** [DOI:10.1111/j.1466-8238.2009.00510.x](http://dx.doi.org/10.1111/j.1466-8238.2009.00510.x)
+
+43. **Re-read: Heino, J., Melo, A.S., Bini, L.M., Altermatt, F., Al-Shami, S.A., Angeler, D.G., et al. (2015). A comparative analysis reveals weak relationships between ecological factors and beta diversity of stream insect metacommunities at two spatial levels. Ecology and Evolution, 5, 1235–1248.** [DOI:10.1002/ece3.1439](http://dx.doi.org/10.1002/ece3.1439)
+
+44. **Allstadt, A.J., Liebhold, A.M., Johnson, D.M., Davis, R.E. & Haynes, K.J. (2015). Temporal variation in the synchrony of weather and its consequences for spatiotemporal population dynamics. Ecology, 96, 2935–2946.** [DOI:10.1890/14-1497.1.sm](http://dx.doi.org/10.1890/14-1497.1.sm)
+
+45. **Humphries, P., Keckeis, H. & Finlayson, B. (2014). The River Wave Concept: Integrating River Ecosystem Models. Bioscience, 64, 870–882.** [DOI:10.1093/biosci/biu130](http://dx.doi.org/10.1093/biosci/biu130)
+
+46. **Merritt, D.M. & Poff, N.L. (2010). Shifting dominance of riparian Populus and Tamarix along gradients of flow alteration in western North American rivers. Ecol. Appl., 20, 135–152.**
+
+47. **Belmaker, J., Sekercioglu, C.H. & Jetz, W. (2012). Global patterns of specialization and coexistence in bird assemblages. J. Biogeogr., 39, 193–203.** [DOI:10.1111/j.1365-2699.2011.02591.x](http://dx.doi.org/10.1111/j.1365-2699.2011.02591.x)
+
+48. **Review for journal.**
 
 
 <!--
