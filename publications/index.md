@@ -78,7 +78,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Submitted
 
-<span style="color:#999"> [35] Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*Submitted*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. </span>
+<span style="color:#999"> [35] Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.</span>
 
 <span style="color:#999"> [34] **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.</span>
 
@@ -90,7 +90,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> [30] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
 
-<span style="color:#999"> [29] Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.</span>
+
 
 
 
@@ -99,11 +99,12 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <a href="http://dx.doi.org/" target="_blank"> JOURNAL </a> ISSUE/DOI. [<i class="fa fa-fw fa-file-pdf-o"></i>](.pdf)
 
-
-
-## In press
 -->
 
+## In press
+
+
+<span style="color:#999"> [29] Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*In press*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. Science of the Total Environment. </span>
 
 ## Published
 
