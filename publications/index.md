@@ -104,7 +104,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 ## In press
 
 
-<span style="color:#999"> [29] Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*In press*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. Science of the Total Environment. </span>
+<span style="color:#999"> [29] </span> Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*In press*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. Science of the Total Environment. 
 
 ## Published
 
