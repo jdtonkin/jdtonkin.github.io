@@ -8,9 +8,9 @@ author:
   github: jdtonkin
 
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /news/:year/:month/:day/:title
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /news/
 url: "http://jdtonkin.github.io" # the base hostname & protocol for your site
 
 title: jdtonkin.github.io
