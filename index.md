@@ -48,7 +48,7 @@ I am currently a postdoctoral scholar at <a href="http://oregonstate.edu/">Orego
 	  {% endfor %}
 	</ul>
 
-<iframe width="400" height="400" style="border:none;" src="http://output13.rssinclude.com/output?type=iframe&amp;id=1068322&amp;hash=5d7fb30256ffddcbde44c556b5b9fe76"></iframe>
+
 
 <!--
 <i class="fa fa-fw fa-envelope"></i><span style="color:#999"> jdtonkin [at] gmail.com</span>   
