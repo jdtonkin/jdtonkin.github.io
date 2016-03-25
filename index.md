@@ -48,57 +48,6 @@ I am currently a postdoctoral scholar at <a href="http://oregonstate.edu/">Orego
 	  {% endfor %}
 	</ul>
 
-## Latest blog posts on medium.com
-
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-<title>
-<![CDATA[ Jonathan Tonkin on Medium ]]>
-</title>
-<description>
-<![CDATA[ Latest posts by Jonathan Tonkin on Medium ]]>
-</description>
-<link>
-https://medium.com/@jdtonkin?source=rss-5496f6055624------2
-</link>
-<image>
-<url>
-https://d262ilb51hltx0.cloudfront.net/fit/c/150/150/0*k1_E4jsYnPLE6qNd.jpg
-</url>
-<title>Jonathan Tonkin on Medium</title>
-<link>
-https://medium.com/@jdtonkin?source=rss-5496f6055624------2
-</link>
-</image>
-<generator>RSS for Node</generator>
-<lastBuildDate>Fri, 25 Mar 2016 16:20:10 GMT</lastBuildDate>
-<atom:link href="https://medium.com/feed/@jdtonkin" rel="self" type="application/rss+xml"/>
-<webMaster>
-<![CDATA[ yourfriends@medium.com ]]>
-</webMaster>
-<atom:link href="http://medium.superfeedr.com" rel="hub"/>
-<item>
-<title>
-<![CDATA[
-Context-dependency reigns supreme in stream biodiversity patterns
-]]>
-</title>
-<description>
-<![CDATA[
-<div class="medium-feed-item"><p class="medium-feed-snippet">Context dependency is an emerging topic that is challenging our understanding of the factors shaping biodiversity in metacommunities. From&#8230;</p><p class="medium-feed-link"><a href="https://medium.com/@jdtonkin/context-dependency-reigns-supreme-in-stream-biodiversity-patterns-2e02e21a633b?source=rss-5496f6055624------2">Continue reading on Medium »</a></p></div>
-]]>
-</description>
-<link>
-https://medium.com/@jdtonkin/context-dependency-reigns-supreme-in-stream-biodiversity-patterns-2e02e21a633b?source=rss-5496f6055624------2
-</link>
-<guid isPermaLink="false">https://medium.com/p/2e02e21a633b</guid>
-<dc:creator>
-<![CDATA[ Jonathan Tonkin ]]>
-</dc:creator>
-<pubDate>Thu, 18 Feb 2016 00:00:00 GMT</pubDate>
-</item>
-</channel>
-</rss>
 
 <!--
 <i class="fa fa-fw fa-envelope"></i><span style="color:#999"> jdtonkin [at] gmail.com</span>   
