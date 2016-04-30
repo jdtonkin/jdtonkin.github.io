@@ -78,6 +78,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Submitted
 
+<span style="color:#999"> [36] Jähnig, S. C., J. D. Tonkin, M. Gies, S. Domisch, D. Hering, P. Haase. (*Submitted*). Potential effects of climate change on stream ecosystems: a biomonitoring perspective. </span>
+
 <span style="color:#999"> [35] Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.</span>
 
 <span style="color:#999"> [34] **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.</span>
