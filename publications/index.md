@@ -78,7 +78,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Submitted
 
-<span style="color:#999"> [37] Death, R. G., C. J. Jordan, R. Magierowski, *J. D. Tonkin*, and A. Canning. (*Submitted*). Clean but not green: a weight-of-evidence approach for setting nutrient criteria in New Zealand rivers. </span>
+<span style="color:#999"> [37] Death, R. G., C. J. Jordan, R. Magierowski, **J. D. Tonkin**, and A. Canning. (*Submitted*). Clean but not green: a weight-of-evidence approach for setting nutrient criteria in New Zealand rivers. </span>
 
 <span style="color:#999"> [36] Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*Submitted*). Potential effects of climate change on stream ecosystems: a biomonitoring perspective. </span>
 
