@@ -105,17 +105,21 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 -->
 
-## In press
 
-<span style="color:#999"> [30] </span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. (*In press*). Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates. Biodiversity and Conservation.
 
-<span style="color:#999"> [29] </span> Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  (*In press*). Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers. Science of the Total Environment. 
+
 
 ## Published
 
 **<span style="color:#999">2016</span>**  
 
-<span style="color:#999">[28]</span> Stoll, S., P. Breyer, **J. D. Tonkin**, D. Früh, and P. Haase. 2016. Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration practice. <a href="http://dx.doi.org/10.1016/j.scitotenv.2016.02.126" target="_blank">Science of the Total Environment</a> 553:495–503. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll et al. Science of the Total Environment.pdf)
+<span style="color:#999">[30]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. 2016. Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
+<a href="http://dx.doi.org/10.1007/s10531-016-1101-2" target="_blank">Biodiversity and Conservation</a> 25:975–993. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Biodiversity and Conservation.pdf)
+
+<span style="color:#999">[29]</span> Leps, M., A. Sundermann, **J. D. Tonkin**, A. W. Lorenz, and P. Haase.  2016. Time is no healer: increasing restoration age does not lead to improved benthic invertebrate communities in restored rivers.
+<a href="http://dx.doi.org/10.1016/j.scitotenv.2016.03.120" target="_blank">Science of the Total Environment</a> 557–558:722–732. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Leps etal Science of the Total Environment.pdf)
+
+<span style="color:#999">[28]</span> Stoll, S., P. Breyer, **J. D. Tonkin**, D. Früh, and P. Haase. 2016. Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration practice. <a href="http://dx.doi.org/10.1016/j.scitotenv.2016.02.126" target="_blank">Science of the Total Environment</a> 553:495–503. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll etal Science of the Total Environment.pdf)
 
 <span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. 2016. Context dependency in biodiversity patterns of central German stream metacommunities. <a href="http://dx.doi.org/10.1111/fwb.12728" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12728. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Freshwater Biology.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
