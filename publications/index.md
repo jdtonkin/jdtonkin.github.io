@@ -79,10 +79,10 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 ## Submitted
 
 
-
+<!--
 <span style="color:#999"> [39] Haase. P\*, **J. D. Tonkin\***, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Häuser, S. Klotz, I. Kühn, M. Mirtl, F. Müller, M. Musche, J. Penner, and D. S. Schmeller. (*Submitted*). Next generation of site-based long-term ecological monitoring: Linking Essential Biodiversity Variables and Ecosystem Integrity.  
-* Authors contributed equally  </span>
-
+\*Authors contributed equally  </span>
+-->
 
 
 <span style="color:#999"> [38] **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*Submitted*). Seasonality, predictability, and the maintenance of temporal biodiversity. </span>
