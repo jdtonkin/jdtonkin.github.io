@@ -81,15 +81,11 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 
 
-<!--
-<span style="color:#999"> [40] Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*Submitted*). Reaction of fish species to river restoration – the role of species traits.
--->
 
+<span style="color:#999"> [40] Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*Submitted*). Reaction of fish species to river restoration – the role of species traits. [<i class="fa fa-fw fa-file-text-o"></i>](https://doi.org/10.7287/peerj.preprints.2173v1) </span>
 
 <span style="color:#999"> [39] Haase. P\*, **J. D. Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Häuser, S. Klotz, I. Kühn, M. Mirtl, F. Müller, M. Musche, J. Penner, and D. S. Schmeller. (*Submitted*). Next generation of site-based long-term ecological monitoring.    
 \*Authors contributed equally  </span>
-
-
 
 <span style="color:#999"> [38] **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*Submitted*). Seasonality, predictability, and the maintenance of temporal biodiversity. </span>
 
@@ -101,15 +97,14 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> [34] **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.</span>
 
-<span style="color:#999"> [33] Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. (*Submitted*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities.</span>
+<span style="color:#999"> [33] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
 
 <span style="color:#999"> [32] Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
 
-<span style="color:#999"> [31] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
 
+## In press
 
-
-
+<span style="color:#999"> [31] </span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. (*In press*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities. *Hydrobiologia*
 
 
 <!-- template for pub:
