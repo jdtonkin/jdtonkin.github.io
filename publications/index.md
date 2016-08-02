@@ -129,9 +129,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[28]</span> Stoll, S., P. Breyer, **J. D. Tonkin**, D. Früh, and P. Haase. 2016. Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration practice. <a href="http://dx.doi.org/10.1016/j.scitotenv.2016.02.126" target="_blank">Science of the Total Environment</a> 553:495–503. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll etal Science of the Total Environment.pdf)
 
-<span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. 2016. Context dependency in biodiversity patterns of central German stream metacommunities. <a href="http://dx.doi.org/10.1111/fwb.12728" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12728. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Freshwater Biology.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1) 
-
-<div class='altmetric-embed' data-badge-popover='left' data-doi='10.1111/fwb.12728'></div>
+<span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. 2016. Context dependency in biodiversity patterns of central German stream metacommunities. <a href="http://dx.doi.org/10.1111/fwb.12728" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12728. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Freshwater Biology.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1) <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <div class='altmetric-embed' data-badge-popover='left' data-doi='10.1111/fwb.12728'></div>
 
 <div data-badge-type="bar" data-doi="10.1111/fwb.12728" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
