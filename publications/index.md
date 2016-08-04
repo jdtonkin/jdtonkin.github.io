@@ -92,18 +92,17 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> [36] Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*Submitted*). Potential effects of climate change on stream ecosystems: a biomonitoring perspective. </span>
 
-<span style="color:#999"> [35] Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*Submitted*). Ecological characterisation of an unknown fauna using DNA taxonomy – An example with Himalayan stream insects.</span>
+<span style="color:#999"> [35] **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.</span>
 
-<span style="color:#999"> [34] **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.</span>
+<span style="color:#999"> [34] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
 
-<span style="color:#999"> [33] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
-
-<span style="color:#999"> [32] Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
+<span style="color:#999"> [33] Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
 
 
 ## In press
 
-<span style="color:#999"> [31] </span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. (*In press*). Effects of Chaetogaster limnaei limnaei on freshwater snail communities. *Hydrobiologia*
+
+<span style="color:#999"> [32] </span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*In press*). Environmental and spatial characterisation of an unknown fauna using DNA sequencing – An example with Himalayan Hydropsychidae (Insecta: Trichoptera). *Freshwater Biology*
 
 
 <!-- template for pub:
@@ -113,12 +112,11 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 -->
 
 
-
-
-
 ## Published
 
 **<span style="color:#999">2016</span>**  
+
+<span style="color:#999"> [31] </span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. 2016. Effects of Chaetogaster limnaei limnaei on freshwater snail communities. <a href="http://dx.doi.org/10.1007/s10750-016-2909-1" target="_blank">Hydrobiologia</a> DOI:10.1007/s10750-016-2909-1. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll etal Hydrobiologia.pdf)
 
 <span style="color:#999">[30]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. 2016. Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
 <a href="http://dx.doi.org/10.1007/s10531-016-1101-2" target="_blank">Biodiversity and Conservation</a> 25:975–993. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Biodiversity and Conservation.pdf)
@@ -128,7 +126,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999">[28]</span> Stoll, S., P. Breyer, **J. D. Tonkin**, D. Früh, and P. Haase. 2016. Scale-dependent effects of river habitat quality on benthic invertebrate communities - implications for stream restoration practice. <a href="http://dx.doi.org/10.1016/j.scitotenv.2016.02.126" target="_blank">Science of the Total Environment</a> 553:495–503. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll etal Science of the Total Environment.pdf)
 
-<span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. 2016. Context dependency in biodiversity patterns of central German stream metacommunities. <a href="http://dx.doi.org/10.1111/fwb.12728" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12728. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Freshwater Biology.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1) 
+<span style="color:#999">[27]</span> **Tonkin, J. D.**, J. Heino, A. Sundermann, P. Haase, and S. C. Jähnig. 2016. Context dependency in biodiversity patterns of central German stream metacommunities. <a href="http://dx.doi.org/10.1111/fwb.12728" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12728. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Freshwater Biology.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1040v1)
 
 
 <span style="color:#999">[26]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2016. Elements of metacommunity structure of river and riparian assemblages: communities, taxonomic groups and deconstructed trait groups.
