@@ -29,6 +29,7 @@ title: 'Home'
 
 I am currently a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on this website. Also find my <a href="https://medium.com/@jdtonkin">blog here</a>. </p>
 
+<p> Check out my shiny app modeling riparian plants under different flow regimes <a href="https://jdtonkin.shinyapps.io/CotTam/">here</a>. </p>
 
 </div>
 </div>
