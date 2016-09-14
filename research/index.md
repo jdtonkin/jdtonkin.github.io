@@ -16,7 +16,7 @@ title: Research
 - Restoration ecology  
 
 
-Research overview
+# Research overview
 
 
 I am a computational community ecologist aiming to disentangle the mechanisms that promote and maintain biodiversity at different scales. A strong focus of my work is searching for mechanistic links between environmental variation and population and community dynamics in highly dynamic, abiotically-forced systems. While much of my research has focused on running waters, my interests are question oriented, not system specific. I use a variety of approaches to explore these questions, including field manipulations, simulations and mining large datasets using different statistical, network and machine learning techniques.
