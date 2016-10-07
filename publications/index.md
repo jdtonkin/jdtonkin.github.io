@@ -77,9 +77,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Submitted
 
+<span style="color:#999"> [42] **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. </span>
 
-
-
+<span style="color:#999"> [41] Lytle, D. A., D. M. Merritt, **J. D. Tonkin**, J. D. Olden, and L. V. Reynolds. (*Submitted*). Linking river flow regimes to riparian plant guilds: a community-wide modeling approach. </span>
 
 <span style="color:#999"> [40] Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*Submitted*). Reaction of fish species to river restoration – the role of species traits. [<i class="fa fa-fw fa-file-text-o"></i>](https://doi.org/10.7287/peerj.preprints.2173v1) </span>
 
@@ -92,17 +92,15 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> [36] Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*Submitted*). Potential effects of climate change on stream ecosystems: a biomonitoring perspective. </span>
 
-<span style="color:#999"> [35] **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. (*Submitted*). Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.</span>
+<span style="color:#999"> [35] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
 
-<span style="color:#999"> [34] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
-
-<span style="color:#999"> [33] Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
+<span style="color:#999"> [34] Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
 
 
 ## In press
 
 
-<span style="color:#999"> [32] </span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. (*In press*). Environmental and spatial characterisation of an unknown fauna using DNA sequencing – An example with Himalayan Hydropsychidae (Insecta: Trichoptera). *Freshwater Biology*
+<span style="color:#999"> [35]</span> **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. 2016. Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics. *Journal of Biogeography*
 
 
 <!-- template for pub:
@@ -115,6 +113,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 ## Published
 
 **<span style="color:#999">2016</span>**  
+
+<span style="color:#999"> [32] </span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. 2016. Environmental and spatial characterisation of an unknown fauna using DNA sequencing – An example with Himalayan Hydropsychidae (Insecta: Trichoptera). <a href="http://dx.doi.org/10.1111/fwb.12824" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12824. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016_Hoppeler_etal_Freshwater_Biology.pdf)
 
 <span style="color:#999"> [31] </span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. 2016. Effects of Chaetogaster limnaei limnaei on freshwater snail communities. <a href="http://dx.doi.org/10.1007/s10750-016-2909-1" target="_blank">Hydrobiologia</a> DOI:10.1007/s10750-016-2909-1. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll etal Hydrobiologia.pdf)
 
