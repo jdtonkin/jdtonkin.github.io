@@ -77,7 +77,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Submitted
 
-<span style="color:#999"> [43] Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (Submitted). Drivers of highland benthic macroinvertebrate community structure: an exploration using coarse taxonomy. </span>
+<span style="color:#999"> [43] Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*Submitted*). Drivers of highland benthic macroinvertebrate community structure: an exploration using coarse taxonomy. </span>
 
 <span style="color:#999"> [42] **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. </span>
 
