@@ -77,30 +77,30 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Submitted
 
-<span style="color:#999"> [42] **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. </span>
+<span style="color:#999"> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. (*Under review*). Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. </span>
 
-<span style="color:#999"> [41] Lytle, D. A., D. M. Merritt, **J. D. Tonkin**, J. D. Olden, and L. V. Reynolds. (*Submitted*). Linking river flow regimes to riparian plant guilds: a community-wide modeling approach. </span>
+<span style="color:#999"> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*Submitted*). Drivers of highland benthic macroinvertebrate community structure: an exploration using coarse taxonomy. </span>
 
-<span style="color:#999"> [40] Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*Submitted*). Reaction of fish species to river restoration – the role of species traits. [<i class="fa fa-fw fa-file-text-o"></i>](https://doi.org/10.7287/peerj.preprints.2173v1) </span>
+<span style="color:#999"> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. </span>
 
-<span style="color:#999"> [39] Haase. P\*, **J. D. Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Häuser, S. Klotz, I. Kühn, M. Mirtl, F. Müller, M. Musche, J. Penner, and D. S. Schmeller. (*Submitted*). Next generation of site-based long-term ecological monitoring.    
+<span style="color:#999"> Lytle, D. A., D. M. Merritt, **J. D. Tonkin**, J. D. Olden, and L. V. Reynolds. (*Submitted*). Linking river flow regimes to riparian plant guilds: a community-wide modeling approach. </span>
+
+<span style="color:#999"> Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*Submitted*). Reaction of fish species to river restoration – the role of species traits. [<i class="fa fa-fw fa-file-text-o"></i>](https://doi.org/10.7287/peerj.preprints.2173v1) </span>
+
+<span style="color:#999"> Haase. P\*, **J. D. Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Häuser, S. Klotz, I. Kühn, M. Mirtl, F. Müller, M. Musche, J. Penner, and D. S. Schmeller. (*Submitted*). Next generation of site-based long-term ecological monitoring.    
 \*Authors contributed equally  </span>
 
-<span style="color:#999"> [38] **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*Submitted*). Seasonality, predictability, and the maintenance of temporal biodiversity. </span>
+<span style="color:#999"> Death, R. G., C. J. Jordan, R. Magierowski, **J. D. Tonkin**, and A. Canning. (*Submitted*). Clean but not green: a weight-of-evidence approach for setting nutrient criteria in New Zealand rivers. </span>
 
-<span style="color:#999"> [37] Death, R. G., C. J. Jordan, R. Magierowski, **J. D. Tonkin**, and A. Canning. (*Submitted*). Clean but not green: a weight-of-evidence approach for setting nutrient criteria in New Zealand rivers. </span>
+<span style="color:#999"> Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*Submitted*). Potential effects of climate change on stream ecosystems: a biomonitoring perspective. </span>
 
-<span style="color:#999"> [36] Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*Submitted*). Potential effects of climate change on stream ecosystems: a biomonitoring perspective. </span>
+<span style="color:#999"> Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
 
-<span style="color:#999"> [35] Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
-
-<span style="color:#999"> [34] Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
+<span style="color:#999"> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
 
 
-## In press
 
 
-<span style="color:#999"> [33]</span> **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. 2016. Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics. *Journal of Biogeography*
 
 
 <!-- template for pub:
@@ -112,11 +112,19 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Published
 
+**<span style="color:#999">2017 and In press</span>**  
+
+<span style="color:#999"> [34]</span> **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*In Press*). Seasonality, predictability, and the maintenance of temporal biodiversity. *Ecology*.
+
+
+<span style="color:#999"> [33]</span> **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. 2017. Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.  <a href="http://dx.doi.org/10.1111/jbi.12895" target="_blank">Journal of Biogeography</a> DOI:10.1111/jbi.12895. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016_Tonkin_etal_Journal_of_Biogeography.pdf)
+
+
+<span style="color:#999"> [32] </span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. 2017. Effects of Chaetogaster limnaei limnaei on freshwater snail communities. <a href="http://dx.doi.org/10.1007/s10750-016-2909-1" target="_blank">Hydrobiologia</a> DOI:10.1007/s10750-016-2909-1. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll etal Hydrobiologia.pdf)
+
 **<span style="color:#999">2016</span>**  
 
-<span style="color:#999"> [32] </span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. 2016. Environmental and spatial characterisation of an unknown fauna using DNA sequencing – An example with Himalayan Hydropsychidae (Insecta: Trichoptera). <a href="http://dx.doi.org/10.1111/fwb.12824" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12824. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016_Hoppeler_etal_Freshwater_Biology.pdf)
-
-<span style="color:#999"> [31] </span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. 2016. Effects of Chaetogaster limnaei limnaei on freshwater snail communities. <a href="http://dx.doi.org/10.1007/s10750-016-2909-1" target="_blank">Hydrobiologia</a> DOI:10.1007/s10750-016-2909-1. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll etal Hydrobiologia.pdf)
+<span style="color:#999"> [31] </span> Hoppeler, F., R. D. T. Shah, D. N. Shah, S. C. Jähnig , **J. D. Tonkin**, S. Sharma, and S. U. Pauls. 2016. Environmental and spatial characterisation of an unknown fauna using DNA sequencing – An example with Himalayan Hydropsychidae (Insecta: Trichoptera). <a href="http://dx.doi.org/10.1111/fwb.12824" target="_blank">Freshwater Biology</a> DOI:10.1111/fwb.12824. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016_Hoppeler_etal_Freshwater_Biology.pdf)
 
 <span style="color:#999">[30]</span> **Tonkin, J. D.**, F. O. Arimoro, and P. Haase. 2016. Exploring stream communities in a tropical biodiversity hotspot: biodiversity, regional occupancy, niche characteristics and environmental correlates.
 <a href="http://dx.doi.org/10.1007/s10531-016-1101-2" target="_blank">Biodiversity and Conservation</a> 25:975–993. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Biodiversity and Conservation.pdf)
