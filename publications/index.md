@@ -77,7 +77,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Submitted
 
-<span style="color:#999"> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. (*Under review*). Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. </span>
+<span style="color:#999"> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. (*Submitted*). Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. </span>
 
 <span style="color:#999"> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*Submitted*). Drivers of highland benthic macroinvertebrate community structure: an exploration using coarse taxonomy. </span>
 
