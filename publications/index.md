@@ -114,7 +114,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2017 and In press</span>**  
 
-<span style="color:#999"> [34]</span> **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*In Press*). Seasonality, predictability, and the maintenance of temporal biodiversity. *Ecology*.
+<span style="color:#999"> [34]</span> **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*In Press*). Seasonality and predictability shape temporal species diversity. *Ecology*.
 
 
 <span style="color:#999"> [33]</span> **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. 2017. Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.  <a href="http://dx.doi.org/10.1111/jbi.12895" target="_blank">Journal of Biogeography</a> DOI:10.1111/jbi.12895. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016_Tonkin_etal_Journal_of_Biogeography.pdf)
