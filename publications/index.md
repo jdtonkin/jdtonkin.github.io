@@ -140,14 +140,14 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <span style="color:#999">[26]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2016. Elements of metacommunity structure of river and riparian assemblages: communities, taxonomic groups and deconstructed trait groups.
 <a href="http://dx.doi.org/10.1016/j.ecocom.2015.12.002" target="_blank">Ecological Complexity</a> 25:35-43. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Tonkin etal Ecological Complexity.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1026v1)
 
-**<span style="color:#999">2015</span>**  
-
-<span style="color:#999">[25]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig. 2015. Latitudinal patterns and large-scale environmental determinants of stream insect richness across Europe. <a href="http://dx.doi.org/10.1016/j.limno.2015.11.001" target="_blank">Limnologica</a> 55:33-43. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Shah etal Limnologica.pdf)
-
-<span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2015. Anthropogenic land use stress alters community concordance at the river-riparian interface.
+<span style="color:#999">[25]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2016. Anthropogenic land use stress alters community concordance at the river-riparian interface.
 <a href="http://dx.doi.org/10.1016/j.ecolind.2015.08.037" target="_blank">Ecological Indicators</a> DOI:10.1016/j.ecolind.2015.08.037. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal Ecological Indicators.pdf) [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.798v1)
 
-<span style="color:#999">[23]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2015. Contrasting metacommunity structure and beta diversity in a river-floodplain system. <a href="http://dx.doi.org/10.1111/oik.02717" target="_blank">Oikos</a> DOI:10.1111/oik.02717. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal Oikos.pdf)
+<span style="color:#999">[24]</span> **Tonkin, J. D.**, S. Stoll, S. C. Jähnig, and P. Haase. 2016. Contrasting metacommunity structure and beta diversity in a river-floodplain system. <a href="http://dx.doi.org/10.1111/oik.02717" target="_blank">Oikos</a> DOI:10.1111/oik.02717. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Tonkin etal Oikos.pdf)
+
+**<span style="color:#999">2015</span>**  
+
+<span style="color:#999">[23]</span> Shah, D. N., **J. D. Tonkin**, P. Haase, and S. C. Jähnig. 2015. Latitudinal patterns and large-scale environmental determinants of stream insect richness across Europe. <a href="http://dx.doi.org/10.1016/j.limno.2015.11.001" target="_blank">Limnologica</a> 55:33-43. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015 Shah etal Limnologica.pdf)
 
 <span style="color:#999">[22]</span> **Tonkin, J. D.**, A. Sundermann, S. C. Jähnig, and P. Haase. 2015. Environmental controls on river assemblages at the regional scale: an application of the Elements of Metacommunity Structure framework. <a href="http://dx.doi.org/10.1371/journal.pone.0135450" target="_blank">PLOS ONE</a> 10(8): e0135450. [<i class="fa fa-fw fa-file-pdf-o"></i>](2015b Tonkin etal PLOS ONE.pdf)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
