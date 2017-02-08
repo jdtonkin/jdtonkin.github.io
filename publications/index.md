@@ -85,8 +85,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. </span>
 
-<span style="color:#999"> Lytle, D. A., D. M. Merritt, **J. D. Tonkin**, J. D. Olden, and L. V. Reynolds. (*Submitted*). Linking river flow regimes to riparian plant guilds: a community-wide modeling approach. </span>
-
 <span style="color:#999"> Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*Submitted*). Reaction of fish species to river restoration – the role of species traits. [<i class="fa fa-fw fa-file-text-o"></i>](https://doi.org/10.7287/peerj.preprints.2173v1) </span>
 
 <span style="color:#999"> Haase. P\*, **J. D. Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Häuser, S. Klotz, I. Kühn, M. Mirtl, F. Müller, M. Musche, J. Penner, and D. S. Schmeller. (*Submitted*). Next generation of site-based long-term ecological monitoring.    
@@ -115,6 +113,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 ## Published
 
 **<span style="color:#999">2017 and In press</span>**  
+
+<span style="color:#999"> [35]</span> Lytle, D. A., D. M. Merritt, **J. D. Tonkin**, J. D. Olden, and L. V. Reynolds. (*In Press*). Linking river flow regimes to riparian plant guilds: a community-wide modeling approach. *Ecological Applications*
+
 
 <span style="color:#999"> [34]</span> **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*In Press*). Seasonality and predictability shape temporal species diversity. *Ecology*.
 
