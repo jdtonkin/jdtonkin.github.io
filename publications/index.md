@@ -118,8 +118,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> [34]</span> **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*In press*). Seasonality and predictability shape temporal species diversity. <a href="http://dx.doi.org/10.1002/ecy.1761" target="_blank">Ecology</a> DOI:10.1002/ecy.1761.
 
-*Ecology*.
-
 <span style="color:#999"> [33]</span> **Tonkin, J. D.**, R. D. T. Shah, D. N. Shah, F. Hoppeler, S. C. Jähnig, and S. U. Pauls. 2017. Metacommunity structuring in Himalayan streams over large elevational gradients: the role of dispersal routes and niche characteristics.  <a href="http://dx.doi.org/10.1111/jbi.12895" target="_blank">Journal of Biogeography</a> DOI:10.1111/jbi.12895. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016_Tonkin_etal_Journal_of_Biogeography.pdf)
 
 <span style="color:#999"> [32] </span> Stoll, S., N. Hormel, D. Früh, and **J. D. Tonkin**. 2017. Effects of Chaetogaster limnaei limnaei on freshwater snail communities. <a href="http://dx.doi.org/10.1007/s10750-016-2909-1" target="_blank">Hydrobiologia</a> DOI:10.1007/s10750-016-2909-1. [<i class="fa fa-fw fa-file-pdf-o"></i>](2016 Stoll etal Hydrobiologia.pdf)
