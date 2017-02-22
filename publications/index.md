@@ -90,8 +90,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> Death, R. G., C. J. Jordan, R. Magierowski, **J. D. Tonkin**, and A. Canning. (*Submitted*). Clean but not green: a weight-of-evidence approach for setting nutrient criteria in New Zealand rivers. </span>
 
-<span style="color:#999"> Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*Submitted*). Potential effects of climate change on stream ecosystems: a biomonitoring perspective. </span>
-
 <span style="color:#999"> Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
 
 <span style="color:#999"> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
@@ -111,6 +109,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 ## Published
 
 **<span style="color:#999">2017 and In press</span>**  
+
+<span style="color:#999"> [37]</span> Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*Submitted*). Potential effects of climate change on stream ecosystems: a biomonitoring perspective. *Water*
 
 <span style="color:#999"> [36]</span> Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*In Press*). Characterizing fish responses to a river restoration based on 21 years of sampling: the role of time and species traits. *Conservation Biology* [<i class="fa fa-fw fa-file-text-o"></i>](https://doi.org/10.7287/peerj.preprints.2173v1)
 
