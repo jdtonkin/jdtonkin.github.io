@@ -110,11 +110,11 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2017 and In press</span>**  
 
-<span style="color:#999"> [37]</span> Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*Submitted*). Severity multipliers as a methodology to explore potential effects of climate change on stream bioassessment programs. *Water*.
+<span style="color:#999"> [37]</span> Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. (*In press*). Severity multipliers as a methodology to explore potential effects of climate change on stream bioassessment programs. *Water*.
 
-<span style="color:#999"> [36]</span> Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*In Press*). Characterizing fish responses to a river restoration based on 21 years of sampling: the role of time and species traits. *Conservation Biology*. [<i class="fa fa-fw fa-file-text-o"></i>](https://doi.org/10.7287/peerj.preprints.2173v1)
+<span style="color:#999"> [36]</span> Höckendorff, S., **J. D. Tonkin**, P. Haase, M. Bunzel-Drüke, O. Zimball, M. Scharf, and S. Stoll. (*In press*). Characterizing fish responses to a river restoration based on 21 years of sampling: the role of time and species traits. *Conservation Biology*. [<i class="fa fa-fw fa-file-text-o"></i>](https://doi.org/10.7287/peerj.preprints.2173v1)
 
-<span style="color:#999"> [35]</span> Lytle, D. A., D. M. Merritt, **J. D. Tonkin**, J. D. Olden, and L. V. Reynolds. (*In Press*). Linking river flow regimes to riparian plant guilds: a community-wide modeling approach. *Ecological Applications*.
+<span style="color:#999"> [35]</span> Lytle, D. A., D. M. Merritt, **J. D. Tonkin**, J. D. Olden, and L. V. Reynolds. (*In press*). Linking river flow regimes to riparian plant guilds: a community-wide modeling approach. *Ecological Applications*.
 
 <span style="color:#999"> [34]</span> **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. (*In Press*). Seasonality and predictability shape temporal species diversity. *Ecology*.
 
