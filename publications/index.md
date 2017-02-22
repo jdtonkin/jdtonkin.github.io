@@ -83,7 +83,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*Submitted*). Drivers of highland benthic macroinvertebrate community structure: an exploration using coarse taxonomy. </span>
 
-<span style="color:#999"> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. </span>
+<span style="color:#999"> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.1101/084673)</span>
 
 <span style="color:#999"> Haase. P\*, **J. D. Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Häuser, S. Klotz, I. Kühn, M. Mirtl, F. Müller, M. Musche, J. Penner, and D. S. Schmeller. (*Submitted*). Next generation of site-based long-term ecological monitoring.    
 \*Authors contributed equally  </span>
