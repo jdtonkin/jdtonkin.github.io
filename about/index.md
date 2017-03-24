@@ -31,7 +31,7 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 
 # Education
 
-**PhD in Ecology**, [Massey University](http://www.massey.ac.nz/), New Zealand, 2011. Thesis title: “The effects of productivity and disturbance on diversity in stream communities” - Supervisors: Russell Death, Mike Joy, Kevin Collier   
+**PhD in Ecology**, [Massey University](http://www.massey.ac.nz/), New Zealand, 2012. Thesis title: “The effects of productivity and disturbance on diversity in stream communities” - Supervisors: Russell Death, Mike Joy, Kevin Collier   
 **BSc (Hons) 1st Class in Ecology**, [Massey University](http://www.massey.ac.nz/), New Zealand, 2006. Thesis title: “The effects of flow regulation on macroinvertebrate drift in the Tongariro River, New Zealand”   
 **BSc in Ecology**, [Massey University](http://www.massey.ac.nz/), New Zealand, 2005   
 
