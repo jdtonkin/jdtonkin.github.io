@@ -77,6 +77,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 ## Submitted
 
+
+<span style="color:#999"> **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. (*Submitted*). The role of dispersal in river network metacommunities: patterns, processes, and pathways. </span>
+
 <span style="color:#999"> Dalu, T, R. J. Wasserman, **J. D. Tonkin**, T. Mwedzi, M. Magoro, and O. L. F Weyl (*Submitted*) Water or mud? Teasing apart the role of water column and sediment chemistry as drivers of macroinvertebrate communities in an austral stream. </span>
 
 <span style="color:#999"> **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. (*Submitted*). Flow regime alteration degrades ecological networks in riverine ecosystems. </span>
