@@ -109,7 +109,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <a href="http://dx.doi.org/" target="_blank"> JOURNAL </a> ISSUE/DOI. [<i class="fa fa-fw fa-file-pdf-o"></i>](.pdf)
 
 -->
-10.1002/eap.1528
 
 ## Published
 
