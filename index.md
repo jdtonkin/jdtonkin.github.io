@@ -58,7 +58,7 @@ Check out my shiny app modeling riparian plants under different flow regimes <a 
 	
 	<div class="pure-u-1-2">
 <p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="medium-donut" data-altmetric-id="16029019" />
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="medium-donut" data-altmetric-id="16029019"></div>
 </p>
 	</div>
 
