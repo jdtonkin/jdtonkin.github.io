@@ -67,7 +67,7 @@ Check out my shiny app modeling riparian plants under different flow regimes <a 
 <p>Tonkin, J. D., M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. 2017. Seasonality and predictability shape temporal species diversity. <a href="http://dx.doi.org/10.1002/ecy.1761" target="_blank">Ecology</a> DOI:10.1002/ecy.1761. <a href="http://jdtonkin.github.io/publications/2017_Tonkin_etal_Ecology.pdf"><i class="fa fa-fw fa-file-pdf-o"></i></a></p>
 
 	</div>
-	
+<br>	
 	
 </div>
 
