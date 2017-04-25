@@ -8,7 +8,7 @@ tags:
 - Science
 - Richness
 - Latitudinal gradients
-category: General
+category: News
 ---
 
 Our new article looking at European latitudinal patterns and environmental determinants of stream insect richness is now online at Limnologica [here](http://dx.doi.org/10.1016/j.limno.2015.11.001). You can also find the pdf [here](http://jdtonkin.github.io/publications/).

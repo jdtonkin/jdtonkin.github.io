@@ -7,7 +7,7 @@ tags:
 - Science
 - Publications
 - Metacommunities
-category: General
+category: News
 ---
 
 We've just had a paper accepted for publication at [Oikos](http://www.oikosjournal.org/), thanks to some helpful comments from the reviewers and editors at Oikos.

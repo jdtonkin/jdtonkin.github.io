@@ -8,7 +8,7 @@ tags:
 - Science
 - Metacommunities
 - Aquatic-terrestrial
-category: General
+category: News
 ---
 
 Our paper looking at metacommunity structure of benthic invertebrates, riparian spiders and riparian carabids is now online at Oikos [here](http://dx.doi.org/10.1111/oik.02717). You can also find the pdf [here](http://jdtonkin.github.io/publications/).  

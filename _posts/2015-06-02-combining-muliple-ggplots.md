@@ -8,7 +8,7 @@ tags:
 - Science
 - Graphing
 - ggplot2
-category: R
+category: Blog
 ---
 
 <!-- All you need to do is: 

@@ -9,7 +9,7 @@ tags:
 - Richness
 - Context-dependency
 - Germany
-category: General
+category: News
 ---
 
 Our new article looking at context-dependency of biodiversity patterns in central German stream metacommunities is now online at Freshwater Biology [here](http://dx.doi.org/10.1111/fwb.12728). You can also find the pdf [here](http://jdtonkin.github.io/publications/).

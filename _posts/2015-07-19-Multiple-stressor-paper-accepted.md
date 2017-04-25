@@ -7,7 +7,7 @@ tags:
 - Science
 - Publications
 - Multiple stressors
-category: General
+category: News
 ---
 
 We've just had a paper accepted for publication at [Science of the Total Environment](http://www.journals.elsevier.com/science-of-the-total-environment/) looking at multiple stressors in German streams. I have to say this was the fastest process I've ever seen for a submission. The full submission to acceptance, including a revision, was one month to the day!

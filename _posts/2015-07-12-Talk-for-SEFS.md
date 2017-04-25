@@ -7,7 +7,7 @@ tags:
 - Conference
 - Science
 - EMS
-category: General
+category: Blog
 ---
 
 I recently gave a talk on some work I've been doing at Senckenberg looking at regional patterns in stream invertebrate assemblages. I upscaled the Elements of Metacommunity Structure (EMS) approach to examine regional patterns in biodiversity. Below is a copy of the talk from [figshare](http://figshare.com/). Feel free to fire away any questions. The manuscript is currently in review with PLOS ONE. 

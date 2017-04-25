@@ -7,7 +7,7 @@ tags:
 - Editing
 - Science
 - Publishing
-category: General
+category: News
 ---
 
 I'm very excited to announce that I have recently joined the Editorial Board of [PeerJ](https://peerj.com/). I'm really looking forward to handling my first manuscript. 

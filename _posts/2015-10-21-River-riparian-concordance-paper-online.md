@@ -8,7 +8,7 @@ tags:
 - Science
 - Community concordance
 - Aquatic-terrestrial
-category: General
+category: News
 ---
 
 Our paper looking at concordance of richness and community structure of benthic invertebrates, riparian spiders and riparian carabids is now online at Ecological Indicators [here](http://dx.doi.org/10.1016/j.ecolind.2015.08.037). You can also find the pdf [here](http://jdtonkin.github.io/publications/).

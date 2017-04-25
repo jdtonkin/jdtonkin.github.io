@@ -8,7 +8,7 @@ tags:
 - Science
 - EMS
 - Regional biodiversity
-category: General
+category: News
 ---
 
 The work that I mentioned [here](http://jdtonkin.github.io/news/2015/07/12/Talk-for-SEFS/) and [here](http://jdtonkin.github.io/news/2015/07/30/Elements-of-regional-fauna-paper-accepted/), where we looked at regional patterns in stream invertebrate assemblages in central Germany is now online at [PLOS ONE](http://www.plosone.org/). I upscaled the Elements of Metacommunity Structure (EMS) approach to examine regional patterns in stream invertebrate biodiversity and examined influential environmental factors using boosted regression trees. You can find the paper online [here](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135450).

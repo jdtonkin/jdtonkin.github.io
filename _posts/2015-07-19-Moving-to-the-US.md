@@ -8,7 +8,7 @@ tags:
 - Postdoc
 - Jobs
 - Career
-category: General
+category: News
 ---
 
 I'm really excited to share that in a couple of months, I'll be moving with my family to the US. I will start a new postdoc at [Oregon State University](http://oregonstate.edu/) based in [Corvallis](http://visitcorvallis.com/), Oregon.

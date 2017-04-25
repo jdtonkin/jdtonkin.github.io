@@ -8,7 +8,7 @@ tags:
 - Science
 - Richness
 - Elements of metacommunity structure
-category: General
+category: News
 ---
 
 Our new article looking at the Elements of Metacommunity Structure is now online at Ecological Complexity [here](http://dx.doi.org/10.1016/j.ecocom.2015.12.002). You can also find the pdf [here](http://jdtonkin.github.io/publications/).

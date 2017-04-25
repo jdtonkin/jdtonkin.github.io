@@ -7,7 +7,7 @@ tags:
 - Science
 - Publications
 - Multiple stressors
-category: General
+category: News
 ---
 
 Our paper looking at multiple stressors in German streams is now online at [Science of the Total Environment](http://www.journals.elsevier.com/science-of-the-total-environment/). You can also find the pdf [here](http://jdtonkin.github.io/publications/).
