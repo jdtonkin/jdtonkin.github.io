@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 ---
-test
+
 
 <!--
 #00a1e1 - blue
