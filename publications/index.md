@@ -86,8 +86,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. (*Submitted*). Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. </span>
 
-<span style="color:#999"> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*Submitted*). Drivers of highland benthic macroinvertebrate community structure: an exploration using coarse taxonomy. </span>
-
 <span style="color:#999"> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.1101/084673)</span>
 
 <span style="color:#999"> Haase. P\*, **J. D. Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Häuser, S. Klotz, I. Kühn, M. Mirtl, F. Müller, M. Musche, J. Penner, and D. S. Schmeller. (*Submitted*). Next generation of site-based long-term ecological monitoring.    
@@ -113,6 +111,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 ## Published
 
 **<span style="color:#999">2017 and In press</span>**  
+
+
+<span style="color:#999"> [38]</span> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*In press*). Assessing drivers of benthic macroinvertebrate community structure in African highlands: an exploration using multivariate analysis. *Science of the Total Environment*.
 
 <span style="color:#999"> [37]</span> Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. 2017. Severity multipliers as a methodology to explore potential effects of climate change on stream bioassessment programs. <a href="http://dx.doi.org/10.3390/w9040188" target="_blank">Water</a> 9:188. [<i class="fa fa-fw fa-file-pdf-o"></i>](2017_Jahnig_etal_Water.pdf)
 
