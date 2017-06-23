@@ -44,8 +44,8 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 
 
 # Editorial Boards
-[Freshwater Biology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427)
-[PeerJ](https://peerj.com/)
+- [Freshwater Biology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427)
+- [PeerJ](https://peerj.com/)
 
 # Contact details
 
