@@ -75,32 +75,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 # Journal articles  
 
-## Submitted
-
-
-<span style="color:#999"> **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. (*Submitted*). The role of dispersal in river network metacommunities: patterns, processes, and pathways. </span>
-
-<span style="color:#999"> Dalu, T, R. J. Wasserman, **J. D. Tonkin**, T. Mwedzi, M. Magoro, and O. L. F Weyl (*Submitted*) Water or mud? Teasing apart the role of water column and sediment chemistry as drivers of macroinvertebrate communities in an austral stream. </span>
-
-<span style="color:#999"> **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. (*Submitted*). Flow regime alteration degrades ecological networks in riverine ecosystems. </span>
-
-<span style="color:#999"> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. (*Submitted*). Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. </span>
-
-<span style="color:#999"> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*Submitted*). Latitudinal metacommunity gradients in New Zealand stream invertebrates. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.1101/084673)</span>
-
-<span style="color:#999"> Haase. P\*, **J. D. Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Häuser, S. Klotz, I. Kühn, M. Mirtl, F. Müller, M. Musche, J. Penner, and D. S. Schmeller. (*Submitted*). Next generation of site-based long-term ecological monitoring.    
-\*Authors contributed equally  </span>
-
-<span style="color:#999"> Death, R. G., C. J. Jordan, R. Magierowski, **J. D. Tonkin**, and A. Canning. (*Submitted*). Clean but not green: a weight-of-evidence approach for setting nutrient criteria in New Zealand rivers. </span>
-
-<span style="color:#999"> Li, F., **J. D. Tonkin**, and P. Haase. (*Submitted*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks.</span>
-
-<span style="color:#999"> Haase, P., F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*Submitted*). Three-dimensional range shifts in biodiversity driven by recent climate warming. [<i class="fa fa-fw fa-file-text-o"></i>](https://dx.doi.org/10.7287/peerj.preprints.1034v1)</span>
-
-
-
-
-
 
 <!-- template for pub:
 
@@ -112,6 +86,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2017 and In press</span>**  
 
+<span style="color:#999"> [39] Dalu, T, R. J. Wasserman, **J. D. Tonkin**, T. Mwedzi, M. Magoro, and O. L. F Weyl (*In press*) Water or sediment? Partitioning the role of water column and sediment chemistry as drivers of macroinvertebrate communities in an austral South African stream. *Science of the Total Environment*.
 
 <span style="color:#999"> [38]</span> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*In press*). Assessing drivers of benthic macroinvertebrate community structure in African highlands: an exploration using multivariate analysis. *Science of the Total Environment*.
 
