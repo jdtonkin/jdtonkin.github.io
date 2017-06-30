@@ -86,7 +86,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2017 and In press</span>**  
 
-<span style="color:#999"> [39] Dalu, T, R. J. Wasserman, **J. D. Tonkin**, T. Mwedzi, M. Magoro, and O. L. F Weyl (*In press*) Water or sediment? Partitioning the role of water column and sediment chemistry as drivers of macroinvertebrate communities in an austral South African stream. *Science of the Total Environment*.
+<span style="color:#999"> [39]</span> Dalu, T, R. J. Wasserman, **J. D. Tonkin**, T. Mwedzi, M. Magoro, and O. L. F Weyl (*In press*) Water or sediment? Partitioning the role of water column and sediment chemistry as drivers of macroinvertebrate communities in an austral South African stream. *Science of the Total Environment*.
 
 <span style="color:#999"> [38]</span> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*In press*). Assessing drivers of benthic macroinvertebrate community structure in African highlands: an exploration using multivariate analysis. *Science of the Total Environment*.
 
