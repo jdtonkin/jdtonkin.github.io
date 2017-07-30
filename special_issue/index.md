@@ -13,11 +13,11 @@ title: Special Issue
 
 ### Published			
 
-Carraro L, Mari L, Gatto M, Rinaldo A, Bertuzzo E. Spread of proliferative kidney disease in fish along stream networks: A spatial metacommunity framework. (http://dx.doi.org/10.1111/fwb.12939)[DOI:10.1111/fwb.12939] . 
+Carraro L, Mari L, Gatto M, Rinaldo A, Bertuzzo E. Spread of proliferative kidney disease in fish along stream networks: A spatial metacommunity framework. (DOI:10.1111/fwb.12939)[http://dx.doi.org/10.1111/fwb.12939] . 
 
-Altermatt F, Fronhofer EA. 	Dispersal in dendritic networks: Ecological consequences on the spatial distribution of population densities. http://dx.doi.org/10.1111/fwb.12951 . 
+Altermatt F, Fronhofer EA. 	Dispersal in dendritic networks: Ecological consequences on the spatial distribution of population densities. (DOI:10.1111/fwb.12951)[http://dx.doi.org/10.1111/fwb.12951] . 
 
-Schmera D, Árva D, Boda P, et al. Does isolation influence the relative role of environmental and dispersal-related processes in stream networks? An empirical test of the network position hypothesis using multiple taxa. http://dx.doi.org/10.1111/fwb.12973
+Schmera D, Árva D, Boda P, et al. Does isolation influence the relative role of environmental and dispersal-related processes in stream networks? An empirical test of the network position hypothesis using multiple taxa. (DOI:10.1111/fwb.12973)[http://dx.doi.org/10.1111/fwb.12973] . 
 
 ### In press			
 
