@@ -5,15 +5,15 @@ title: Special Issue
 
 # Freshwater Biology Special Issue
 
-## Title: Metacommunities in stream networks: the importance of network structure and connectivity on patterns and processes
+**Title:** Metacommunities in stream networks: the importance of network structure and connectivity on patterns and processes
 
-## Editors: Jonathan Tonkin, Florian Altermatt, and Jani Heino
+**Editors:** Jonathan Tonkin, Florian Altermatt, and Jani Heino
 
 ## Papers
 
 ### Published			
 
-Carraro L, Mari L, Gatto M, Rinaldo A, Bertuzzo E. Spread of proliferative kidney disease in fish along stream networks: A spatial metacommunity framework. http://dx.doi.org/10.1111/fwb.12939 . 
+Carraro L, Mari L, Gatto M, Rinaldo A, Bertuzzo E. Spread of proliferative kidney disease in fish along stream networks: A spatial metacommunity framework. (http://dx.doi.org/10.1111/fwb.12939)[DOI:10.1111/fwb.12939] . 
 
 Altermatt F, Fronhofer EA. 	Dispersal in dendritic networks: Ecological consequences on the spatial distribution of population densities. http://dx.doi.org/10.1111/fwb.12951 . 
 
