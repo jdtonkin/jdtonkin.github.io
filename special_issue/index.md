@@ -24,3 +24,7 @@ Schmera D, Árva D, Boda P, et al. Does isolation influence the relative role of
 Jamoneau A, Passy SI, Soininen J, et al. Beta diversity of diatom species and ecological guilds: response to environmental and spatial mechanisms along the stream watercourse.  
 
 Helton A, Hall RO, Bertuzzo E. How network structure can affect nitrogen removal by streams.  
+
+de Mendoza, Kaivosoja R, Gronroos et al. Highly variable species distribution models in a subarctic stream metacommunity: patterns, mechanisms and implications.  
+
+Brown BL, Wahl C, Swan CM. Experimentally disentangling the influence of dispersal and habitat filtering on benthic invertebrate community structure.  
