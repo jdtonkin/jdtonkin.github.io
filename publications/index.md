@@ -84,6 +84,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2017 and In press</span>**  
 
+<span style="color:#999"> [42]</span> McMullen, L. E., P. DeLeenheer, **J. D. Tonkin**, and D. A. Lytle. (*In press*). High mortality and enhanced recovery: modeling the countervailing effects of disturbance on population dynamics. *Ecology Letters*.
 
 <span style="color:#999"> [41]</span> **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. (*In press*). The role of dispersal in river network metacommunities: patterns, processes, and pathways. *Freshwater Biology*.
 
