@@ -84,18 +84,20 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2017 and In press</span>**  
 
-<span style="color:#999"> [43]</span> **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. (*Accepted pending editorial revisions*). Flow regime alteration degrades ecological networks in riparian ecosystems. *Nature Ecology & Evolution*.
+<span style="color:#999"> [44]</span> **Tonkin, J. D.**, J. Heino, and F. Altermatt. (*In press*). Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. *Freshwater Biology*
 
-<span style="color:#999"> [42]</span> McMullen, L. E., P. DeLeenheer, **J. D. Tonkin**, and D. A. Lytle. (*In press*). High mortality and enhanced recovery: modeling the countervailing effects of disturbance on population dynamics. *Ecology Letters*.
+<span style="color:#999"> [43]</span> **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. (*In press*). Flow regime alteration degrades ecological networks in riparian ecosystems. *Nature Ecology & Evolution*.
 
-<span style="color:#999"> [41]</span> **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. (*In press*). The role of dispersal in river network metacommunities: patterns, processes, and pathways. *Freshwater Biology*.
+<span style="color:#999"> [42]</span> McMullen, L. E., P. DeLeenheer, **J. D. Tonkin**, and D. A. Lytle. 2017. High mortality and enhanced recovery: modeling the countervailing effects of disturbance on population dynamics. *Ecology Letters*. DOI:10.1111/ele.12866.
 
-<span style="color:#999"> [40]</span> Haase, P.\*, **J. D Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Haeuser, S. Klotz, I. Kühn, W. H. McDowell, M. Mirtl, F. Müller, M. Musche, J. Penner, S. Zacharias, and D. S. Schmeller. (*In press*). The next generation of site-based long-term ecological monitoring: Linking Essential Biodiversity Variables and Ecosystem Integrity. *Science of the Total Environment*.  
+<span style="color:#999"> [41]</span> **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. 2017. The role of dispersal in river network metacommunities: patterns, processes, and pathways. *Freshwater Biology*. DOI:10.1111/fwb.13037. 
+
+<span style="color:#999"> [40]</span> Haase, P.\*, **J. D Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Haeuser, S. Klotz, I. Kühn, W. H. McDowell, M. Mirtl, F. Müller, M. Musche, J. Penner, S. Zacharias, and D. S. Schmeller. 2018. The next generation of site-based long-term ecological monitoring: Linking Essential Biodiversity Variables and Ecosystem Integrity. *Science of the Total Environment* 613–614:1376-1384.
 \* Contributed equally
 
-<span style="color:#999"> [39]</span> Dalu, T., R. J. Wasserman, **J. D. Tonkin**, T. Mwedzi, M. Magoro, and O. L. F Weyl. (*In press*). Water or sediment? Partitioning the role of water column and sediment chemistry as drivers of macroinvertebrate communities in an austral South African stream. *Science of the Total Environment*.
+<span style="color:#999"> [39]</span> Dalu, T., R. J. Wasserman, **J. D. Tonkin**, T. Mwedzi, M. Magoro, and O. L. F Weyl. 2017. Water or sediment? Partitioning the role of water column and sediment chemistry as drivers of macroinvertebrate communities in an austral South African stream. *Science of the Total Environment* 607-608:317-325.
 
-<span style="color:#999"> [38]</span> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. (*In press*). Assessing drivers of benthic macroinvertebrate community structure in African highlands: an exploration using multivariate analysis. *Science of the Total Environment*.
+<span style="color:#999"> [38]</span> Dalu, T., R. J. Wasserman, M. E. Alexander, **J. D. Tonkin**, S. N. Motitsoe, M. T. B. Sachikonye, K. I. Manungo, O. Bepe, and T. Dube. 2017. Assessing drivers of benthic macroinvertebrate community structure in African highlands: an exploration using multivariate analysis. *Science of the Total Environment* 601-602:1340-1348.
 
 <span style="color:#999"> [37]</span> Jähnig, S. C., **J. D. Tonkin**, M. Gies, S. Domisch, D. Hering, and P. Haase. 2017. Severity multipliers as a methodology to explore potential effects of climate change on stream bioassessment programs. <a href="http://dx.doi.org/10.3390/w9040188" target="_blank">Water</a> 9:188. [<i class="fa fa-fw fa-file-pdf-o"></i>](2017_Jahnig_etal_Water.pdf)
 
