@@ -84,7 +84,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2017 and In press</span>**  
 
-<span style="color:#999"> [44]</span> **Tonkin, J. D.**, J. Heino, and F. Altermatt. (*In press*). Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. *Freshwater Biology*
+<span style="color:#999"> [44]</span> **Tonkin, J. D.**, J. Heino, and F. Altermatt. (*In press*). Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. *Freshwater Biology*.
 
 <span style="color:#999"> [43]</span> **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. (*In press*). Flow regime alteration degrades ecological networks in riparian ecosystems. *Nature Ecology & Evolution*.
 
