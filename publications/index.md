@@ -84,7 +84,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2017 and In press</span>**  
 
-<span style="color:#999"> [44]</span> **Tonkin, J. D.**, J. Heino, and F. Altermatt. (*In press*). Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. *Freshwater Biology*.
+<span style="color:#999"> [44]</span> Jourdan, J, R. B. O'Hara, R. Bottarin, T. Hiura, K. Huttunen, M. Kuemmerlen, D. Monteith, T. Muotka, T. Ohta, R. Paavola, F. Pilotto, G. Springe, S. Stoll, A. Sundermann, **J. D. Tonkin**, and P. Haase. (*In press*). Effects of changing climate on European stream invertebrate communities: a long-term data analysis. *Science of the Total Environment*. 
 
 <span style="color:#999"> [43]</span> **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. (*In press*). Flow regime alteration degrades ecological networks in riparian ecosystems. *Nature Ecology & Evolution*.
 
@@ -187,6 +187,11 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <span style="color:#999">[2]</span> Collier, K. J., B. Aldridge, B. J. Hicks, J. Kelly, A. Macdonald, B. J. Smith, and **J. Tonkin**. 2009. Ecological values of Hamilton urban streams (North Island, New Zealand): constraints and opportunities for restoration. <a href="http://newzealandecology.org/nzje/2893" target="_blank">New Zealand Journal of Ecology</a> 33:177-189. [<i class="fa fa-fw fa-file-pdf-o"></i>](2009 Collier etal New Zealand Journal of Ecology.pdf)<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i></span>
 
 <span style="color:#999">[1]</span> **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? <a href="http://dx.doi.org/10.1002/rra.1213" target="_blank">River Research and Applications</a> 25:1219-1231. [<i class="fa fa-fw fa-file-pdf-o"></i>](2009 Tonkin etal River Research and Applications.pdf)
+
+
+# Editorials
+
+**Tonkin, J. D.**, J. Heino, and F. Altermatt. (*In press*). Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. *Freshwater Biology*.
 
 
 # Theses
