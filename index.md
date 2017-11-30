@@ -52,7 +52,24 @@ Check out my shiny app modeling riparian plants under different flow regimes <a 
 	</ul>
 
 
-## Featured paper
+## Featured papers
+
+<div class="pure-g">
+	
+	<div class="pure-u-1-4">
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="29523449"></div>
+<br>
+	</div>
+	
+	<div class="pure-u-3-4">
+			
+<p>Tonkin, J. D., J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. 2017. Flow regime alteration degrades ecological networks in riparian ecosystems. <a href="http://dx.doi.org/10.1038/s41559-017-0379-0" target="_blank">Nature Ecology & Evolution</a> DOI:10.1038/s41559-017-0379-0.</p>
+<br>
+	</div>
+<br>	
+	
+</div>
 
 <div class="pure-g">
 	
@@ -62,7 +79,7 @@ Check out my shiny app modeling riparian plants under different flow regimes <a 
 <br>
 	</div>
 	
-			<div class="pure-u-3-4">
+	<div class="pure-u-3-4">
 			
 <p>Tonkin, J. D., M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. 2017. Seasonality and predictability shape temporal species diversity. <a href="http://dx.doi.org/10.1002/ecy.1761" target="_blank">Ecology</a> DOI:10.1002/ecy.1761. <a href="http://jdtonkin.github.io/publications/2017_Tonkin_etal_Ecology.pdf"><i class="fa fa-fw fa-file-pdf-o"></i></a></p>
 <br>
