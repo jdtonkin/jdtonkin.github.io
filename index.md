@@ -18,8 +18,11 @@ title: 'Home'
 
 <!-- <img class="pure-img" src="website_nw.png" size="300px"> -->
 
-<object type="text/html" data="network.html">
-</object>
+<iframe src="network.html">
+</iframe>
+
+<!-- <object type="text/html" data="network.html"> -->
+<!-- </object> -->
 
 </div>
 </div>
