@@ -18,7 +18,7 @@ title: 'Home'
 
 <!-- <img class="pure-img" src="website_nw.png" size="300px"> -->
 
-<iframe src="network.html" width="300px" height="300px" frameBorder="0">
+<iframe src="network.html" width="300px" height="300px" frameBorder="0" style=" border-width:0 ">
 </iframe>
 
 
