@@ -84,6 +84,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2018 and In press</span>**  
 
+<span style="color:#999"> [46]</span> Dalu, T., M. L. Magoro, **J. D. Tonkin**, L. R. D. Human, R. Perissinotto, S. H. P. Deyzel, J. B. Adams, and A. K. Whitfield. (*In press*). Assessing phytoplankton composition and structure within micro-estuaries and micro-outlets: A community analysis approach. *Hydrobiologia*.
+
 <span style="color:#999"> [45]</span> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. *In press*. Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. *Biological Conservation*.
 
 <span style="color:#999"> [44]</span> Jourdan, J, R. B. O'Hara, R. Bottarin, T. Hiura, K. Huttunen, M. Kuemmerlen, D. Monteith, T. Muotka, T. Ohta, R. Paavola, F. Pilotto, G. Springe, S. Stoll, A. Sundermann, **J. D. Tonkin**, and P. Haase. 2018. Effects of changing climate on European stream invertebrate communities: a long-term data analysis. <a href="http://dx.doi.org/10.1016/j.scitotenv.2017.11.242" target="_blank">Science of the Total Environment</a> DOI:10.1016/j.scitotenv.2017.11.242. [<i class="fa fa-fw fa-file-pdf-o"></i>](2018_Jourdan_etal_STOTEN.pdf)
