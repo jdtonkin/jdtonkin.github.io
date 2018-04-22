@@ -48,9 +48,17 @@ Check out my shiny app modeling riparian plants under different flow regimes <a 
 
 ## Latest news
 
+<span style="color:#999">24 Jan 2018</span> » Very excited to have a new paper out in [Nature Ecology and Evolution](http://dx.doi.org/10.1038/s41559-017-0379-0) on ecological networks in uncertain futures. Find a full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). Thanks to my coauthors Dave, Dave, Julian and Lindsay!
+
+
+
+Older news here: 
+
+## Latest blogs
+
 <ul class="posts">
-<!-- the below show's the latest 5 posts and adds a bit of text (first 20 words) from post as well as the title-->
-	  {% for post in site.posts limit:5 %}
+<!-- the below show's the latest 3 posts and adds a bit of text (first 20 words) from post as well as the title-->
+	  {% for post in site.posts limit:3 %}
 	    <li><span style="color: #999;" >{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> »
 	    {{ post.content | strip_html | truncatewords:20}}
 	    <a href="{{ post.url }}">Read more...</a></li>
