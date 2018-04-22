@@ -43,11 +43,11 @@ title: 'Home'
 
 ## Latest news
 
-> <span style="color:#999">24 Jan 2018</span> » **New paper.** Very excited to have a new paper out in [Nature Ecology and Evolution](http://dx.doi.org/10.1038/s41559-017-0379-0) on ecological networks in uncertain futures. Find a full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). Thanks to my coauthors Dave, Dave, Julian and Lindsay! PDF [here](publications). 
+> <span style="color:#999">24 Jan 2018</span> » **New paper.** Very excited to have a new paper out in [Nature Ecology and Evolution](http://dx.doi.org/10.1038/s41559-017-0379-0) on ecological networks in uncertain futures. Find a short overview [here](blog/2018/01/24/New-Paper-In-NEE) full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). Thanks to my coauthors Dave, Dave, Julian and Lindsay! PDF [here](publications). 
 
 
 
-> Older news [here](news)
+> Older news [here](news).  
 
 
 ## Latest blogs
