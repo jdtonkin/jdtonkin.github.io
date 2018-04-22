@@ -91,7 +91,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> [43]</span> **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. 2018. Flow regime alteration degrades ecological networks in riparian ecosystems. <a href="http://dx.doi.org/10.1038/s41559-017-0379-0" target="_blank">Nature Ecology & Evolution</a> 2:86-93. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2017_Tonkin_etal_Nature_Eco_Evo.pdf" | absolute_url }})
 
-<span style="color:#999"> [42]</span> **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. 2018. The role of dispersal in river network metacommunities: patterns, processes, and pathways. <a href="http://dx.doi.org/10.1111/fwb.13037" target="_blank">Freshwater Biology</a> 63:141–163.. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology.pdf" | absolute_url }})
+<span style="color:#999"> [42]</span> **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. 2018. The role of dispersal in river network metacommunities: patterns, processes, and pathways. <a href="http://dx.doi.org/10.1111/fwb.13037" target="_blank">Freshwater Biology</a> 63:141–163. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology.pdf" | absolute_url }})
 
 <span style="color:#999"> [41]</span> Haase, P.\*, **J. D Tonkin**\*, S. Stoll\*, B. Burkhard, M. Frenzel, I. R. Geijzendorffer, C. Haeuser, S. Klotz, I. Kühn, W. H. McDowell, M. Mirtl, F. Müller, M. Musche, J. Penner, S. Zacharias, and D. S. Schmeller. 2018. The next generation of site-based long-term ecological monitoring: Linking Essential Biodiversity Variables and Ecosystem Integrity. <a href="http://dx.doi.org/10.1016/j.scitotenv.2017.08.111" target="_blank">Science of the Total Environment</a> 613–614:1376-1384. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Haase_etal_STOTEN.pdf" | absolute_url }})
 \* Contributed equally
@@ -196,7 +196,21 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 # Editorials
 
-**Tonkin, J. D.**, J. Heino, and F. Altermatt. (*In press*). Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. *Freshwater Biology*.
+<div class="pure-g">
+
+<div class="pure-u-1-3" markdown="1">
+
+<img class="pure-img" src="{{ "/assets/img/2018-FWB-SI.png" | absolute_url }}" >
+
+</div>
+
+<div class="pure-u-2-3" markdown="1">
+
+**Tonkin, J. D.**, J. Heino, and F. Altermatt. 2018. Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. <a href="http://dx.doi.org/10.1111/fwb.13045" target="_blank"> Freshwater Biology </a> 63:1-5. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology_Editorial.pdf" | absolute_url }})
+
+</div>
+
+</div>
 
 
 # Theses
@@ -219,19 +233,4 @@ David, B., M. Hamer, **J. Tonkin**, and C. Bourke. 2014. Appropriate use of muss
 **Tonkin J. D.** 2008. Reporoa Stream Fish Survey. Report to Rangitikei District Council, Massey University, Palmerston North.
 
 
-<div class="pure-g">
-
-<div class="pure-u-1-2" markdown="1">
-
-<img class="pure-img" src="{{ "/assets/img/2018-FWB-SI.png" | absolute_url }}" >
-
-</div>
-
-<div class="pure-u-1-2" markdown="1">
-
-<img class="pure-img" src="{{ "/assets/img/2014-MFR.png" | absolute_url }}" >
-
-</div>
-
-</div>
 
