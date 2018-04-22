@@ -5,7 +5,7 @@ title: About
 
 
 
-<img class="pure-img" src="{{ "assets/img/about_banner.png" | absolute_url }}" >
+<img class="pure-img" src="{{ "/assets/img/about_banner.png" | absolute_url }}" >
 
 I am a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>. Read more about my [research](research) and [publications](publications).  
 
@@ -61,7 +61,7 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 <div class="l-box">
 <!-- pure-img makes image scalable-->
 
-<img class="pure-img" src="JTpic_small.jpg" size="300px">
+<img class="pure-img" src="{{ "/assets/img/JTpic_small.jpg" | absolute_url }}" size="300px">
 
 <!--
 <p></p>
