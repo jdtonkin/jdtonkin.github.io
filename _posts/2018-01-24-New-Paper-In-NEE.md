@@ -13,4 +13,4 @@ I'm very excited to have a new paper out in [Nature Ecology and Evolution](http:
 
 Find a full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). 
 
-Tonkin, J. D., J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. 2018. Flow regime alteration degrades ecological networks in riparian ecosystems. <a href="http://dx.doi.org/10.1038/s41559-017-0379-0" target="_blank">Nature Ecology & Evolution</a> 2:86-93. [<i class="fa fa-fw fa-file-pdf-o"></i>](publications/2017_Tonkin_etal_Nature_Eco_Evo.pdf)
+Tonkin, J. D., J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. 2018. Flow regime alteration degrades ecological networks in riparian ecosystems. <a href="http://dx.doi.org/10.1038/s41559-017-0379-0" target="_blank">Nature Ecology & Evolution</a> 2:86-93. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "assets/pdfs/2017_Tonkin_etal_Nature_Eco_Evo.pdf" | absolute_url }})

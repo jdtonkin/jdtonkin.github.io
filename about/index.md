@@ -5,7 +5,7 @@ title: About
 
 
 
-<img class="pure-img" src="about_banner.png" >
+<img class="pure-img" src="{{ "assets/img/about_banner.png" | absolute_url }}" >
 
 I am a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>. Read more about my [research](research) and [publications](publications).  
 
