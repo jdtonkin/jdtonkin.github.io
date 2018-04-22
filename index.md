@@ -52,7 +52,7 @@ Check out my shiny app modeling riparian plants under different flow regimes <a 
 
 
 
-Older news here: 
+> Older news [here](News)
 
 ## Latest blogs
 
