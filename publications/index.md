@@ -42,13 +42,19 @@ title: Publications
 </div>
 
 
-<div class="pure-u-2-3" markdown="1">
+<div class="pure-u-1-3" markdown="1">
 
 
 You can also find my publications on [researchgate](https://www.researchgate.net/profile/Jonathan_Tonkin/), [google scholar](http://scholar.google.co.nz/citations?user=Mtn0TIwAAAAJ&hl=en) and various supplementary material and pdfs of my presentations on [figshare](http://figshare.com/authors/Jonathan%20D%20Tonkin/277559).
 
 </div>
 
+<div class="pure-u-1-3" markdown="1">
+
+<img class="pure-img" src="{{ "/assets/img/2018-FWB-SI.png" | absolute_url }}" >
+<img class="pure-img" src="{{ "/assets/img/2014-MFR.png" | absolute_url }}" >
+
+</div>
 
 </div>
 
