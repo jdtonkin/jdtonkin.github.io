@@ -219,8 +219,19 @@ David, B., M. Hamer, **J. Tonkin**, and C. Bourke. 2014. Appropriate use of muss
 **Tonkin J. D.** 2008. Reporoa Stream Fish Survey. Report to Rangitikei District Council, Massey University, Palmerston North.
 
 
+<div class="pure-g">
 
+<div class="pure-u-1-2" markdown="1">
 
-<img class="pure-img" src="{{ "/assets/img/2018-FWB-SI.png" | absolute_url }}" size="200px">
-<img class="pure-img" src="{{ "/assets/img/2014-MFR.png" | absolute_url }}" size="200px">
+<img class="pure-img" src="{{ "/assets/img/2018-FWB-SI.png" | absolute_url }}" >
+
+</div>
+
+<div class="pure-u-1-2" markdown="1">
+
+<img class="pure-img" src="{{ "/assets/img/2014-MFR.png" | absolute_url }}" >
+
+</div>
+
+</div>
 
