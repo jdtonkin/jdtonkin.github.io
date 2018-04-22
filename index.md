@@ -32,12 +32,7 @@ title: 'Home'
 
 <div class="vh">
 
-<p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. I am currently a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>, and I'm on the editorial boards of <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427">Freshwater Biology</a> and <a href="https://peerj.com/">PeerJ</a>. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on this website. Also find my <a href="https://medium.com/@jdtonkin" target="_blank">blog here</a> and hear me talk about my recent research <a href="https://youtu.be/mqnuv6YZBSM" target="_blank"> here</a>.
-
-<br>
-<br>
-
-Check out my shiny app modeling riparian plants under different flow regimes <a href="https://jdtonkin.shinyapps.io/CotTam/">here</a>.
+<p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. I am currently a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>, and I'm on the editorial boards of <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427">Freshwater Biology</a> and <a href="https://peerj.com/">PeerJ</a>. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on this website. Also find my <a href="/blog">blog here</a> and hear me talk about my recent research <a href="https://youtu.be/mqnuv6YZBSM" target="_blank"> here</a>.
 </p>
 
 </div>
@@ -48,11 +43,12 @@ Check out my shiny app modeling riparian plants under different flow regimes <a 
 
 ## Latest news
 
-> <span style="color:#999">24 Jan 2018</span> » **New paper.** Very excited to have a new paper out in [Nature Ecology and Evolution](http://dx.doi.org/10.1038/s41559-017-0379-0) on ecological networks in uncertain futures. Find a full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). Thanks to my coauthors Dave, Dave, Julian and Lindsay!
+> <span style="color:#999">24 Jan 2018</span> » **New paper.** Very excited to have a new paper out in [Nature Ecology and Evolution](http://dx.doi.org/10.1038/s41559-017-0379-0) on ecological networks in uncertain futures. Find a full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). Thanks to my coauthors Dave, Dave, Julian and Lindsay! PDF [here](publications). 
 
 
 
-> Older news [here](News)
+> Older news [here](news)
+
 
 ## Latest blogs
 
