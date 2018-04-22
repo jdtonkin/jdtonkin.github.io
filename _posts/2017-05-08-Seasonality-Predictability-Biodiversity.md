@@ -19,5 +19,5 @@ We hope that this quantitative framework will spark renewed interest in the role
 
 
 # Reference
-<span style="color:#999"> [34]</span> **Tonkin, J. D.**, M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. 2017. Seasonality and predictability shape temporal species diversity. <a href="http://dx.doi.org/10.1002/ecy.1761" target="_blank">Ecology</a> DOI:10.1002/ecy.1761. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2017_Tonkin_etal_Ecology.pdf" | absolute_url }})
+Tonkin, J. D., M. T. Bogan, N. Bonada, B. Rios-Touma, and D. A. Lytle. 2017. Seasonality and predictability shape temporal species diversity. <a href="http://dx.doi.org/10.1002/ecy.1761" target="_blank">Ecology</a> DOI:10.1002/ecy.1761. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2017_Tonkin_etal_Ecology.pdf" | absolute_url }})
 
