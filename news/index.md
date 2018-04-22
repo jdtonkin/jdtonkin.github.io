@@ -7,7 +7,6 @@ title: News
 [DOI:](http://dx.doi.org/)
 -->
 
-# News
 
 ## 2016 
 
