@@ -204,7 +204,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <div class="pure-g">
 
-<div class="pure-u-1-4" markdown="1">
+<div class="pure-u-1-3" markdown="1">
 
 <div class="l-box">
 
@@ -212,7 +212,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 </div>
 
-<div class="pure-u-3-4" markdown="1">
+</div>
+
+<div class="pure-u-2-3" markdown="1">
 
 **Tonkin, J. D.**, J. Heino, and F. Altermatt. 2018. Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. <a href="http://dx.doi.org/10.1111/fwb.13045" target="_blank"> Freshwater Biology </a> 63:1-5. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology_Editorial.pdf" | absolute_url }})
 
