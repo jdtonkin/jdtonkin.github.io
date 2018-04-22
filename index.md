@@ -43,26 +43,26 @@ title: 'Home'
 
 ## Latest news
 
-<!-- TEMPLATE:  > <span style="color:#999">DATE</span> » **TITLE**-->
+<!-- TEMPLATE:  <span style="color:#999">DATE</span> » **TITLE**-->
 
-> <span style="color:#999">21 Apr 2018</span> » **Redesign of site = more news.** I've just redesigned my site to enable easier dissemination of news, so expect a lot more updates from now on. Also, I'm moving any blog posts back here to keep it all centralised. 
+<span style="color:#999">21 Apr 2018</span> » **Redesign of site = more news.** I've just redesigned my site to enable easier dissemination of news, so expect a lot more updates from now on. Also, I'm moving any blog posts back here to keep it all centralised. 
 
-> <span style="color:#999">24 Jan 2018</span> » **New paper in Nature Ecology and Evolution.** Very excited to have a new paper out in [Nature Ecology and Evolution](http://dx.doi.org/10.1038/s41559-017-0379-0) on ecological networks in uncertain futures. Find a short overview [here](blog/2018/01/24/New-Paper-In-NEE) full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). Thanks to my coauthors Dave, Dave, Julian and Lindsay! PDF [here](publications). 
+<span style="color:#999">24 Jan 2018</span> » **New paper in Nature Ecology and Evolution.** Very excited to have a new paper out in [Nature Ecology and Evolution](http://dx.doi.org/10.1038/s41559-017-0379-0) on ecological networks in uncertain futures. Find a short overview [here](blog/2018/01/24/New-Paper-In-NEE) full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). Thanks to my coauthors Dave, Dave, Julian and Lindsay! PDF [here](publications). 
 
-> <span style="color:#999">24 Jan 2018</span> » **New paper in Ecology Letters recommended on f1000.** We recently published a paper in [Ecology Letters](http://dx.doi.org/10.1111/ele.12866) where we develop a model to explore the countervailing effects of disturbance on population dynamics. In this paper, we derived a novel form of the logistic growth equation that permits time-varying carrying capacity and growth rate. Find the f1000 recommendation [here](https://f1000.com/prime/732394087). Thanks Laura, Dave and Patrick! PDF [here](publications). 
+<span style="color:#999">24 Jan 2018</span> » **New paper in Ecology Letters recommended on f1000.** We recently published a paper in [Ecology Letters](http://dx.doi.org/10.1111/ele.12866) where we develop a model to explore the countervailing effects of disturbance on population dynamics. In this paper, we derived a novel form of the logistic growth equation that permits time-varying carrying capacity and growth rate. Find the f1000 recommendation [here](https://f1000.com/prime/732394087). Thanks Laura, Dave and Patrick! PDF [here](publications). 
 
-> <span style="color:#999">23 Jun 2017</span> » **Joining Freshwater Biology Editorial Board.** I'm very excited to announce that I have recently joined the Editorial Board of [Freshwater Biology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427). I've always thought of Freshwater Biology as the flagship freshwater specific journal, so I'm super excited and honoured by the opportunity to be a part of the team there.
+<span style="color:#999">23 Jun 2017</span> » **Joining Freshwater Biology Editorial Board.** I'm very excited to announce that I have recently joined the Editorial Board of [Freshwater Biology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427). I've always thought of Freshwater Biology as the flagship freshwater specific journal, so I'm super excited and honoured by the opportunity to be a part of the team there.
 
-> <span style="color:#999">12 Jun 2017</span> » **Featured on the SFS Making Waves podcast.** I was recently featured on the Society for Freshwater Science's [Making Waves](http://www.freshwater-science.org/Education-and-Outreach/Media/Podcast.cfm) podcast. This was a really great opportunity to share some recent research of ours, including our paper on seasonality and some of our recent population modeling work. You can find the podcast [here](https://youtu.be/mqnuv6YZBSM).
+<span style="color:#999">12 Jun 2017</span> » **Featured on the SFS Making Waves podcast.** I was recently featured on the Society for Freshwater Science's [Making Waves](http://www.freshwater-science.org/Education-and-Outreach/Media/Podcast.cfm) podcast. This was a really great opportunity to share some recent research of ours, including our paper on seasonality and some of our recent population modeling work. You can find the podcast [here](https://youtu.be/mqnuv6YZBSM).
 
-> <span style="color:#999">26 Apr 2017</span> » **New paper in Ecology.** We have a new paper out in [Ecology](http://dx.doi.org/10.1002/ecy.1761). This deals with the role of seasonality and predictability in environmental fluctuations on temporal species diversity. We show that understanding the role of seasonality in regulating biodiversity is not complete without and understanding of its predictability. We developed a framework for examining these aspects by combining wavelets and information theory. Thanks to my excellent co-authors (Mike, Nuria, Blanca, and Dave) for making this a great experience. I will write a brief blog post on this soon. PDF [here](publications).
+<span style="color:#999">26 Apr 2017</span> » **New paper in Ecology.** We have a new paper out in [Ecology](http://dx.doi.org/10.1002/ecy.1761). This deals with the role of seasonality and predictability in environmental fluctuations on temporal species diversity. We show that understanding the role of seasonality in regulating biodiversity is not complete without and understanding of its predictability. We developed a framework for examining these aspects by combining wavelets and information theory. Thanks to my excellent co-authors (Mike, Nuria, Blanca, and Dave) for making this a great experience. I will write a brief blog post on this soon. PDF [here](publications).
 
-> <span style="color:#999">25 Apr 2017</span> » **Multiple new papers published.** I've done a pretty poor job of keeping my publications up to date on here in the past year. In this time, I've published a bunch of new papers that you can find by going over to the [publications](publications) page. These include work from my previous postdoc in Germany looking at scale dependent effects of river habitat quality on benthic invertebrate communities (see [blog post](https://medium.com/@jdtonkin/river-restoration-should-be-directed-at-moderately-impaired-regions-9df51f7ea50c)), the time that restoration takes to work in streams, biodiversity in tropical streams, metacommunities in Himalayan streams, and fish responses to restoration.  
+<span style="color:#999">25 Apr 2017</span> » **Multiple new papers published.** I've done a pretty poor job of keeping my publications up to date on here in the past year. In this time, I've published a bunch of new papers that you can find by going over to the [publications](publications) page. These include work from my previous postdoc in Germany looking at scale dependent effects of river habitat quality on benthic invertebrate communities (see [blog post](https://medium.com/@jdtonkin/river-restoration-should-be-directed-at-moderately-impaired-regions-9df51f7ea50c)), the time that restoration takes to work in streams, biodiversity in tropical streams, metacommunities in Himalayan streams, and fish responses to restoration.  
 
-> Older news [here](news).  
+Older news [here](news).  
 
 
-## Latest blogs
+<!-- ## Latest blogs 
 
 <ul class="posts">
 <!-- the below show's the latest 3 posts and adds a bit of text (first 20 words) from post as well as the title-->
@@ -73,7 +73,7 @@ title: 'Home'
 	    <br>
 	  {% endfor %}
 	</ul>
-
+-->
 
 ## Featured papers
 
