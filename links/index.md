@@ -3,7 +3,7 @@ layout: default
 title: Links
 ---
 
-<img class="pure-img" src="green_cropped_small.JPG" >
+<img class="pure-img" src="{{ "/assets/img/green_cropped_small.JPG" | absolute_url }}" >
 
 # Societies I'm a member of
 - [New Zealand Freshwater Sciences Society](http://freshwater.science.org.nz/index.php/) (NZFSS)

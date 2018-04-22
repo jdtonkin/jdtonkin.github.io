@@ -3,7 +3,7 @@ layout: default
 title: Opportunities
 ---
 
-<img class="pure-img" src="flower_banner_small.JPG" >
+<img class="pure-img" src="{{ "/assets/img/flower_banner_small.JPG" | absolute_url }}" >
 
 # Prospective students
 
