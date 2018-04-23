@@ -133,7 +133,7 @@ I recently edited a special issue in Freshwater Biology with Florian Altermatt a
 
 Tonkin, J. D., J. Heino, and F. Altermatt. 2018. Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. <a href="http://dx.doi.org/10.1111/fwb.13045" target="_blank"> Freshwater Biology </a> 63:1-5. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology_Editorial.pdf" | absolute_url }})
 
-We compiled a series of papers with the aim of highlighting the importance of the river network on structuring biodiversity, particularly through metacommunity dynamics and associated dispersal processes. The issue covers a wide range of topics (e.g. disease spread, nutrient uptake, trophic dynamics, effects of anthropogenic stressors and the joint roles of dispersal and environmental filtering), approaches (field and laboratory experiments, modelling, population genetics and conceptual synthesis), taxonomic foci (from diatoms and protists to fish), and geographic locations (from the tropics to the subarctic). Thus, the special issue provides a broad look at the dynamics in river networks and we hope it spurs further research in this field. 
+We compiled a series of papers with the aim of highlighting the importance of the river network on structuring biodiversity, particularly through metacommunity dynamics and associated dispersal processes. The issue covers a wide range of topics (from disease spread and nutrient uptake to trophic dynamics), approaches (from field and lab experiments to modelling and population genetics), taxonomic foci (from diatoms and protists to fish), and geographic locations (from the tropics to the subarctic). 
 
 </div>
 
