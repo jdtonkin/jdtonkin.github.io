@@ -8,6 +8,10 @@ title: News
 -->
 
 
+## 2017 
+
+<span style="color:#999">25 Apr 2017</span> » **Multiple new papers published.** I've done a pretty poor job of keeping my publications up to date on here in the past year. In this time, I've published a bunch of new papers that you can find by going over to the [publications](publications) page. These include work from my previous postdoc in Germany looking at scale dependent effects of river habitat quality on benthic invertebrate communities (see [blog post](https://medium.com/@jdtonkin/river-restoration-should-be-directed-at-moderately-impaired-regions-9df51f7ea50c)), the time that restoration takes to work in streams, biodiversity in tropical streams, metacommunities in Himalayan streams, and fish responses to restoration.  
+
 ## 2016 
 
 <span style="color:#999">18 Feb 2016</span> » **New paper.** Our new article looking at context-dependency of biodiversity patterns in central German stream metacommunities is now online at Freshwater Biology [here](http://dx.doi.org/10.1111/fwb.12728). You can also find the pdf [here](http://jdtonkin.github.io/publications/).

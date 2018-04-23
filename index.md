@@ -64,8 +64,6 @@ title: 'Home'
 
 <span style="color:#999">26 Apr 2017</span> » **New paper in Ecology.** We have a new paper out in [Ecology](http://dx.doi.org/10.1002/ecy.1761). This deals with the role of seasonality and predictability in environmental fluctuations on temporal species diversity. We show that understanding the role of seasonality in regulating biodiversity is not complete without and understanding of its predictability. We developed a framework for examining these aspects by combining wavelets and information theory. Thanks to my excellent co-authors (Mike, Nuria, Blanca, and Dave) for making this a great experience. I will write a brief blog post on this soon. PDF [here](publications).
 
-<span style="color:#999">25 Apr 2017</span> » **Multiple new papers published.** I've done a pretty poor job of keeping my publications up to date on here in the past year. In this time, I've published a bunch of new papers that you can find by going over to the [publications](publications) page. These include work from my previous postdoc in Germany looking at scale dependent effects of river habitat quality on benthic invertebrate communities (see [blog post](https://medium.com/@jdtonkin/river-restoration-should-be-directed-at-moderately-impaired-regions-9df51f7ea50c)), the time that restoration takes to work in streams, biodiversity in tropical streams, metacommunities in Himalayan streams, and fish responses to restoration.  
-
 Older news [here](news).  
 
 
