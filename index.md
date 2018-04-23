@@ -45,7 +45,14 @@ title: 'Home'
 
 <!-- TEMPLATE:  <span style="color:#999">DATE</span> » **TITLE**-->
 
+
+<span style="color:#999">22 Apr 2018</span> » **Special issue on river network metacommunities.** I recently edited a special issue in Freshwater Biology with Florian Altermatt and Jani Heino on metacommunities in river networks. You can find the special issue [here](https://onlinelibrary.wiley.com/toc/13652427/63/1), our editorial [here](http://dx.doi.org/10.1111/fwb.13045), and our review of dispersal in river networks [here](http://dx.doi.org/10.1111/fwb.13037). You can find pdfs [here](publications). 
+
 <span style="color:#999">21 Apr 2018</span> » **Redesign of site = more news.** I've just redesigned my site to enable easier dissemination of news, so expect a lot more updates from now on. Also, I'm moving any blog posts back here to keep it all centralised. 
+
+<span style="color:#999">10 Apr 2018</span> » **New paper.** We just published a paper in [Science of the Total Environment](http://dx.doi.org/10.1016/j.scitotenv.2017.11.242) showing that preceding year climatic conditions outweigh long-term climatic trends on stream invertebrate communities in Europe. 
+
+<span style="color:#999">10 Feb 2018</span> » **New paper on EBVs.** We've just published a paper on linking essential biodiversity variables (EBVs) and ecological integrity for the next generation of site-based long-term ecological monitoring at [Science of the Total Environment](http://dx.doi.org/10.1016/j.scitotenv.2017.08.111). I hope this thinking gets implemented in LTER. This is something I started back when I worked at Senckenberg in Germany so it's great to see it out! Thanks to co-leads, Peter and Stefan, as well as all co-authors. 
 
 <span style="color:#999">24 Jan 2018</span> » **New paper in Nature Ecology and Evolution.** Very excited to have a new paper out in [Nature Ecology and Evolution](http://dx.doi.org/10.1038/s41559-017-0379-0) on ecological networks in uncertain futures. Find a short overview [here](blog/2018/01/24/New-Paper-In-NEE) full 'behind the paper' writeup [here](https://natureecoevocommunity.nature.com/users/70479-jonathan-tonkin/posts/22255-networks-degrade-when-river-flows-depart-from-natural). Thanks to my coauthors Dave, Dave, Julian and Lindsay! PDF [here](publications). 
 
@@ -75,7 +82,7 @@ Older news [here](news).
 	</ul>
 
 
-## Featured papers
+## Featured 
 
 <div class="pure-g">
 	
@@ -110,6 +117,38 @@ Older news [here](news).
 <br>	
 	
 </div>
+
+
+### Special isue on river networks 
+
+<style>
+    .l-box {
+        padding: 1.2em;
+    }
+</style>
+
+<div class="pure-g">
+
+<div class="pure-u-1-3" markdown="1">
+
+<div class="l-box">
+
+<img class="pure-img" src="{{ "/assets/img/2018-FWB-SI.png" | absolute_url }}" >
+
+</div>
+
+</div>
+
+<div class="pure-u-2-3" markdown="1">
+
+I recently edited a special issue in Freshwater Biology with Florian Altermatt and Jani Heino on metacommunities in river networks. You can find the special issue [here](https://onlinelibrary.wiley.com/toc/13652427/63/1)
+
+Tonkin, J. D., J. Heino, and F. Altermatt. 2018. Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. <a href="http://dx.doi.org/10.1111/fwb.13045" target="_blank"> Freshwater Biology </a> 63:1-5. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology_Editorial.pdf" | absolute_url }})
+
+</div>
+
+</div>
+
 
 <!--
 <i class="fa fa-fw fa-envelope"></i><span style="color:#999"> jdtonkin [at] gmail.com</span>   
