@@ -45,6 +45,9 @@ title: 'Home'
 
 <!-- TEMPLATE:  <span style="color:#999">DATE</span> » **TITLE**-->
 
+<span style="color:#999">14 May 2018</span> » **Paper accepted in PeerJ.** Happy to have just had a paper accepted for publication in *PeerJ* looking at latitudinal variation in metacommunity structure in New Zealand stream invertebrates. More details soon. 
+
+<span style="color:#999">12 May 2018</span> » **Off to NCEAS in Santa Barbara.** I'm heading to NCEAS (National Center for Ecological Analysis and Synthesis) in Santa Barbara for an exciting week of discussions on long-term metacommunity synthesis. 
 
 <span style="color:#999">22 Apr 2018</span> » **Special issue on river network metacommunities.** I recently edited a special issue in Freshwater Biology with Florian Altermatt and Jani Heino on metacommunities in river networks. You can find the special issue [here](https://onlinelibrary.wiley.com/toc/13652427/63/1), our editorial [here](http://dx.doi.org/10.1111/fwb.13045), and our review of dispersal in river networks [here](http://dx.doi.org/10.1111/fwb.13037). You can find pdfs [here](publications). 
 
