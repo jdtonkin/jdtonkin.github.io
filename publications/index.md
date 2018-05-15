@@ -83,6 +83,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2018 and In press</span>**  
 
+<span style="color:#999"> [47]</span> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*In press*). Do latitudinal gradients exist in New Zealand stream invertebrate metacommunities? *PeerJ*.
+
 <span style="color:#999"> [46]</span> Dalu, T., M. L. Magoro, **J. D. Tonkin**, L. R. D. Human, R. Perissinotto, S. H. P. Deyzel, J. B. Adams, and A. K. Whitfield. (*In press*). Assessing phytoplankton composition and structure within micro-estuaries and micro-outlets: A community analysis approach. *Hydrobiologia*.
 
 <span style="color:#999"> [45]</span> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. *In press*. Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. *Biological Conservation*.
