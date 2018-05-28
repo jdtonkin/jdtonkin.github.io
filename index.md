@@ -120,7 +120,7 @@ Older news [here](news).
 </div>
 
 
-## Special isue on river networks 
+## Special issue on river networks 
 
 <style>
     .l-box {
