@@ -87,9 +87,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 <span style="color:#999"> [48]</span> Li, F., **J. D. Tonkin**, and P. Haase. (*In press*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks. *Limnologica*.
 
-<span style="color:#999"> [47]</span> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. 2018. Do latitudinal gradients exist in New Zealand stream invertebrate metacommunities? *PeerJ*. 6:e4898; DOI:10.7717/peerj.4898.
+<span style="color:#999"> [47]</span> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. 2018. Do latitudinal gradients exist in New Zealand stream invertebrate metacommunities? *PeerJ* 6:e4898; DOI:10.7717/peerj.4898.
 
-<span style="color:#999"> [46]</span> Dalu, T., M. L. Magoro, **J. D. Tonkin**, L. R. D. Human, R. Perissinotto, S. H. P. Deyzel, J. B. Adams, and A. K. Whitfield. 2018. Assessing phytoplankton composition and structure within micro-estuaries and micro-outlets: A community analysis approach. *Hydrobiologia*. DOI:/10.1007/s10750-018-3605-0.
+<span style="color:#999"> [46]</span> Dalu, T., M. L. Magoro, **J. D. Tonkin**, L. R. D. Human, R. Perissinotto, S. H. P. Deyzel, J. B. Adams, and A. K. Whitfield. 2018. Assessing phytoplankton composition and structure within micro-estuaries and micro-outlets: A community analysis approach. *Hydrobiologia*. DOI:10.1007/s10750-018-3605-0.
 
 <span style="color:#999"> [45]</span> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. 2018. Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. *Biological Conservation*. DOI:10.1016/j.biocon.2017.12.024.
 
