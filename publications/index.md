@@ -83,11 +83,15 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2018 and In press</span>**  
 
-<span style="color:#999"> [47]</span> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. (*In press*). Do latitudinal gradients exist in New Zealand stream invertebrate metacommunities? *PeerJ*.
+<span style="color:#999"> [49]</span> Pilotto, F., **J. D. Tonkin**, K. Januschke, A. W. Lorenz, J. Jourdan, V. Baranov, A. Sundermann, D. Hering, S. Stoll, and P. Haase. (*In press*). Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration. *Conservation Biology*. DOI:10.1111/cobi.13176
 
-<span style="color:#999"> [46]</span> Dalu, T., M. L. Magoro, **J. D. Tonkin**, L. R. D. Human, R. Perissinotto, S. H. P. Deyzel, J. B. Adams, and A. K. Whitfield. (*In press*). Assessing phytoplankton composition and structure within micro-estuaries and micro-outlets: A community analysis approach. *Hydrobiologia*.
+<span style="color:#999"> [48]</span> Li, F., **J. D. Tonkin**, and P. Haase. (*In press*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks. *Limnologica*.
 
-<span style="color:#999"> [45]</span> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. *In press*. Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. *Biological Conservation*.
+<span style="color:#999"> [47]</span> **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. 2018. Do latitudinal gradients exist in New Zealand stream invertebrate metacommunities? *PeerJ*. 6:e4898; DOI:10.7717/peerj.4898.
+
+<span style="color:#999"> [46]</span> Dalu, T., M. L. Magoro, **J. D. Tonkin**, L. R. D. Human, R. Perissinotto, S. H. P. Deyzel, J. B. Adams, and A. K. Whitfield. 2018. Assessing phytoplankton composition and structure within micro-estuaries and micro-outlets: A community analysis approach. *Hydrobiologia*. DOI:/10.1007/s10750-018-3605-0.
+
+<span style="color:#999"> [45]</span> Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. 2018. Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. *Biological Conservation*. DOI:10.1016/j.biocon.2017.12.024.
 
 <span style="color:#999"> [44]</span> Jourdan, J, R. B. O'Hara, R. Bottarin, T. Hiura, K. Huttunen, M. Kuemmerlen, D. Monteith, T. Muotka, T. Ohta, R. Paavola, F. Pilotto, G. Springe, S. Stoll, A. Sundermann, **J. D. Tonkin**, and P. Haase. 2018. Effects of changing climate on European stream invertebrate communities: a long-term data analysis. <a href="http://dx.doi.org/10.1016/j.scitotenv.2017.11.242" target="_blank">Science of the Total Environment</a> DOI:10.1016/j.scitotenv.2017.11.242. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_STOTEN.pdf" | absolute_url }})
 
