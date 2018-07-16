@@ -45,6 +45,10 @@ title: 'Home'
 
 <!-- TEMPLATE:  <span style="color:#999">DATE</span> » **TITLE**-->
 
+<span style="color:#999">16 June 2018</span> » **New paper in Limnologica.** We've just had a paper accepted in [Limnologica](https://doi.org/10.1016/j.limno.2018.06.003) on: Dispersal capacity and broad-scale landscape structure shape benthic invertebrate communities along stream networks. Thanks to Fengqing for leading this! 
+
+<span style="color:#999">14 June 2018</span> » **New paper in Conservation Biology.** We've just had a paper accepted in [Conservation Biology](https://doi.org/10.1111/cobi.13176) on: Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration. Thanks to Francesca for leading this! 
+
 <span style="color:#999">8 June 2018</span> » **Great week at SFS.** I recently attended the annual Society for Freshwater Science meeting in Detroit. I'm really excited by how well the two special sessions I co-led went. One was on "Emerging Approaches to Modeling Population and Community Dynamics in Fresh Waters" (co-leads: Albert Ruhi, Julian Olden and Dave Lytle) and the other was on "Dams, big data, and meta-analyses" (led by Erin Abernethy). Thanks to all the presenters and those that attended the sessions!
 
 <span style="color:#999">14 May 2018</span> » **Paper accepted in PeerJ.** Happy to have just had a paper accepted for publication in *PeerJ* looking at latitudinal variation in metacommunity structure in New Zealand stream invertebrates. More details soon. 
