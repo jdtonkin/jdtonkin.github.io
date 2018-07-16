@@ -23,3 +23,5 @@ keywords: Freshwater, Ecology, Rivers, Streams, Science, Research, R, CRAN, Stat
 # Contact and social media links
 email: jdtonkin@gmail.com
 twitter_username: jdtonkin
+
+theme: jekyll-theme-minimal
