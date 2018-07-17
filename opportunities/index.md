@@ -3,6 +3,8 @@ layout: default
 title: Opportunities
 ---
 
+<img class="pure-img" src="{{ "/assets/img/about_banner.png" | absolute_url }}" >
+
 <!-- <img class="pure-img" src="{{ "/assets/img/flower_banner_small.JPG" | absolute_url }}" > -->
 <!-- <img class="pure-img" src="{{ "/assets/img/green_cropped_small.JPG" | absolute_url }}" > -->
 

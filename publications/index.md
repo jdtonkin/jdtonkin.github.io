@@ -3,6 +3,7 @@ layout: default
 title: Publications
 ---
 
+<img class="pure-img" src="{{ "/assets/img/about_banner.png" | absolute_url }}" >
 
 <!--
 #00a1e1 - blue

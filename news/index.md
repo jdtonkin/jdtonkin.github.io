@@ -3,6 +3,8 @@ layout: default_comment
 title: News
 ---
 
+<img class="pure-img" src="{{ "/assets/img/about_banner.png" | absolute_url }}" >
+
 <!--
 [DOI:](http://dx.doi.org/)
 -->

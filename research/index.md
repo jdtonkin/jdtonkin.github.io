@@ -3,7 +3,9 @@ layout: default
 title: Research
 ---
 
-<img class="pure-img" src="{{ "/assets/img/zjj_stream_cropped_small.jpeg" | absolute_url }}" >
+<img class="pure-img" src="{{ "/assets/img/about_banner.png" | absolute_url }}" >
+
+<!-- <img class="pure-img" src="{{ "/assets/img/zjj_stream_cropped_small.jpeg" | absolute_url }}" > -->
 
 I am a quantitative community ecologist aiming to disentangle the mechanisms that promote and maintain biodiversity at different scales. Much of my research involves searching for mechanistic links between environmental variation and population and community dynamics in highly dynamic, abiotically-forced systems. Although my research has evolved to be more computationally driven, my work maintains a strong empirical component, with considerable field experience in New Zealand, northern Spain, central China and western USA. This experience has typically centered on running waters, but my interests are question oriented, not system specific. I use a variety of approaches to explore these questions, including field manipulations, simulations and mining large datasets using different statistical, network, and machine learning techniques. My overarching goal is to contribute strong advances to ecological theory through searching for mechanisms regulating biodiversity in dynamic abiotically-forced systems. By bringing together ecological theory with key environmental issues, I hope to provide tools for practitioners wishing to better manage threatened ecosystems. 
 
