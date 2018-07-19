@@ -84,6 +84,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **<span style="color:#999">2018 and In press</span>**  
 
+<span style="color:#999"> [50]</span> Jourdan, J., M. Plath, **J. D. Tonkin**, M. Ceylan, A. C. Dumeier, G. Gellert, W. Graf, C. P. Hawkins, E. Kiel, A. Lorenz, C. Matthaei, P. Verdonschot, R. Verdonschot, and P. Haase. (*Provisionally accepted*). Reintroduction of freshwater macroinvertebrates: challenges and opportunities. *Biological Reviews*.
+
 <span style="color:#999"> [49]</span> Pilotto, F., **J. D. Tonkin**, K. Januschke, A. W. Lorenz, J. Jourdan, V. Baranov, A. Sundermann, D. Hering, S. Stoll, and P. Haase. (*In press*). Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration. *Conservation Biology*. DOI:10.1111/cobi.13176
 
 <span style="color:#999"> [48]</span> Li, F., **J. D. Tonkin**, and P. Haase. (*In press*). Dispersal capacity and broad-scale landscape structure shape communities along stream networks. *Limnologica*.
