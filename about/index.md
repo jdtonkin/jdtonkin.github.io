@@ -7,11 +7,12 @@ title: About
 
 <img class="pure-img" src="{{ "/assets/img/about_banner.png" | absolute_url }}" >
 
-I am a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>. Read more about my [research](research) and [publications](publications).  
+I am a postdoctoral fellow at <a href="https://www.canterbury.ac.nz/">the University of Canterbury</a> in Christchurch, New Zealand. Read more about my [research](research) and [publications](publications).  
 
-Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/) in New Zealand looking at the interaction between productivity and disturbance on structuring stream invertebrate diversity patterns. I followed that up with a job lecturing in Environmental Management and Marine Studies at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/) in Tauranga, New Zealand. I then spent one year at [Xi’an Jiaotong-Liverpool University](http://www.xjtlu.edu.cn/en/) in Suzhou, China lecturing Environmental Science. I followed that up by a couple of years at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum in Germany, based in the River Ecology and Conservation [Department](http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26) in Gelnhausen.
+Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/) in New Zealand looking at the interaction between productivity and disturbance on structuring stream invertebrate diversity patterns. I followed that up with a job lecturing in Environmental Management and Marine Studies at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/) in Tauranga, New Zealand. I then spent one year at [Xi’an Jiaotong-Liverpool University](http://www.xjtlu.edu.cn/en/) in Suzhou, China lecturing Environmental Science. I followed that up by a couple of years at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum in Germany, based in the River Ecology and Conservation [Department](http://www.senckenberg.de/root/index.php?page_id=5217&organisation=true&institutID=1&abteilungID=26) in Gelnhausen, followed by a couple of years at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA.
 
 # Research Interests
+- Ecological networks
 - Stream ecology
 - Community ecology
 - Metacommunity ecology
@@ -23,7 +24,8 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 
 # Academic Positions
 
-**October 2015 – Present:** Postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA, based in the [Department of Integrative Biology](http://ib.oregonstate.edu/).  
+**September 2018 - Present:** Postdoctoral fellow at [the University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand. 
+**October 2015 – September 2018:** Postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA, based in the [Department of Integrative Biology](http://ib.oregonstate.edu/).  
 **September 2013 – September 2015:** Postdoctoral Researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum, Gelnhausen, Germany.   
 **August 2012 – August 2013:** Lecturer at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), SIP, Suzhou, Jiangsu Province, China.  
 **February 2011 – July 2012:** Academic Staff Member at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/), Tauranga, New Zealand.  
@@ -93,10 +95,10 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 
 
 **Jonathan D. Tonkin**  
-Department of Integrative Biology  
-3029 Cordley Hall  
-Oregon State University  
-Corvallis, OR, USA
+School of Biological Sciences  
+University of Canterbury  
+Private bag 4800
+Christchurch 8140, New Zealand  
 
 <i class="fa fa-fw fa-globe"></i>[ oregonstate.edu](http://oregonstate.edu)  
 <i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com"> jdtonkin [at] gmail.com</a>     
