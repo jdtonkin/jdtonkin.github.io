@@ -32,7 +32,7 @@ title: 'Home'
 
 <div class="vh">
 
-<p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. My research has mostly focused on running water ecosystems, but my interests are question focused, not system specific. I am currently a postdoctoral scholar at <a href="http://oregonstate.edu/">Oregon State University</a> in Corvallis, OR, USA. I'm based in the <a href="http://ib.oregonstate.edu/">Department of Integrative Biology</a>, and I'm on the editorial boards of <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427">Freshwater Biology</a> and <a href="https://peerj.com/">PeerJ</a>. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on this website. Also find my <a href="/blog">blog here</a> and hear me talk about my recent research <a href="https://youtu.be/mqnuv6YZBSM" target="_blank"> here</a>.
+<p>I study factors that promote and maintain biodiversity from a community, metacommunity and macroecological perspective. I am currently a postdoctoral fellow at <a href="https://www.canterbury.ac.nz/">the University of Canterbury</a> in Christchurch, New Zealand. I'm on the editorial boards of <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427">Freshwater Biology</a> and <a href="https://peerj.com/">PeerJ</a>. You can read more about <a href="/about">me</a> (including contact details), my <a href="/research">research</a>, and my <a href="/publications">publications</a> on this website. 
 </p>
 
 </div>
@@ -44,6 +44,8 @@ title: 'Home'
 ## Latest news
 
 <!-- TEMPLATE:  <span style="color:#999">DATE</span> » **TITLE**-->
+
+<span style="color:#999">3 Sept 2018</span> » **Started new position in NZ.** I'm delighted to share that I have just started a new postdoc position at the [University of Canterbury](https://www.canterbury.ac.nz/) in New Zealand. Six exciting years overseas (China-Germany-USA) has come to an end. I'm delighted to be working with [Prof. Jason Tylianakis](https://www.tylianakislab.org/) and Prof. Ian Dickie on above- and below-ground ecological networks. 
 
 <span style="color:#999">16 July 2018</span> » **New paper in Limnologica.** We've just had a paper accepted in [Limnologica](https://doi.org/10.1016/j.limno.2018.06.003) on: Dispersal capacity and broad-scale landscape structure shape benthic invertebrate communities along stream networks. Thanks to Fengqing for leading this! 
 
