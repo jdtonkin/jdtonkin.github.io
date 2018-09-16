@@ -24,7 +24,7 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 
 # Academic Positions
 
-**September 2018 - Present:** Postdoctoral fellow at [the University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand. 
+**September 2018 - Present:** Postdoctoral fellow at [the University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.  
 **October 2015 – September 2018:** Postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA, based in the [Department of Integrative Biology](http://ib.oregonstate.edu/).  
 **September 2013 – September 2015:** Postdoctoral Researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum, Gelnhausen, Germany.   
 **August 2012 – August 2013:** Lecturer at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), SIP, Suzhou, Jiangsu Province, China.  
