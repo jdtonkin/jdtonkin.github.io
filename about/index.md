@@ -97,7 +97,7 @@ Prior to this, I gained a PhD from [Massey University](http://www.massey.ac.nz/)
 **Jonathan D. Tonkin**  
 School of Biological Sciences  
 University of Canterbury  
-Private bag 4800
+Private bag 4800  
 Christchurch 8140, New Zealand  
 
 <i class="fa fa-fw fa-globe"></i>[ UC](https://www.canterbury.ac.nz/)  
