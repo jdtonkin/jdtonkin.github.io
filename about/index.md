@@ -100,7 +100,7 @@ University of Canterbury
 Private bag 4800
 Christchurch 8140, New Zealand  
 
-<i class="fa fa-fw fa-globe"></i>[ oregonstate.edu](http://oregonstate.edu)  
+<i class="fa fa-fw fa-globe"></i>[ UC](https://www.canterbury.ac.nz/)  
 <i class="fa fa-fw fa-envelope"></i><a href="mailto:jdtonkin@gmail.com"> jdtonkin [at] gmail.com</a>     
 <i class="fa fa-fw fa-twitter"></i><a href="http://twitter.com/jdtonkin"> @jdtonkin</a>
 
