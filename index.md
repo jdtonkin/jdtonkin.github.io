@@ -45,6 +45,10 @@ title: 'Home'
 
 <!-- TEMPLATE:  <span style="color:#999">DATE</span> » **TITLE**-->
 
+<span style="color:#999">4 Oct 2018</span> » **Awarded a Rutherford Discovery Fellowship.** I am delighted and honoured to receive a Rutherford Discovery Fellowship from the Royal Society of New Zealand Te Apārangi. The title of my 5-year programme is "Rethinking ecological networks in changing environments". The fellowship will allow me to build my research programme here in New Zealand after several years overseas, and provide the time to tackle major environmental challenges in a way that is not necessarily possible over shorter timescales. News releases [here](https://royalsociety.org.nz/news/2018-rutherford-discovery-fellowships-to-accelerate-research-careers-announced/) and [here](https://www.canterbury.ac.nz/news/2018/uc-ecologist-awarded-800000-to-tackle-major-environmental-challenges.html). 
+
+<span style="color:#999">20 Sept 2018</span> » **New paper in Biological Reviews.** We just published a paper in Biological Reviews on "Reintroduction of freshwater macroinvertebrates: challenges and opportunities". This was a fund paper to be a part of. Thanks Jonas for leading! Find the paper over on my publications page or [here](http://doi.org/10.1111/brv.12458). 
+
 <span style="color:#999">3 Sept 2018</span> » **Started new position in NZ.** I'm delighted to share that I have just started a new postdoc position at the [University of Canterbury](https://www.canterbury.ac.nz/) in New Zealand. Six exciting years overseas (China-Germany-USA) has come to an end. I'm delighted to be working with [Prof. Jason Tylianakis](https://www.tylianakislab.org/) and Prof. Ian Dickie on above- and below-ground ecological networks. 
 
 <span style="color:#999">16 July 2018</span> » **New paper in Limnologica.** We've just had a paper accepted in [Limnologica](https://doi.org/10.1016/j.limno.2018.06.003) on: Dispersal capacity and broad-scale landscape structure shape benthic invertebrate communities along stream networks. Thanks to Fengqing for leading this! 
