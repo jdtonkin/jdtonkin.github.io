@@ -83,6 +83,8 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **2018 and In press**  
 
+[51] Tiegs, S. et al. (In press). Ecosystem functioning gauged via global crowdsourcing. *Science Advances*. 
+
 [50] Jourdan, J., M. Plath, **J. D. Tonkin**, M. Ceylan, A. C. Dumeier, G. Gellert, W. Graf, C. P. Hawkins, E. Kiel, A. Lorenz, C. Matthaei, P. Verdonschot, R. Verdonschot, and P. Haase. 2018. Reintroduction of freshwater macroinvertebrates: challenges and opportunities. <a href="http://dx.doi.org/10.1111/brv.12458" target="_blank"> Biological Reviews </a> DOI:10.1111/brv.12458. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_Biological_Reviews.pdf" | absolute_url }})
 
 [49] Pilotto, F., **J. D. Tonkin**, K. Januschke, A. W. Lorenz, J. Jourdan, V. Baranov, A. Sundermann, D. Hering, S. Stoll, and P. Haase. 2018. Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration. <a href="http://dx.doi.org/10.1111/cobi.13176" target="_blank"> Conservation Biology </a> DOI:10.1111/cobi.13176. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Pilotto_etal_ConservationBiology.pdf" | absolute_url }})
