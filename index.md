@@ -21,7 +21,7 @@ title: 'Home'
 <!-- <iframe src="{{ "assets/network/network.html" | absolute_url }}" width="300px" height="300px" frameBorder="0" style=" border-width:0 "> -->
 <!-- </iframe> -->
 
-<img class="pure-img" src="{{ "/assets/img/nw-eg.png" | absolute_url }}">
+<img class="pure-img" src="{{ "/assets/img/nw-eg.png" | absolute_url }}" width="300px">
 
 
 </div>
