@@ -83,7 +83,11 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **2018 and In press**  
 
-[51] Tiegs, S. et al. (In press). Ecosystem functioning gauged via global crowdsourcing. *Science Advances*. 
+[53] Haase, P., F. Pilotto, F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*In press*). Moderate warming over the past 25 years has already reorganized stream invertebrate communities. *Science of the Total Environment*.
+
+[52] Van Looy, K., **J. D. Tonkin**, M. Floury, C. Leigh, J. Soininen, S. Larsen, J. Heino, N. L. Poff, M. Delong, S. C. Jähnig, T. Datry, N. Bonada, J. Rosebery, A. Jamoneau, S. J. Ormerod, K. J. Collier, and C. Wolter. (*In press*). The three Rs of river ecosystem resilience: Resources, Recruitment and Refugia. *River Research and Applications*. 
+
+[51] Tiegs, S. D., et al. (incl. **J. D. Tonkin**). (*In press*). Global patterns and drivers of ecosystem functioning in rivers and riparian zones. *Science Advances*. 
 
 [50] Jourdan, J., M. Plath, **J. D. Tonkin**, M. Ceylan, A. C. Dumeier, G. Gellert, W. Graf, C. P. Hawkins, E. Kiel, A. Lorenz, C. Matthaei, P. Verdonschot, R. Verdonschot, and P. Haase. 2018. Reintroduction of freshwater macroinvertebrates: challenges and opportunities. <a href="http://dx.doi.org/10.1111/brv.12458" target="_blank"> Biological Reviews </a> DOI:10.1111/brv.12458. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_Biological_Reviews.pdf" | absolute_url }})
 
