@@ -46,6 +46,10 @@ title: 'Home'
 
 <!-- TEMPLATE:  <span style="color:#999">DATE</span> » **TITLE**-->
 
+<span style="color:#999">18 Dec 2018</span> » **Paper accepted in Sci. Tot. Env.** We just had a paper accepted in Sci. Tot. Env. led by Peter Haase, Francesca Pilotto and Fengqing Li. This has been a long road, so it's nice to see it through review. The title gives the central result: Moderate warming over the past 25 years has already reorganized stream invertebrate communities. 
+
+<span style="color:#999">18 Dec 2018</span> » **Paper accepted in River Research and Applications.** We just had a paper accepted in River Research and Applications on: The three Rs of river ecosystem resilience: Resources, Recruitment and Refugia. Thanks to Kris Van Looy for leading this. This originated at a workshop in Berlin back in 2015, so it's nice to see it come through in the end. 
+
 <span style="color:#999">17 Dec 2018</span> » **Awarded the inaugural NZFSS Early Career Researcher Award.** Last week I received the inaugural Early Career Researcher Award by the New Zealand Freshwater Sciences Society. This was a real treat to receive. I'm very grateful to both the Society for giving me the award and the many colleagues that have helped me to get where I am today. It meant I got to share my past few years of research with the society by way of a keynote address. 
 
 <span style="color:#999">4 Oct 2018</span> » **Awarded a Rutherford Discovery Fellowship.** I am delighted and honoured to receive a Rutherford Discovery Fellowship from the Royal Society of New Zealand Te Apārangi. The title of my 5-year programme is "Rethinking ecological networks in changing environments". The fellowship will allow me to build my research programme here in New Zealand after several years overseas, and provide the time to tackle major environmental challenges in a way that is not necessarily possible over shorter timescales. News releases [here](https://royalsociety.org.nz/news/2018-rutherford-discovery-fellowships-to-accelerate-research-careers-announced/) and [here](https://www.canterbury.ac.nz/news/2018/uc-ecologist-awarded-800000-to-tackle-major-environmental-challenges.html). 
