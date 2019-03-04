@@ -81,17 +81,21 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 <a href="http://dx.doi.org/" target="_blank"> JOURNAL </a> ISSUE/DOI. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/xxx.pdf" | absolute_url }})
 -->
 
-**2018 and In press**  
+**2019 and In press**  
 
-[53] Haase, P., F. Pilotto, F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. (*In press*). Moderate warming over the past 25 years has already reorganized stream invertebrate communities. *Science of the Total Environment*.
+[54] Rogosch, J. S., **J. D. Tonkin**, D. A. Lytle, D. M. Merritt, L. V. Reynolds, and J. D. Olden. (*In press*). Increasing droughts favor nonnative fishes in a dryland river: evidence from a multispecies demographic model. *Ecosphere*.
 
-[52] Van Looy, K., **J. D. Tonkin**, M. Floury, C. Leigh, J. Soininen, S. Larsen, J. Heino, N. L. Poff, M. Delong, S. C. Jähnig, T. Datry, N. Bonada, J. Rosebery, A. Jamoneau, S. J. Ormerod, K. J. Collier, and C. Wolter. (*In press*). The three Rs of river ecosystem resilience: Resources, Recruitment and Refugia. *River Research and Applications*. 
+[53] Haase, P., F. Pilotto, F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. 2019. Moderate warming over the past 25 years has already reorganized stream invertebrate communities. *Science of the Total Environment* 658:1531-1538.
 
-[51] Tiegs, S. D., et al. (incl. **J. D. Tonkin**). (*In press*). Global patterns and drivers of ecosystem functioning in rivers and riparian zones. *Science Advances*. 
+[52] Van Looy, K., **J. D. Tonkin**, M. Floury, C. Leigh, J. Soininen, S. Larsen, J. Heino, N. L. Poff, M. Delong, S. C. Jähnig, T. Datry, N. Bonada, J. Rosebery, A. Jamoneau, S. J. Ormerod, K. J. Collier, and C. Wolter. 2019. The three Rs of river ecosystem resilience: Resources, Recruitment and Refugia. *River Research and Applications* 35:107-120. 
 
-[50] Jourdan, J., M. Plath, **J. D. Tonkin**, M. Ceylan, A. C. Dumeier, G. Gellert, W. Graf, C. P. Hawkins, E. Kiel, A. Lorenz, C. Matthaei, P. Verdonschot, R. Verdonschot, and P. Haase. 2018. Reintroduction of freshwater macroinvertebrates: challenges and opportunities. <a href="http://dx.doi.org/10.1111/brv.12458" target="_blank"> Biological Reviews </a> DOI:10.1111/brv.12458. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_Biological_Reviews.pdf" | absolute_url }})
+[51] Tiegs, S. D., et al. (incl. **J. D. Tonkin**). 2019. Global patterns and drivers of ecosystem functioning in rivers and riparian zones. *Science Advances* 5:eaav0486. 
 
-[49] Pilotto, F., **J. D. Tonkin**, K. Januschke, A. W. Lorenz, J. Jourdan, V. Baranov, A. Sundermann, D. Hering, S. Stoll, and P. Haase. 2018. Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration. <a href="http://dx.doi.org/10.1111/cobi.13176" target="_blank"> Conservation Biology </a> DOI:10.1111/cobi.13176. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Pilotto_etal_ConservationBiology.pdf" | absolute_url }})
+[50] Pilotto, F., **J. D. Tonkin**, K. Januschke, A. W. Lorenz, J. Jourdan, V. Baranov, A. Sundermann, D. Hering, S. Stoll, and P. Haase. 2019. Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration. <a href="http://dx.doi.org/10.1111/cobi.13176" target="_blank"> Conservation Biology </a> DOI:10.1111/cobi.13176. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Pilotto_etal_ConservationBiology.pdf" | absolute_url }})
+
+**2018**
+
+[49] Jourdan, J., M. Plath, **J. D. Tonkin**, M. Ceylan, A. C. Dumeier, G. Gellert, W. Graf, C. P. Hawkins, E. Kiel, A. Lorenz, C. Matthaei, P. Verdonschot, R. Verdonschot, and P. Haase. 2018. Reintroduction of freshwater macroinvertebrates: challenges and opportunities. <a href="http://dx.doi.org/10.1111/brv.12458" target="_blank"> Biological Reviews </a> DOI:10.1111/brv.12458. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_Biological_Reviews.pdf" | absolute_url }})
 
 [48] Li, F., **J. D. Tonkin**, and P. Haase. 2018. Dispersal capacity and broad-scale landscape structure shape communities along stream networks. <a href="http://dx.doi.org/10.1016/j.limno.2018.06.003" target="_blank"> Limnologica </a> 71:68-74. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Li_etal_Limnologica.pdf" | absolute_url }})
 
