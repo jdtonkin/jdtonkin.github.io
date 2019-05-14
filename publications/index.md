@@ -83,34 +83,38 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **2019 and In press**  
 
-[54] Rogosch, J. S., **J. D. Tonkin**, D. A. Lytle, D. M. Merritt, L. V. Reynolds, and J. D. Olden. (*In press*). Increasing droughts favor nonnative fishes in a dryland river: evidence from a multispecies demographic model. *Ecosphere*.
+[56] Yuan, T, K. Kumar Vadde 1, **J D. Tonkin**, J. Wang, J. Lu, Z. Zhang, Y. Zhang, A. J. McCarthy, and R. Sekar. (*In press*). Urbanization impacts the physicochemical characteristics and abundance of fecal markers and bacterial pathogens in surface water. *International Journal of Environmental Research and Public Health*. 
 
-[53] Haase, P., F. Pilotto, F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. 2019. Moderate warming over the past 25 years has already reorganized stream invertebrate communities. *Science of the Total Environment* 658:1531-1538.
+[55] Rogosch, J. S., **J. D. Tonkin**, D. A. Lytle, D. M. Merritt, L. V. Reynolds, and J. D. Olden. (*In press*). Increasing droughts favor nonnative fishes in a dryland river: evidence from a multispecies demographic model. *Ecosphere*.
 
-[52] Van Looy, K., **J. D. Tonkin**, M. Floury, C. Leigh, J. Soininen, S. Larsen, J. Heino, N. L. Poff, M. Delong, S. C. Jähnig, T. Datry, N. Bonada, J. Rosebery, A. Jamoneau, S. J. Ormerod, K. J. Collier, and C. Wolter. 2019. The three Rs of river ecosystem resilience: Resources, Recruitment and Refugia. *River Research and Applications* 35:107-120. 
+[54] Haase, P., F. Pilotto, F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. 2019. Moderate warming over the past 25 years has already reorganized stream invertebrate communities. *Science of the Total Environment* 658:1531-1538.
 
-[51] Tiegs, S. D., et al. (incl. **J. D. Tonkin**). 2019. Global patterns and drivers of ecosystem functioning in rivers and riparian zones. *Science Advances* 5:eaav0486. 
+[53] Van Looy, K., **J. D. Tonkin**, M. Floury, C. Leigh, J. Soininen, S. Larsen, J. Heino, N. L. Poff, M. Delong, S. C. Jähnig, T. Datry, N. Bonada, J. Rosebery, A. Jamoneau, S. J. Ormerod, K. J. Collier, and C. Wolter. 2019. The three Rs of river ecosystem resilience: Resources, Recruitment and Refugia. *River Research and Applications* 35:107-120. 
 
-[50] Pilotto, F., **J. D. Tonkin**, K. Januschke, A. W. Lorenz, J. Jourdan, V. Baranov, A. Sundermann, D. Hering, S. Stoll, and P. Haase. 2019. Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration. <a href="http://dx.doi.org/10.1111/cobi.13176" target="_blank"> Conservation Biology </a> DOI:10.1111/cobi.13176. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Pilotto_etal_ConservationBiology.pdf" | absolute_url }})
+[52] Tiegs, S. D., et al. (incl. **J. D. Tonkin**). 2019. Global patterns and drivers of ecosystem functioning in rivers and riparian zones. *Science Advances* 5:eaav0486. 
+
+[51] Pilotto, F., **J. D. Tonkin**, K. Januschke, A. W. Lorenz, J. Jourdan, V. Baranov, A. Sundermann, D. Hering, S. Stoll, and P. Haase. 2019. Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration. <a href="http://dx.doi.org/10.1111/cobi.13176" target="_blank"> Conservation Biology </a> DOI:10.1111/cobi.13176. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Pilotto_etal_ConservationBiology.pdf" | absolute_url }})
 
 **2018**
 
-[49] Jourdan, J., M. Plath, **J. D. Tonkin**, M. Ceylan, A. C. Dumeier, G. Gellert, W. Graf, C. P. Hawkins, E. Kiel, A. Lorenz, C. Matthaei, P. Verdonschot, R. Verdonschot, and P. Haase. 2018. Reintroduction of freshwater macroinvertebrates: challenges and opportunities. <a href="http://dx.doi.org/10.1111/brv.12458" target="_blank"> Biological Reviews </a> DOI:10.1111/brv.12458. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_Biological_Reviews.pdf" | absolute_url }})
+[50] Jourdan, J., M. Plath, **J. D. Tonkin**, M. Ceylan, A. C. Dumeier, G. Gellert, W. Graf, C. P. Hawkins, E. Kiel, A. Lorenz, C. Matthaei, P. Verdonschot, R. Verdonschot, and P. Haase. 2018. Reintroduction of freshwater macroinvertebrates: challenges and opportunities. <a href="http://dx.doi.org/10.1111/brv.12458" target="_blank"> Biological Reviews </a> DOI:10.1111/brv.12458. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_Biological_Reviews.pdf" | absolute_url }})
 
-[48] Li, F., **J. D. Tonkin**, and P. Haase. 2018. Dispersal capacity and broad-scale landscape structure shape communities along stream networks. <a href="http://dx.doi.org/10.1016/j.limno.2018.06.003" target="_blank"> Limnologica </a> 71:68-74. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Li_etal_Limnologica.pdf" | absolute_url }})
+[49] Li, F., **J. D. Tonkin**, and P. Haase. 2018. Dispersal capacity and broad-scale landscape structure shape communities along stream networks. <a href="http://dx.doi.org/10.1016/j.limno.2018.06.003" target="_blank"> Limnologica </a> 71:68-74. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Li_etal_Limnologica.pdf" | absolute_url }})
 
-[47] **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. 2018. Do latitudinal gradients exist in New Zealand stream invertebrate metacommunities? <a href="http://dx.doi.org/10.7717/peerj.4898" target="_blank"> PeerJ </a> 6:e4898. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_PeerJ.pdf" | absolute_url }})
+[48] **Tonkin, J. D.**, R. G. Death, T. Muotka, A. Astorga, and D. A. Lytle. 2018. Do latitudinal gradients exist in New Zealand stream invertebrate metacommunities? <a href="http://dx.doi.org/10.7717/peerj.4898" target="_blank"> PeerJ </a> 6:e4898. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_PeerJ.pdf" | absolute_url }})
 
-[46] Dalu, T., M. L. Magoro, **J. D. Tonkin**, L. R. D. Human, R. Perissinotto, S. H. P. Deyzel, J. B. Adams, and A. K. Whitfield. 2018. Assessing phytoplankton composition and structure within micro-estuaries and micro-outlets: A community analysis approach. <a href="http://dx.doi.org/10.1007/s10750-018-3605-0" target="_blank"> Hydrobiologia </a> 818:177–191. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Dalu_etal_Hydrobiologia.pdf" | absolute_url }})
+[47] Dalu, T., M. L. Magoro, **J. D. Tonkin**, L. R. D. Human, R. Perissinotto, S. H. P. Deyzel, J. B. Adams, and A. K. Whitfield. 2018. Assessing phytoplankton composition and structure within micro-estuaries and micro-outlets: A community analysis approach. <a href="http://dx.doi.org/10.1007/s10750-018-3605-0" target="_blank"> Hydrobiologia </a> 818:177–191. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Dalu_etal_Hydrobiologia.pdf" | absolute_url }})
 
-[45] Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. 2018. Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. <a href="http://dx.doi.org/10.1016/j.biocon.2017.12.024" target="_blank"> Biological Conservation </a> 221:78-85. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Wetzel_etal_Biological_Conservation.pdf" | absolute_url }})
+[46] Wetzel, F. T., H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, D. S. Schmeller, S. Stoll, **J. D. Tonkin**, and C. Häuser. 2018. Unlocking biodiversity data - Prioritization and filling the gaps in biodiversity observation data in Europe. <a href="http://dx.doi.org/10.1016/j.biocon.2017.12.024" target="_blank"> Biological Conservation </a> 221:78-85. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Wetzel_etal_Biological_Conservation.pdf" | absolute_url }})
 
 - _Correspondence_: Wetzel, F. T., D. S. Schmeller, H. Bingham, Q. Groom, P. Haase, U. Köljalg, M. Kuhlmann, C. S. Martin, L. Penev, T. Robertson, H. Saarenmaa, S. Stoll, **J. D. Tonkin**, and C. Häuser. 2018. Real gaps in European bird monitoring: A reply to Voříšek et al. <a href="http://dx.doi.org/10.1016/j.biocon.2018.07.002" target="_blank"> Biological Conservation </a> 225:247-248. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Wetzel_etal_Biological_Conservation-Reply.pdf" | absolute_url }})
 
 
-[44] Jourdan, J, R. B. O'Hara, R. Bottarin, T. Hiura, K. Huttunen, M. Kuemmerlen, D. Monteith, T. Muotka, T. Ohta, R. Paavola, F. Pilotto, G. Springe, S. Stoll, A. Sundermann, **J. D. Tonkin**, and P. Haase. 2018. Effects of changing climate on European stream invertebrate communities: a long-term data analysis. <a href="http://dx.doi.org/10.1016/j.scitotenv.2017.11.242" target="_blank">Science of the Total Environment</a> 621:588-599. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_STOTEN.pdf" | absolute_url }})
+[45] Jourdan, J, R. B. O'Hara, R. Bottarin, T. Hiura, K. Huttunen, M. Kuemmerlen, D. Monteith, T. Muotka, T. Ohta, R. Paavola, F. Pilotto, G. Springe, S. Stoll, A. Sundermann, **J. D. Tonkin**, and P. Haase. 2018. Effects of changing climate on European stream invertebrate communities: a long-term data analysis. <a href="http://dx.doi.org/10.1016/j.scitotenv.2017.11.242" target="_blank">Science of the Total Environment</a> 621:588-599. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Jourdan_etal_STOTEN.pdf" | absolute_url }})
 
-[43] **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. 2018. Flow regime alteration degrades ecological networks in riparian ecosystems. <a href="http://dx.doi.org/10.1038/s41559-017-0379-0" target="_blank">Nature Ecology & Evolution</a> 2:86-93. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Nature_Eco_Evo.pdf" | absolute_url }})
+[44] **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. 2018. Flow regime alteration degrades ecological networks in riparian ecosystems. <a href="http://dx.doi.org/10.1038/s41559-017-0379-0" target="_blank">Nature Ecology & Evolution</a> 2:86-93. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Nature_Eco_Evo.pdf" | absolute_url }})
+
+[43] **Tonkin, J. D.**, J. Heino, and F. Altermatt. 2018. Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. <a href="http://dx.doi.org/10.1111/fwb.13045" target="_blank"> Freshwater Biology </a> 63:1-5. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology_Editorial.pdf" | absolute_url }})
 
 [42] **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. 2018. The role of dispersal in river network metacommunities: patterns, processes, and pathways. <a href="http://dx.doi.org/10.1111/fwb.13037" target="_blank">Freshwater Biology</a> 63:141–163. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology.pdf" | absolute_url }})
 
@@ -213,35 +217,6 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 [2] Collier, K. J., B. Aldridge, B. J. Hicks, J. Kelly, A. Macdonald, B. J. Smith, and **J. Tonkin**. 2009. Ecological values of Hamilton urban streams (North Island, New Zealand): constraints and opportunities for restoration. <a href="http://newzealandecology.org/nzje/2893" target="_blank">New Zealand Journal of Ecology</a> 33:177-189. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2009_Collier_etal_New_Zealand_Journal_of_Ecology.pdf" | absolute_url }})<span style="color:#00a1e1"><i class="fa fa-fw fa-unlock"></i>
 
 [1] **Tonkin, J. D.**, R. G. Death, and M. K. Joy. 2009. Invertebrate drift patterns in a regulated river: dams, periphyton biomass or longitudinal patterns? <a href="http://dx.doi.org/10.1002/rra.1213" target="_blank">River Research and Applications</a> 25:1219-1231. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2009_Tonkin_etal_River_Research_and_Applications.pdf" | absolute_url }})
-
-
-# Editorials
-
-<style>
-    .l-box {
-        padding: 1.2em;
-    }
-</style>
-
-<div class="pure-g">
-
-<div class="pure-u-1-3" markdown="1">
-
-<div class="l-box">
-
-<img class="pure-img" src="{{ "/assets/img/2018-FWB-SI.png" | absolute_url }}" >
-
-</div>
-
-</div>
-
-<div class="pure-u-2-3" markdown="1">
-
-**Tonkin, J. D.**, J. Heino, and F. Altermatt. 2018. Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. <a href="http://dx.doi.org/10.1111/fwb.13045" target="_blank"> Freshwater Biology </a> 63:1-5. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology_Editorial.pdf" | absolute_url }})
-
-</div>
-
-</div>
 
 
 # Theses
