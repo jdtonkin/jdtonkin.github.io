@@ -83,9 +83,11 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **2019 and In press**  
 
-[56] Yuan, T, K. Kumar Vadde 1, **J D. Tonkin**, J. Wang, J. Lu, Z. Zhang, Y. Zhang, A. J. McCarthy, and R. Sekar. (*In press*). Urbanization impacts the physicochemical characteristics and abundance of fecal markers and bacterial pathogens in surface water. *International Journal of Environmental Research and Public Health*. 
+[57] **Tonkin, J. D.**\*, N. L. Poff\*, N. R. Bond, A. Horne, D. M. Merritt, L. V. Reynolds, J. D. Olden, A. Ruhi, and D. A. Lytle. 2019. <a href="http://dx.doi.org/10.1038/d41586-019-01877-1" target="_blank"> Nature </a> 570:301-303. \**Authors contributed equally*
 
-[55] Rogosch, J. S., **J. D. Tonkin**, D. A. Lytle, D. M. Merritt, L. V. Reynolds, and J. D. Olden. (*In press*). Increasing droughts favor nonnative fishes in a dryland river: evidence from a multispecies demographic model. *Ecosphere*.
+[56] Yuan, T, K. Kumar Vadde, **J D. Tonkin**, J. Wang, J. Lu, Z. Zhang, Y. Zhang, A. J. McCarthy, and R. Sekar. 2019. Urbanization impacts the physicochemical characteristics and abundance of fecal markers and bacterial pathogens in surface water. <a href="http://dx.doi.org/10.3390/ijerph16101739" target="_blank"> International Journal of Environmental Research and Public Health </a> 16:1739. 
+
+[55] Rogosch, J. S., **J. D. Tonkin**, D. A. Lytle, D. M. Merritt, L. V. Reynolds, and J. D. Olden. 2019. Increasing droughts favor nonnative fishes in a dryland river: evidence from a multispecies demographic model. <a href="http://dx.doi.org/10.1002/ecs2.2681" target="_blank"> Ecosphere </a> 10:e02681. 
 
 [54] Haase, P., F. Pilotto, F. Li, A. Sundermann, A. W. Lorenz, **J. D. Tonkin**, and S. Stoll. 2019. Moderate warming over the past 25 years has already reorganized stream invertebrate communities. *Science of the Total Environment* 658:1531-1538.
 
@@ -114,7 +116,7 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 [44] **Tonkin, J. D.**, J. D. Olden, D. M. Merritt, L. V. Reynolds, and D. A. Lytle. 2018. Flow regime alteration degrades ecological networks in riparian ecosystems. <a href="http://dx.doi.org/10.1038/s41559-017-0379-0" target="_blank">Nature Ecology & Evolution</a> 2:86-93. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Nature_Eco_Evo.pdf" | absolute_url }})
 
-[43] **Tonkin, J. D.**, J. Heino, and F. Altermatt. 2018. Editorial: Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. <a href="http://dx.doi.org/10.1111/fwb.13045" target="_blank"> Freshwater Biology </a> 63:1-5. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology_Editorial.pdf" | absolute_url }})
+[43] **Tonkin, J. D.**, J. Heino, and F. Altermatt. 2018. Metacommunities in river networks: the importance of network structure and connectivity on patterns and processes. <a href="http://dx.doi.org/10.1111/fwb.13045" target="_blank"> Freshwater Biology </a> 63:1-5. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology_Editorial.pdf" | absolute_url }})
 
 [42] **Tonkin, J. D.**, F. Altermatt, D. Finn, J. Heino, J. D. Olden, S. U. Pauls, and D. A. Lytle. 2018. The role of dispersal in river network metacommunities: patterns, processes, and pathways. <a href="http://dx.doi.org/10.1111/fwb.13037" target="_blank">Freshwater Biology</a> 63:141–163. [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Freshwater_Biology.pdf" | absolute_url }})
 
