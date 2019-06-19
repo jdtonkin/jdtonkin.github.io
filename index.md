@@ -46,6 +46,8 @@ title: 'Home'
 
 <!-- TEMPLATE:  <span style="color:#999">DATE</span> » **TITLE**-->
 
+<span style="color:#999">19 June 2019</span> » **New paper in Nature** Our paper on preparing river ecosystems for an uncertain future came out today in [Nature](https://www.nature.com/articles/d41586-019-01877-1). We make a call for a change in the way we manage and model river ecosystems, arguing that we can no longer aim to restore river ecosystems to historical or ‘natural’ states, because often, and increasingly, those states no longer exist. We also suggest that models that are based on past correlations do poorly looking into the future for how species may respond to unprecedented changes. We call for rivers to be managed adaptively and for researchers to develop forecasting tools that move beyond simply monitoring the state of ecosystems to establishing the biological mechanisms that underpin their survival.
+
 <span style="color:#999">18 Dec 2018</span> » **Paper accepted in Sci. Tot. Env.** We just had a paper accepted in Sci. Tot. Env. led by Peter Haase, Francesca Pilotto and Fengqing Li. This has been a long road, so it's nice to see it through review. The title gives the central result: Moderate warming over the past 25 years has already reorganized stream invertebrate communities. 
 
 <span style="color:#999">18 Dec 2018</span> » **Paper accepted in River Research and Applications.** We just had a paper accepted in River Research and Applications on: The three Rs of river ecosystem resilience: Resources, Recruitment and Refugia. Thanks to Kris Van Looy for leading this. This originated at a workshop in Berlin back in 2015, so it's nice to see it come through in the end. 
