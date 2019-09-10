@@ -83,6 +83,9 @@ You can also find my publications on [researchgate](https://www.researchgate.net
 
 **2019 and In press**  
 
+[58] Li, F., **J. D. Tonkin**, and P. Haase. *In press*. Local contribution to beta diversity is negatively linked with
+community-wide dispersal capacity in stream invertebrate communities. *Ecological Indicators*. 
+
 [57] **Tonkin, J. D.**\*, N. L. Poff\*, N. R. Bond, A. Horne, D. M. Merritt, L. V. Reynolds, J. D. Olden, A. Ruhi, and D. A. Lytle. 2019. Prepare river ecosystems for an uncertain future. <a href="http://dx.doi.org/10.1038/d41586-019-01877-1" target="_blank"> Nature </a> 570:301-303. \**Authors contributed equally*
 
 [56] Yuan, T, K. Kumar Vadde, **J D. Tonkin**, J. Wang, J. Lu, Z. Zhang, Y. Zhang, A. J. McCarthy, and R. Sekar. 2019. Urbanization impacts the physicochemical characteristics and abundance of fecal markers and bacterial pathogens in surface water. <a href="http://dx.doi.org/10.3390/ijerph16101739" target="_blank"> International Journal of Environmental Research and Public Health </a> 16:1739. 
